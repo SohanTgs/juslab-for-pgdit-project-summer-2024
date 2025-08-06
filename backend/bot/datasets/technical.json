@@ -1,0 +1,202 @@
+[
+    {
+        "question": "What tech do I need for PGDIT?",
+        "answer": ["Just a laptop! We recommend one that can handle basic coding and software."]
+    },
+    {
+        "question": "Is Python taught from scratch?",
+        "answer": ["Yes! We start with Python basics - no prior experience needed."]
+    },
+    {
+        "question": "Are there any prerequisites?",
+        "answer": ["Just a bachelor's degree and enthusiasm for IT! No technical background required."]
+    },
+    {
+        "question": "How's the WiFi on campus?",
+        "answer": ["JU has solid WiFi - perfect for all your PGDIT research and projects!"]
+    },
+    {
+        "question": "Do we get software licenses?",
+        "answer": ["Yes! Students get access to necessary software through JU's licenses."]
+    },
+    {
+        "question": "What programming languages are covered in PGDIT?",
+        "answer": ["We cover Python, Java, and JavaScript - focusing on practical applications."]
+    },
+    {
+        "question": "Is there any hardware requirement for the course?",
+        "answer": ["A modern laptop with 8GB RAM and i5 processor or equivalent is recommended."]
+    },
+    {
+        "question": "Do we need to buy any software?",
+        "answer": ["No! All required software is provided through JU's educational licenses."]
+    },
+    {
+        "question": "Are there any database systems taught?",
+        "answer": ["Yes! MySQL and MongoDB are covered in the database modules."]
+    },
+    {
+        "question": "What IDE should we use?",
+        "answer": ["You can use VS Code, PyCharm, or Eclipse - we'll guide you through setup."]
+    },
+    {
+        "question": "Is there cloud computing in the syllabus?",
+        "answer": ["Yes! We cover AWS and Azure fundamentals in later terms."]
+    },
+    {
+        "question": "Do we learn about cybersecurity?",
+        "answer": ["Basic cybersecurity principles are included in the networking modules."]
+    },
+    {
+        "question": "What version of Python is taught?",
+        "answer": ["We use Python 3.x with focus on current industry standards."]
+    },
+    {
+        "question": "Are there any mobile development topics?",
+        "answer": ["Yes! Basic Android development with Java/Kotlin is included."]
+    },
+    {
+        "question": "Do we get GitHub access?",
+        "answer": ["Yes! Students get GitHub Education benefits for repositories."]
+    },
+    {
+        "question": "What networking concepts are covered?",
+        "answer": ["TCP/IP, HTTP/HTTPS, DNS, and basic network architecture."]
+    },
+    {
+        "question": "Is machine learning included?",
+        "answer": ["Yes! An introductory ML module using Python is included."]
+    },
+    {
+        "question": "What operating system is recommended?",
+        "answer": ["Windows, MacOS or Linux all work - we support all platforms."]
+    },
+    {
+        "question": "Are there any IoT components?",
+        "answer": ["Basic IoT concepts are covered in the emerging technologies module."]
+    },
+    {
+        "question": "Do we need a graphics card for the course?",
+        "answer": ["Not required, but helpful if you're interested in ML projects."]
+    },
+    {
+        "question": "What web technologies are taught?",
+        "answer": ["HTML5, CSS3, JavaScript, and basic React framework."]
+    },
+    {
+        "question": "Is Docker included in the curriculum?",
+        "answer": ["Yes! Containerization basics are covered in deployment modules."]
+    },
+    {
+        "question": "What about version control systems?",
+        "answer": ["Git is taught thoroughly with practical GitHub integration."]
+    },
+    {
+        "question": "Are there any AI topics?",
+        "answer": ["Introductory AI concepts are included in the ML module."]
+    },
+    {
+        "question": "What office software is provided?",
+        "answer": ["Full Office 365 suite including Teams for collaboration."]
+    },
+    {
+        "question": "Is there any blockchain content?",
+        "answer": ["Basic blockchain principles are covered in security modules."]
+    },
+    {
+        "question": "Do we get any cloud credits?",
+        "answer": ["Yes! AWS Educate and Azure student credits are available."]
+    },
+    {
+        "question": "What testing frameworks are taught?",
+        "answer": ["JUnit for Java and pytest for Python testing."]
+    },
+    {
+        "question": "Is there any UI/UX design content?",
+        "answer": ["Basic UI/UX principles are included in web development modules."]
+    },
+    {
+        "question": "What about big data technologies?",
+        "answer": ["Introductory Hadoop and Spark concepts are covered."]
+    },
+    {
+        "question": "Do we need any special peripherals?",
+        "answer": ["Just standard laptop accessories - no special hardware needed."]
+    },
+    {
+        "question": "Is there any ERP system training?",
+        "answer": ["Basic SAP concepts are introduced in business systems modules."]
+    },
+    {
+        "question": "What virtualization software is used?",
+        "answer": ["VirtualBox for running different operating systems."]
+    },
+    {
+        "question": "Are there any game development topics?",
+        "answer": ["Basic game programming concepts using Python are included."]
+    },
+    {
+        "question": "What about quantum computing?",
+        "answer": ["It's not currently in the core curriculum but may be added."]
+    },
+    {
+        "question": "Do we learn about APIs?",
+        "answer": ["Yes! REST API development and consumption is thoroughly covered."]
+    },
+    {
+        "question": "Is there any DevOps content?",
+        "answer": ["Basic CI/CD concepts are included in deployment modules."]
+    },
+    {
+        "question": "What mobile OS is focused on?",
+        "answer": ["Android development is our primary mobile focus."]
+    },
+    {
+        "question": "Are there any AR/VR components?",
+        "answer": ["Not currently, but we're exploring adding these concepts."]
+    },
+    {
+        "question": "What about natural language processing?",
+        "answer": ["Basic NLP concepts are included in the AI/ML modules."]
+    },
+    {
+        "question": "Is there any robotics programming?",
+        "answer": ["Not in the current curriculum, but possible in future updates."]
+    },
+    {
+        "question": "Do we get MATLAB access?",
+        "answer": ["Yes! MATLAB is available through JU's academic license."]
+    },
+    {
+        "question": "What about computer vision?",
+        "answer": ["Basic OpenCV concepts are included in AI modules."]
+    },
+    {
+        "question": "Is there any embedded systems content?",
+        "answer": ["Basic concepts are covered in IoT modules."]
+    },
+    {
+        "question": "Do we learn about microservices?",
+        "answer": ["Yes! Architecture patterns including microservices are covered."]
+    },
+    {
+        "question": "What about serverless computing?",
+        "answer": ["AWS Lambda and Azure Functions are introduced in cloud modules."]
+    },
+    {
+        "question": "Is there any mainframe exposure?",
+        "answer": ["Not in the current curriculum."]
+    },
+    {
+        "question": "Do we get any cybersecurity tools?",
+        "answer": ["Yes! Access to Kali Linux and other security tools is provided."]
+    },
+    {
+        "question": "What about data visualization tools?",
+        "answer": ["Tableau Public and Matplotlib/Seaborn in Python are covered."]
+    },
+    {
+        "question": "Is there any 5G technology content?",
+        "answer": ["Basic 5G concepts are included in networking modules."]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "question": "Hi, when are classes held?",
+        "answer": ["Classes are on Fridays and Saturdays from 9 AM to 6:30 PM."]
+    },
+    {
+        "question": "Hi, is it a full-time course?",
+        "answer": ["No, it's a part-time weekend course, perfect for professionals."]
+    },
+    {
+        "question": "Hello, how long is the PGDIT program?",
+        "answer": ["The program runs for one year, divided into multiple modules."]
+    },
+    {
+        "question": "Hi, when are PGDIT classes held?",
+        "answer": ["Classes are held every Friday and Saturday."]
+    },
+    {
+        "question": "Hello, what time do classes start?",
+        "answer": ["Classes start at 9 AM."]
+    },
+    {
+        "question": "Hi, when do classes end?",
+        "answer": ["Classes end at 6:30 PM."]
+    },
+    {
+        "question": "Hi, is PGDIT a full-time or part-time course?",
+        "answer": ["It is a part-time program designed for weekends."]
+    },
+    {
+        "question": "Hello, how long does the PGDIT program last?",
+        "answer": ["The program lasts for one year."]
+    },
+    {
+        "question": "Hi, how many credit hours are needed to finish?",
+        "answer": ["You need to complete 36 credits."]
+    },
+    {
+        "question": "Hi, how often are classes conducted?",
+        "answer": ["Classes are conducted twice a week on weekends."]
+    },
+    {
+        "question": "Hello, are there evening classes?",
+        "answer": ["Classes run during daytime on Fridays and Saturdays."]
+    },
+    {
+        "question": "Hi, can I attend classes online?",
+        "answer": ["No, classes are conducted on campus only."]
+    },
+    {
+        "question": "Hi, how many hours is each class day?",
+        "answer": ["Each class day lasts about 9.5 hours including breaks."]
+    },
+    {
+        "question": "Hello, are there breaks during class?",
+        "answer": ["Yes, there are short breaks for refreshments."]
+    },
+    {
+        "question": "Hi, how many semesters are there in PGDIT?",
+        "answer": ["The program is completed in one year, usually split into semesters or modules."]
+    },
+    {
+        "question": "Hi, can I complete the program faster?",
+        "answer": ["The program is designed to finish within one year."]
+    },
+    {
+        "question": "Hello, what if I miss a class?",
+        "answer": ["You should try to attend all classes, but you may be able to catch up with notes or faculty help."]
+    },
+    {
+        "question": "Hi, are there lab sessions included?",
+        "answer": ["Yes, practical lab sessions are included during class days."]
+    },
+    {
+        "question": "Hi, when is the class schedule published?",
+        "answer": ["Schedules are usually published before classes start."]
+    },
+    {
+        "question": "Hello, can the class schedule change?",
+        "answer": ["Schedules may change, so check notices regularly."]
+    },
+    {
+        "question": "Hi, is attendance mandatory?",
+        "answer": ["Yes, attendance is required for successful completion."]
+    },
+    {
+        "question": "Hi, how many weeks does a semester last?",
+        "answer": ["A semester typically lasts 4-6 months."]
+    },
+    {
+        "question": "Hello, are there exams during the program?",
+        "answer": ["Yes, exams and assignments occur during the course."]
+    },
+    {
+        "question": "Hi, how are classes scheduled around public holidays?",
+        "answer": ["Classes are usually not held on public holidays."]
+    },
+    {
+        "question": "Hi, can I get class recordings if I miss a session?",
+        "answer": ["Recordings may not be available since classes are in-person."]
+    },
+    {
+        "question": "Hello, what is the typical daily schedule?",
+        "answer": ["Classes start at 9 AM with lectures, labs, and breaks until 6:30 PM."]
+    },
+    {
+        "question": "Hi, are classes held on national holidays?",
+        "answer": ["No, classes are usually canceled on national holidays."]
+    },
+    {
+        "question": "Hi, can I attend classes remotely during emergencies?",
+        "answer": ["Currently, classes are on campus only."]
+    }
+]

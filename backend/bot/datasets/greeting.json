@@ -1,0 +1,22 @@
+[
+    {
+        "question": "hello",
+        "answer": ["Hello! How can I help you with PGDIT information today?"]
+    },
+    {
+        "question": "hi",
+        "answer": ["Hi there! Welcome to JU PGDIT information service."]
+    },
+    {
+        "question": "good morning",
+        "answer": ["Good morning! Ask me anything about the PGDIT program."]
+    },
+    {
+        "question": "how are you",
+        "answer": ["I'm doing well, thank you! How can I assist you with PGDIT queries?"]
+    },
+    {
+        "question": "what's up",
+        "answer": ["All good here! Ready to provide PGDIT program information."]
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "question": "Where do students hang out?",
+        "answer": ["JU campus has great spots! Many PGDIT students chill at the IIT building or lakeside."]
+    },
+    {
+        "question": "Are there group studies?",
+        "answer": ["Absolutely! Students often form study groups - great for networking too."]
+    },
+    {
+        "question": "How's the food situation?",
+        "answer": ["Campus has affordable canteens, and there are great local places nearby!"]
+    },
+    {
+        "question": "Is there a PGDIT community?",
+        "answer": ["Yes! Active alumni networks and current student groups you can join."]
+    },
+    {
+        "question": "What's the class vibe like?",
+        "answer": ["Friendly and collaborative! Evening students are serious but supportive."]
+    },
+
+    {
+        "question": "What's the library situation for evening students?",
+        "answer": ["JU's central library stays open until 8 PM - perfect for PGDIT students after class!"]
+    },
+    {
+        "question": "Are there computer labs we can use?",
+        "answer": ["Yes! IIT has dedicated computer labs open until 9 PM for PGDIT students."]
+    },
+    {
+        "question": "Where's the best place to study between classes?",
+        "answer": ["The IIT common room or lakeside benches are student favorites for quiet study."]
+    },
+    {
+        "question": "Is there parking for evening students?",
+        "answer": ["Yes! The campus has secure parking areas that remain open for night classes."]
+    },
+    {
+        "question": "Are there prayer facilities on campus?",
+        "answer": ["JU has prayer rooms in multiple buildings, including near the IIT department."]
+    },
+    {
+        "question": "Do students organize any tech events?",
+        "answer": ["Absolutely! Hackathons and tech talks happen regularly - great for networking."]
+    },
+    {
+        "question": "Is there a PGDIT Facebook group?",
+        "answer": ["Yes! Current students run an active Facebook group for discussions and updates."]
+    },
+    {
+        "question": "Do seniors help new students?",
+        "answer": ["Definitely! Our buddy system pairs newcomers with experienced PGDIT students."]
+    },
+    {
+        "question": "Are there any annual PGDIT events?",
+        "answer": ["The PGDIT Tech Fest and Alumni Meet are highlights every year!"]
+    },
+    {
+        "question": "Can we connect with alumni?",
+        "answer": ["Yes! The department organizes regular alumni-student networking sessions."]
+    },
+    {
+        "question": "Where's the best cheap eat near campus?",
+        "answer": ["'Campus Corner' near Gate 2 serves amazing shawarma at student-friendly prices!"]
+    },
+    {
+        "question": "Any good coffee spots for late-night study?",
+        "answer": ["'Caffeine Hub' near campus stays open until midnight with student discounts."]
+    },
+    {
+        "question": "Is there food delivery to campus?",
+        "answer": ["Most delivery services come to JU - students often order to the IIT building."]
+    },
+    {
+        "question": "Where do students go for group meals?",
+        "answer": ["'Food Valley' near Gate 3 is popular for affordable group dinners after class."]
+    },
+    {
+        "question": "Any halal food options?",
+        "answer": ["All campus canteens and most nearby restaurants serve halal food."]
+    },
+    {
+        "question": "Is there tutoring support?",
+        "answer": ["Senior students often volunteer as tutors for challenging subjects."]
+    },
+    {
+        "question": "Can we form study groups?",
+        "answer": ["Absolutely! Many students create WhatsApp groups by subject for collaboration."]
+    },
+    {
+        "question": "Are past exams available for practice?",
+        "answer": ["Yes! The department maintains a repository of previous years' questions."]
+    },
+    {
+        "question": "How do students handle group projects?",
+        "answer": ["Most groups meet on weekends or use Google Meet for virtual collaboration."]
+    },
+    {
+        "question": "Is there a writing center for assignments?",
+        "answer": ["JU's academic support center helps with technical writing and presentations."]
+    },
+    {
+        "question": "How do working professionals manage the workload?",
+        "answer": ["Most working students dedicate weekends to studies - time management is key!"]
+    },
+    {
+        "question": "Is it okay to miss classes for work?",
+        "answer": ["Occasional absences are understandable, but try not to miss lab sessions."]
+    },
+    {
+        "question": "How many hours weekly outside class?",
+        "answer": ["Most students spend 10-15 hours weekly on assignments and self-study."]
+    },
+    {
+        "question": "Any tips for balancing job and PGDIT?",
+        "answer": ["Prioritize weekly planning and communicate with employers about your schedule."]
+    },
+    {
+        "question": "Do companies give study leave for PGDIT?",
+        "answer": ["Some do! It never hurts to ask - many employers value upskilling."]
+    },
+    {
+        "question": "What's the dress code on campus?",
+        "answer": ["Casual but modest - jeans and shirts are perfectly acceptable."]
+    },
+    {
+        "question": "Are there any campus traditions?",
+        "answer": ["The annual JU IT Fair and PGDIT alumni reunion are must-attend events!"]
+    },
+    {
+        "question": "How diverse are PGDIT batches?",
+        "answer": ["Very! Our students come from different professions, ages, and backgrounds."]
+    },
+    {
+        "question": "Is there any campus radio or media?",
+        "answer": ["JU has an active campus radio station that sometimes features tech talks."]
+    },
+    {
+        "question": "What's unique about JU's campus life?",
+        "answer": ["The beautiful lake and greenery make it one of Dhaka's most scenic campuses!"]
+    },
+    {
+        "question": "Can PGDIT students join clubs?",
+        "answer": ["Absolutely! The JU Computer Club and Debate Society are popular choices."]
+    },
+    {
+        "question": "Are there sports facilities?",
+        "answer": ["Yes! The gym and sports complex are open to evening students too."]
+    },
+    {
+        "question": "Any programming competitions?",
+        "answer": ["IIT hosts regular coding contests with prizes for top performers."]
+    },
+    {
+        "question": "Can students start their own clubs?",
+        "answer": ["Yes! Many PGDIT students have launched tech interest groups."]
+    },
+    {
+        "question": "Are there cultural events?",
+        "answer": ["JU's annual cultural fest always includes tech-themed performances too."]
+    },
+    {
+        "question": "Where do most students live?",
+        "answer": ["Many rent in Savar or Ashulia, while some commute from Dhaka."]
+    },
+    {
+        "question": "Is there student housing?",
+        "answer": ["JU has limited dormitory space that evening students can apply for."]
+    },
+    {
+        "question": "What's the best transport option?",
+        "answer": ["Ride-sharing with classmates or JU shuttle buses are most economical."]
+    },
+    {
+        "question": "How safe is campus at night?",
+        "answer": ["JU has good security, especially around the IIT building at night."]
+    },
+    {
+        "question": "Any carpool groups?",
+        "answer": ["Students maintain active carpool WhatsApp groups by area."]
+    }
+]

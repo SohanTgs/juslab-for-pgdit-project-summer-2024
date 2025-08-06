@@ -1,0 +1,22 @@
+[
+    {
+        "question": "pgdit subjects",
+        "answer": ["PGDIT includes subjects like Programming, Databases, Networks, and Web Technologies."]
+    },
+    {
+        "question": "first trimester subjects",
+        "answer": ["Trimester 1 covers Programming Fundamentals, Database Systems, and Computer Networks."]
+    },
+    {
+        "question": "second trimester courses",
+        "answer": ["Trimester 2 includes Software Engineering, Data Structures, and System Analysis."]
+    },
+    {
+        "question": "final trimester subjects",
+        "answer": ["Trimester 3 focuses on Project Work, Advanced IT Topics, and Professional Practice."]
+    },
+    {
+        "question": "elective courses",
+        "answer": ["PGDIT offers electives in AI, Cybersecurity, and Data Science in trimesters 2 and 3."]
+    }
+]

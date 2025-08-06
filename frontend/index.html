@@ -1,0 +1,1290 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JU PGDIT Program - Institute of Information Technology</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <style>
+        :root {
+            --ju-primary: #0056b3;
+            --ju-secondary: #003366;
+            --ju-accent: #ff6b35;
+            --ju-light: #f8f9fa;
+            --ju-dark: #212529;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            overflow-x: hidden;
+        }
+
+        .bg-ju-gradient {
+            background: linear-gradient(135deg, var(--ju-primary), var(--ju-secondary));
+        }
+
+        .text-ju-accent {
+            color: var(--ju-accent);
+        }
+
+        .btn-ju {
+            background-color: var(--ju-accent);
+            color: white;
+            border: none;
+            padding: 10px 25px;
+            border-radius: 30px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .btn-ju:hover {
+            background-color: #e05a2b;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255, 107, 53, 0.3);
+            color: white;
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            color: var(--ju-primary);
+            margin-bottom: 1rem;
+        }
+
+        .card-hover {
+            transition: all 0.3s;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .card-hover:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 3rem;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 1.5rem;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--ju-primary);
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 2rem;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -3rem;
+            top: 0.3rem;
+            width: 1.2rem;
+            height: 1.2rem;
+            border-radius: 50%;
+            background: var(--ju-accent);
+            border: 3px solid white;
+        }
+
+        /* CHATBOT STYLES */
+        .chatbot-container {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            z-index: 1000;
+            width: 380px;
+            max-width: 90%;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            gap: 15px;
+        }
+
+        .chatbot-toggle {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--ju-primary), var(--ju-secondary));
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 10px 25px rgba(0, 86, 179, 0.3);
+            border: none;
+            z-index: 1001;
+            transition: all 0.3s;
+        }
+
+        .chatbot-toggle:hover {
+            transform: scale(1.1) rotate(10deg);
+        }
+
+        .chatbot-toggle i {
+            font-size: 1.8rem;
+            transition: all 0.3s;
+        }
+
+        .chatbot-toggle.active i {
+            transform: rotate(360deg);
+        }
+
+        .chatbot-window {
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+            overflow: hidden;
+            transform: translateY(100%);
+            opacity: 0;
+            height: 0;
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chatbot-window.active {
+            transform: translateY(0);
+            opacity: 1;
+            height: 550px;
+        }
+
+        .chatbot-header {
+            background: linear-gradient(135deg, var(--ju-primary), var(--ju-secondary));
+            color: white;
+            padding: 1.2rem;
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+        .chatbot-header h5 {
+            margin: 0 0 0 15px;
+            font-weight: 600;
+        }
+
+        .chatbot-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--ju-primary);
+            font-size: 1.2rem;
+        }
+
+        .chatbot-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1.5rem;
+            background-color: #f8fafc;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .chatbot-footer {
+            padding: 1.2rem;
+            background-color: white;
+            border-top: 1px solid #e9ecef;
+            position: relative;
+        }
+
+        .chatbot-footer::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: 0;
+            right: 0;
+            height: 10px;
+            background: linear-gradient(to bottom, rgba(248, 250, 252, 0), rgba(248, 250, 252, 1));
+        }
+
+        .chatbot-input {
+            width: 100%;
+            padding: 0.8rem 1.2rem;
+            border: 1px solid #dee2e6;
+            border-radius: 30px;
+            outline: none;
+            transition: all 0.3s;
+        }
+
+        .chatbot-input:focus {
+            border-color: var(--ju-primary);
+            box-shadow: 0 0 0 0.25rem rgba(0, 86, 179, 0.25);
+        }
+
+        .message {
+            max-width: 80%;
+            padding: 0.8rem 1.2rem;
+            border-radius: 18px;
+            line-height: 1.5;
+            position: relative;
+            animation: fadeIn 0.3s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .user-message {
+            background-color: var(--ju-primary);
+            color: white;
+            margin-left: auto;
+            border-bottom-right-radius: 5px;
+        }
+
+        .bot-message {
+            background-color: white;
+            border: 1px solid #e9ecef;
+            margin-right: auto;
+            border-bottom-left-radius: 5px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        /* Improved quick questions section */
+        .quick-questions-intro {
+            margin-bottom: 8px;
+            /* Space between text and buttons */
+        }
+
+        .quick-questions-container {
+            margin-top: 10px;
+            /* Space above quick questions */
+        }
+
+        .quick-questions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            /* Space between buttons */
+        }
+
+        .quick-question {
+            background-color: #e9ecef;
+            border: none;
+            border-radius: 20px;
+            padding: 6px 12px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+
+        .quick-question:hover {
+            background-color: #dee2e6;
+        }
+
+        .typing-indicator {
+            display: flex;
+            padding: 0.8rem 1.2rem;
+            background-color: white;
+            border-radius: 18px;
+            border: 1px solid #e9ecef;
+            width: fit-content;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            margin-bottom: 15px;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            background-color: #adb5bd;
+            border-radius: 50%;
+            margin: 0 3px;
+            animation: typing 1.4s infinite ease-in-out;
+        }
+
+        .typing-dot:nth-child(1) {
+            animation-delay: 0s;
+        }
+
+        .typing-dot:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .typing-dot:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes typing {
+
+            0%,
+            60%,
+            100% {
+                transform: translateY(0);
+            }
+
+            30% {
+                transform: translateY(-5px);
+            }
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .chatbot-container {
+                right: 20px;
+                bottom: 20px;
+                width: 90%;
+            }
+
+            .chatbot-window.active {
+                height: 450px;
+            }
+
+            .chatbot-body {
+                height: 320px;
+                padding: 1rem;
+            }
+
+            .chatbot-toggle {
+                width: 60px;
+                height: 60px;
+            }
+
+            .chatbot-footer {
+                padding: 1rem;
+            }
+
+            .chatbot-input {
+                padding: 0.7rem 1rem;
+            }
+
+            .quick-question {
+                padding: 5px 10px;
+                font-size: 0.8rem;
+            }
+        }
+
+        .quick-questions-intro {
+            font-size: 0.9rem;
+            color: #6c757d;
+            margin-bottom: 8px;
+        }
+
+        .quick-questions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 5px;
+        }
+
+        .quick-question {
+            background-color: #e9ecef;
+            border: none;
+            border-radius: 20px;
+            padding: 6px 12px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: normal;
+            text-align: left;
+        }
+
+        .quick-question:hover {
+            background-color: #dee2e6;
+            transform: translateY(-1px);
+        }
+
+        .message-time {
+            font-size: 0.7rem;
+            opacity: 0.7;
+            margin-top: 4px;
+            text-align: right;
+        }
+
+        .user-message .message-time {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .bot-message .message-time {
+            color: rgba(0, 0, 0, 0.6);
+        }
+
+        /* Compact suggestion style */
+        .compact-suggestions {
+            margin-top: 8px;
+            font-size: 0.85rem;
+        }
+
+        .compact-suggestions-title {
+            color: #6c757d;
+            margin-bottom: 4px;
+        }
+
+        .compact-suggestion {
+            display: inline-block;
+            background-color: #f1f3f5;
+            border-left: 3px solid var(--ju-accent);
+            padding: 4px 8px;
+            margin: 2px 4px 2px 0;
+            cursor: pointer;
+            transition: all 0.2s;
+            border-radius: 2px;
+        }
+
+        .compact-suggestion:hover {
+            background-color: #e9ecef;
+            transform: translateX(2px);
+        }
+
+        .recording {
+            animation: pulse 1.5s infinite;
+            background-color: #dc3545 !important;
+            color: white !important;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.1);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        @media(max-width: 360px){
+            .chatbot-header h5{
+                margin: 0 0 0 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-ju-gradient py-3">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#">
+                <i class="fas fa-university me-2"></i>JU PGDIT
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#program">Program</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#curriculum">Curriculum</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#admission">Admission</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                </ul>
+                <a href="#apply" class="btn btn-ju ms-lg-3 mt-3 mt-lg-0">Apply Now</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="bg-ju-gradient text-white py-5">
+        <div class="container py-5">
+            <div class="row align-items-center">
+                <div class="col-lg-6 mb-5 mb-lg-0">
+                    <h1 class="display-4 fw-bold mb-4 animate__animated animate__fadeInUp">Post Graduate Diploma in
+                        Information Technology</h1>
+                    <p class="lead mb-4 animate__animated animate__fadeInUp animate__delay-1s">Advance your career with
+                        our intensive 1-year program designed for working professionals at Jahangirnagar University.</p>
+                    <div class="d-flex flex-wrap gap-3 animate__animated animate__fadeInUp animate__delay-2s">
+                        <a href="#apply" class="btn btn-ju btn-lg">Apply Now</a>
+                        <a href="#program" class="btn btn-outline-light btn-lg">Learn More</a>
+                    </div>
+                </div>
+                <!-- Hero Section - Replace first image with icon -->
+                <div class="col-lg-6 animate__animated animate__fadeIn text-center">
+                    <i class="fas fa-university fa-8x mb-4 text-ju-secondary"></i>
+                    <h4 class="text-ju-accent">PGDIT Program</h4>
+                    <p class="text-ju-accent">Advanced IT education for professionals</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Program Highlights -->
+    <section id="program" class="py-5 bg-light">
+        <div class="container py-5">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Program Highlights</h2>
+                <p class="lead text-muted">Designed to provide comprehensive IT knowledge for career advancement</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-3">
+                    <div class="card card-hover h-100">
+                        <div class="card-body text-center p-4">
+                            <div class="feature-icon">
+                                <i class="fas fa-laptop-code"></i>
+                            </div>
+                            <h5 class="card-title">Industry-Relevant Curriculum</h5>
+                            <p class="card-text">Cutting-edge courses aligned with current IT industry demands and
+                                emerging technologies.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card card-hover h-100">
+                        <div class="card-body text-center p-4">
+                            <div class="feature-icon">
+                                <i class="fas fa-user-tie"></i>
+                            </div>
+                            <h5 class="card-title">Working Professional Friendly</h5>
+                            <p class="card-text">Friday-Saturday schedule allows you to balance work and education
+                                effectively.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card card-hover h-100">
+                        <div class="card-body text-center p-4">
+                            <div class="feature-icon">
+                                <i class="fas fa-chalkboard-teacher"></i>
+                            </div>
+                            <h5 class="card-title">Expert Faculty</h5>
+                            <p class="card-text">Learn from experienced professors and industry practitioners.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card card-hover h-100">
+                        <div class="card-body text-center p-4">
+                            <div class="feature-icon">
+                                <i class="fas fa-network-wired"></i>
+                            </div>
+                            <h5 class="card-title">Networking Opportunities</h5>
+                            <p class="card-text">Connect with peers, alumni, and industry professionals.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Key Information -->
+    <section class="py-5">
+        <div class="container py-5">
+            <div class="row g-5 align-items-center">
+                <!-- Campus Section - Replace second image with icon -->
+                <div class="col-lg-6 text-center">
+                    <i class="fas fa-university fa-8x mb-4 text-ju-secondary"></i>
+                    <h4 class="text-ju-accent">Jahangirnagar University</h4>
+                    <p class="text-muted">Premier educational institution</p>
+                </div>
+                <div class="col-lg-6">
+                    <h2 class="fw-bold mb-4">Key Program Information</h2>
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3 text-ju-accent">
+                                    <i class="fas fa-calendar-alt fa-2x"></i>
+                                </div>
+                                <div>
+                                    <h5>Duration</h5>
+                                    <p class="mb-0">1 Year (3 Trimesters)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3 text-ju-accent">
+                                    <i class="fas fa-money-bill-wave fa-2x"></i>
+                                </div>
+                                <div>
+                                    <h5>Total Fee</h5>
+                                    <p class="mb-0">BDT 75,000</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3 text-ju-accent">
+                                    <i class="fas fa-user-graduate fa-2x"></i>
+                                </div>
+                                <div>
+                                    <h5>Eligibility</h5>
+                                    <p class="mb-0">Any graduate with minimum 2.5 CGPA</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3 text-ju-accent">
+                                    <i class="fas fa-clock fa-2x"></i>
+                                </div>
+                                <div>
+                                    <h5>Class Schedule</h5>
+                                    <p class="mb-0">Friday & Saturday</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="#admission" class="btn btn-ju mt-4">Admission Details</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Curriculum -->
+    <section id="curriculum" class="py-5 bg-light">
+        <div class="container py-5">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Curriculum Overview</h2>
+                <p class="lead text-muted">Comprehensive courses designed for IT professionals</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100">
+                        <div class="card-body p-4">
+                            <h5 class="card-title text-ju-accent">Trimester 1</h5>
+                            <ul class="list-unstyled">
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Programming
+                                    Fundamentals</li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Database Systems
+                                </li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Computer
+                                    Networks</li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Web Technologies
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100">
+                        <div class="card-body p-4">
+                            <h5 class="card-title text-ju-accent">Trimester 2</h5>
+                            <ul class="list-unstyled">
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Software
+                                    Engineering</li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Data Structures
+                                    & Algorithms</li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>System Analysis
+                                    & Design</li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Elective Course
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100">
+                        <div class="card-body p-4">
+                            <h5 class="card-title text-ju-accent">Trimester 3</h5>
+                            <ul class="list-unstyled">
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Project Work
+                                </li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Advanced Topics
+                                    in IT</li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Professional
+                                    Practice</li>
+                                <li class="mb-2"><i class="fas fa-check-circle text-ju-accent me-2"></i>Elective Course
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Admission Process -->
+    <section id="admission" class="py-5">
+        <div class="container py-5">
+            <div class="row g-5 align-items-center">
+                <div class="col-lg-6">
+                    <h2 class="fw-bold mb-4">Admission Process</h2>
+                    <div class="timeline">
+                        <div class="timeline-item">
+                            <h5>Application Submission</h5>
+                            <p>Complete the online application form with all required documents.</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>Application Fee Payment</h5>
+                            <p>Pay the non-refundable application fee through designated payment methods.</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>Admission Test</h5>
+                            <p>Appear for the admission test at the scheduled date and time.</p>
+                        </div>
+                        <div class="timeline-item">
+                            <h5>Registration</h5>
+                            <p>Complete registration formalities upon receiving admission offer.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="card card-hover border-0 shadow">
+                        <div class="card-body p-5">
+                            <h3 class="fw-bold mb-4 text-center">Application Requirements</h3>
+                            <ul class="list-unstyled">
+                                <li class="mb-3"><i class="fas fa-check-circle text-ju-accent me-2"></i>Completed
+                                    application form</li>
+                                <li class="mb-3"><i class="fas fa-check-circle text-ju-accent me-2"></i>Academic
+                                    transcripts</li>
+                                <li class="mb-3"><i class="fas fa-check-circle text-ju-accent me-2"></i>Copy of national
+                                    ID</li>
+                                <li class="mb-3"><i class="fas fa-check-circle text-ju-accent me-2"></i>Passport size
+                                    photographs</li>
+                                <li class="mb-3"><i class="fas fa-check-circle text-ju-accent me-2"></i>Application fee
+                                    payment receipt</li>
+                            </ul>
+                            <div class="text-center mt-4">
+                                <a href="#apply" class="btn btn-ju btn-lg">Start Application</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Apply Now -->
+    <section id="apply" class="py-5 bg-ju-gradient text-white">
+        <div class="container py-5">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h2 class="fw-bold mb-4">Ready to Transform Your Career?</h2>
+                    <p class="lead mb-5">Join the next generation of IT professionals with JU's PGDIT program.
+                        Applications are now open for the upcoming trimester.</p>
+                    <div class="d-flex flex-wrap justify-content-center gap-3">
+                        <a href="#" class="btn btn-light btn-lg px-4 py-3 fw-bold">Apply Online Now</a>
+                        <a href="#contact" class="btn btn-outline-light btn-lg px-4 py-3">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="py-5">
+        <div class="container py-5">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Contact Us</h2>
+                <p class="lead text-muted">Have questions? Get in touch with our admission team</p>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card card-hover h-100">
+                        <div class="card-body text-center p-4">
+                            <div class="feature-icon">
+                                <i class="fas fa-map-marker-alt"></i>
+                            </div>
+                            <h5 class="card-title">Location</h5>
+                            <p class="card-text">Institute of Information Technology<br>Jahangirnagar
+                                University<br>Savar, Dhaka</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card card-hover h-100">
+                        <div class="card-body text-center p-4">
+                            <div class="feature-icon">
+                                <i class="fas fa-phone-alt"></i>
+                            </div>
+                            <h5 class="card-title">Phone</h5>
+                            <p class="card-text">
+                                <a href="tel:+880XXXXXXXXXX" class="text-decoration-none">+880 XXXX XXXXXX</a><br>
+                                <a href="tel:+880XXXXXXXXXX" class="text-decoration-none">+880 XXXX XXXXXX</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card card-hover h-100">
+                        <div class="card-body text-center p-4">
+                            <div class="feature-icon">
+                                <i class="fas fa-envelope"></i>
+                            </div>
+                            <h5 class="card-title">Email</h5>
+                            <p class="card-text">
+                                <a href="mailto:pgdit@iit.ju.edu.bd"
+                                    class="text-decoration-none">pgdit@iit.ju.edu.bd</a><br>
+                                <a href="mailto:info@iit.ju.edu.bd" class="text-decoration-none">info@iit.ju.edu.bd</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5 class="fw-bold mb-3">JU PGDIT Program</h5>
+                    <p>Post Graduate Diploma in Information Technology<br>Institute of Information
+                        Technology<br>Jahangirnagar University</p>
+                </div>
+                <div class="col-md-3">
+                    <h5 class="fw-bold mb-3">Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><a href="#home" class="text-white text-decoration-none">Home</a></li>
+                        <li class="mb-2"><a href="#program" class="text-white text-decoration-none">Program</a></li>
+                        <li class="mb-2"><a href="#admission" class="text-white text-decoration-none">Admission</a></li>
+                        <li class="mb-2"><a href="#contact" class="text-white text-decoration-none">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5 class="fw-bold mb-3">Connect</h5>
+                    <div class="d-flex gap-3">
+                        <a href="#" class="text-white"><i class="fab fa-facebook-f fa-lg"></i></a>
+                        <a href="#" class="text-white"><i class="fab fa-twitter fa-lg"></i></a>
+                        <a href="#" class="text-white"><i class="fab fa-linkedin-in fa-lg"></i></a>
+                        <a href="#" class="text-white"><i class="fab fa-youtube fa-lg"></i></a>
+                    </div>
+                </div>
+            </div>
+            <hr class="my-4">
+            <div class="text-center">
+                <p class="mb-0">&copy; 2025 Jahangirnagar University - Institute of Information Technology. All rights
+                    reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Chatbot Container -->
+    <div class="chatbot-container">
+        <button class="chatbot-toggle" id="chatbotToggle">
+            <i class="fas fa-comment-dots"></i>
+        </button>
+
+        <div class="chatbot-window" id="chatbotWindow">
+            <div class="chatbot-header">
+                <div class="chatbot-avatar">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <h5>JusLab (PGDIT assistant)</h5>
+            </div>
+
+            <div class="chatbot-body" id="chatbotBody">
+                <div class="message bot-message">
+                    Hello! I'm the JusLab (PGDIT assistant). How can I help you today?
+                    <div class="message-time"></div>
+                </div>
+                <div class="message bot-message">
+                    You can ask me about:
+                    <div class="quick-questions">
+                        <button class="quick-question" onclick="sendQuickQuestion('What is PGDIT?')">What is PGDIT?</button>
+                        <button class="quick-question" onclick="sendQuickQuestion('Who can apply?')">Eligibility</button>
+                        <button class="quick-question" onclick="sendQuickQuestion('How to apply?')">How to apply?</button>
+                        <button class="quick-question" onclick="sendQuickQuestion('Class schedule?')">Class Schedule</button>
+                    </div>
+                    <div class="message-time"></div>
+                </div>
+            </div>
+
+            <div class="chatbot-footer">
+                <form id="chatbotForm" class="d-flex align-items-center gap-2">
+                    <input type="text" class="chatbot-input flex-grow-1" id="userInput"
+                        placeholder="Ask about PGDIT program..." autocomplete="off">
+                    <button type="button" id="voiceButton"
+                        class="btn btn-outline-secondary d-flex align-items-center justify-content-center" style="
+                            width: 50px; 
+                            height: 50px;
+                            border-radius: 50%;
+                            padding: 0;
+                            flex-shrink: 0;
+                        ">
+                        <i class="fas fa-microphone" style="font-size: 1.1rem;"></i>
+                    </button>
+                    <button type="submit" class="btn btn-ju d-flex align-items-center justify-content-center" style="
+                            width: 50px; 
+                            height: 50px;
+                            border-radius: 50%;
+                            padding: 0;
+                            flex-shrink: 0;
+                        ">
+                        <i class="fas fa-paper-plane" style="font-size: 1.1rem;"></i>
+                    </button>
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        // Chatbot functionality
+        const chatbotToggle = document.getElementById('chatbotToggle');
+        const chatbotWindow = document.getElementById('chatbotWindow');
+        const chatbotBody = document.getElementById('chatbotBody');
+        const userInput = document.getElementById('userInput');
+
+        let isChatbotOpen = false;
+        let isVoiceInput = false;
+
+        // Voice recognition functionality
+        const voiceButton = document.getElementById('voiceButton');
+        let recognition;
+        let isRecording = false;
+
+        // Initialize speech recognition
+        function initSpeechRecognition() {
+            const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+            if (SpeechRecognition) {
+                recognition = new SpeechRecognition();
+                recognition.continuous = false;
+                recognition.interimResults = false;
+                recognition.lang = 'en-US';
+
+                recognition.onstart = () => {
+                    isRecording = true;
+                    voiceButton.classList.add('recording');
+                    voiceButton.innerHTML = '<i class="fas fa-stop" style="font-size: 1.1rem;"></i>';
+                    userInput.placeholder = "Listening...";
+                };
+
+                recognition.onresult = (event) => {
+                    const transcript = event.results[0][0].transcript;
+                    userInput.value = transcript;
+                };
+
+                recognition.onerror = (event) => {
+                    console.error('Speech recognition error', event.error);
+                    addMessage("Sorry, I couldn't understand your voice. Please try again.", 'bot');
+                };
+
+                recognition.onend = () => {
+                    stopRecording();
+                    if (userInput.value.trim() !== '') {
+                        sendMessage(userInput.value.trim());
+                        userInput.value = '';
+                    }
+                };
+            } else {
+                voiceButton.style.display = 'none';
+                console.warn('Speech recognition not supported in this browser');
+            }
+        }
+
+        function startRecording() {
+            if (!recognition) {
+                initSpeechRecognition();
+            }
+            isVoiceInput = true; // Set flag for voice input
+            try {
+                recognition.start();
+            } catch (error) {
+                console.error('Speech recognition error:', error);
+                stopRecording();
+            }
+        }
+
+        function stopRecording() {
+            if (recognition && isRecording) {
+                try {
+                    recognition.stop();
+                } catch (error) {
+                    console.error('Error stopping recognition:', error);
+                }
+            }
+            isRecording = false;
+            voiceButton.classList.remove('recording');
+            voiceButton.innerHTML = '<i class="fas fa-microphone" style="font-size: 1.1rem;"></i>';
+            userInput.placeholder = "Ask about PGDIT program...";
+            // Don't reset isVoiceInput here - we need it for the message processing
+        }
+
+        // Toggle voice recording
+        voiceButton.addEventListener('click', () => {
+            if (isRecording) {
+                stopRecording();
+            } else {
+                startRecording();
+            }
+        });
+
+        // Initialize speech recognition when chatbot is opened
+        chatbotToggle.addEventListener('click', () => {
+            if (isChatbotOpen && !recognition) {
+                initSpeechRecognition();
+            }
+        });
+
+
+        // Toggle chatbot window with animation
+        chatbotToggle.addEventListener('click', () => {
+            isChatbotOpen = !isChatbotOpen;
+            chatbotWindow.classList.toggle('active', isChatbotOpen);
+            chatbotToggle.classList.toggle('active', isChatbotOpen);
+
+            if (isChatbotOpen) {
+                chatbotToggle.innerHTML = '<i class="fas fa-times"></i>';
+            } else {
+                chatbotToggle.innerHTML = '<i class="fas fa-comment-dots"></i>';
+            }
+        });
+
+        // Handle form submission
+        document.getElementById('chatbotForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            if (userInput.value.trim() !== '') {
+                isVoiceInput = false; // Text input, don't speak
+                sendMessage(userInput.value.trim());
+                userInput.value = '';
+            }
+        });
+
+        // Send message when Enter is pressed
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter' && userInput.value.trim() !== '') {
+                isVoiceInput = false; // Text input, don't speak
+                sendMessage(userInput.value.trim());
+                userInput.value = '';
+            }
+        });
+
+        // Function to send quick questions
+        function sendQuickQuestion(question) {
+            isVoiceInput = false; // Ensure quick questions don't trigger speech
+            sendMessage(question);
+        }
+
+        // Modify your sendMessage function to stop previous speech
+        function sendMessage(message) {
+            // Stop any ongoing speech
+            stopSpeech();
+
+            // Add user message to chat
+            addMessage(message, 'user');
+
+            // Show typing indicator
+            showTypingIndicator();
+
+            // Call API
+            fetch(`https://sohan.thesoftking.com/chatbot/api/chat/?message=${encodeURIComponent(message)}`)
+                .then(response => response.json())
+                .then(data => {
+                    removeTypingIndicator();
+                    addMessage(data.reply, 'bot');
+                    // Only speak if the input was from voice
+                    if (isVoiceInput) {
+                        speak(data.reply);
+                    }
+                    if (data.suggestions) addSuggestions(data.suggestions);
+                    
+                    // Reset the voice input flag after processing
+                    isVoiceInput = false;
+                })
+                .catch(error => {
+                    removeTypingIndicator();
+                    addMessage("Sorry, I'm having trouble connecting. Please try again later.", 'bot');
+                    console.error('Error:', error);
+                    // Reset the voice input flag even on error
+                    isVoiceInput = false;
+                });
+        }
+
+        // Global variable to track current speech utterance
+        let currentSpeechUtterance = null;
+
+        function speak(message) {
+            if ('speechSynthesis' in window) {
+                // Cancel any ongoing speech immediately
+                window.speechSynthesis.cancel();
+                currentSpeechUtterance = null;
+
+                // Create a new utterance
+                const msg = new SpeechSynthesisUtterance();
+                msg.text = message;
+                msg.volume = 1;
+                msg.rate = 1;
+                msg.pitch = 1;
+
+                // Store the current utterance
+                currentSpeechUtterance = msg;
+
+                // Handle when speech ends
+                msg.onend = function () {
+                    currentSpeechUtterance = null;
+                };
+
+                // Handle errors
+                msg.onerror = function (event) {
+                    console.error('SpeechSynthesis error:', event);
+                    currentSpeechUtterance = null;
+                };
+
+                // Wait for voices to be loaded
+                const voices = window.speechSynthesis.getVoices();
+                if (voices.length > 0) {
+                    const englishVoice = voices.find(voice =>
+                        voice.lang.includes('en') || voice.lang.includes('EN')
+                    );
+                    if (englishVoice) msg.voice = englishVoice;
+                    window.speechSynthesis.speak(msg);
+                } else {
+                    window.speechSynthesis.onvoiceschanged = function () {
+                        const availableVoices = window.speechSynthesis.getVoices();
+                        const englishVoice = availableVoices.find(voice =>
+                            voice.lang.includes('en') || voice.lang.includes('EN')
+                        );
+                        if (englishVoice) msg.voice = englishVoice;
+                        window.speechSynthesis.speak(msg);
+                    };
+                }
+            }
+        }
+
+        // Function to stop current speech
+        function stopSpeech() {
+            if ('speechSynthesis' in window && currentSpeechUtterance) {
+                window.speechSynthesis.cancel();
+                currentSpeechUtterance = null;
+            }
+        }
+
+        function addSuggestions(suggestions) {
+            const suggestionsDiv = document.createElement('div');
+            suggestionsDiv.classList.add('compact-suggestions');
+
+            let html = '<div class="compact-suggestions-title">Related queries:</div>';
+
+            suggestions.forEach(suggestion => {
+                html += `<div class="compact-suggestion" onclick="sendQuickQuestion('${suggestion}')">${suggestion}</div>`;
+            });
+
+            suggestionsDiv.innerHTML = html;
+
+            // Find the last bot message and append suggestions to it
+            const botMessages = document.querySelectorAll('.bot-message');
+            if (botMessages.length > 0) {
+                const lastBotMessage = botMessages[botMessages.length - 1];
+                lastBotMessage.appendChild(suggestionsDiv);
+            }
+
+            chatbotBody.scrollTop = chatbotBody.scrollHeight;
+        }
+
+        function addMessage(text, sender) {
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', `${sender}-message`);
+
+            // Create message content container
+            const messageContent = document.createElement('div');
+            messageContent.textContent = text;
+
+            // Create timestamp
+            const timeDiv = document.createElement('div');
+            timeDiv.classList.add('message-time');
+            timeDiv.textContent = getCurrentTime();
+
+            // Append elements
+            messageDiv.appendChild(messageContent);
+            messageDiv.appendChild(timeDiv);
+
+            chatbotBody.appendChild(messageDiv);
+            chatbotBody.scrollTop = chatbotBody.scrollHeight;
+        }
+
+        function getCurrentTime() {
+            const now = new Date();
+            let hours = now.getHours();
+            let minutes = now.getMinutes();
+            const ampm = hours >= 12 ? 'PM' : 'AM';
+
+            // Convert to 12-hour format
+            hours = hours % 12;
+            hours = hours ? hours : 12; // the hour '0' should be '12'
+
+            // Add leading zero to minutes
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+
+            return `${hours}:${minutes} ${ampm}`;
+        }
+
+        function showTypingIndicator() {
+            const typingDiv = document.createElement('div');
+            typingDiv.classList.add('typing-indicator');
+            typingDiv.id = 'typingIndicator';
+
+            for (let i = 0; i < 3; i++) {
+                const dot = document.createElement('div');
+                dot.classList.add('typing-dot');
+                typingDiv.appendChild(dot);
+            }
+
+            chatbotBody.appendChild(typingDiv);
+            chatbotBody.scrollTop = chatbotBody.scrollHeight;
+        }
+
+        function removeTypingIndicator() {
+            const typingIndicator = document.getElementById('typingIndicator');
+            if (typingIndicator) {
+                typingIndicator.remove();
+            }
+        }
+
+        function addQuickQuestions() {
+            const quickQuestionsDiv = document.createElement('div');
+            quickQuestionsDiv.classList.add('message', 'bot-message');
+            quickQuestionsDiv.innerHTML = `
+                You can also ask about:
+                <div class="quick-questions">
+                    <button class="quick-question" onclick="sendQuickQuestion('What is the duration?')">Duration</button>
+                    <button class="quick-question" onclick="sendQuickQuestion('What is the class schedule?')">Schedule</button>
+                    <button class="quick-question" onclick="sendQuickQuestion('What are the courses?')">Courses</button>
+                    <button class="quick-question" onclick="sendQuickQuestion('Contact information')">Contact</button>
+                </div>
+            `;
+            chatbotBody.appendChild(quickQuestionsDiv);
+            chatbotBody.scrollTop = chatbotBody.scrollHeight;
+        }
+
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Stop speech when page loads/unloads
+        window.addEventListener('load', stopSpeech);
+        window.addEventListener('beforeunload', stopSpeech);
+        window.addEventListener('unload', stopSpeech);
+    </script>
+</body>
+
+</html>

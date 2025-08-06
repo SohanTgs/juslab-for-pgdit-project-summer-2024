@@ -1,0 +1,194 @@
+[
+    {
+        "question": "Hi, what career opportunities does PGDIT offer?",
+        "answer": ["Graduates can work as software developers, data analysts, system administrators, and more."]
+    },
+    {
+        "question": "Hello, does the program help with job placement?",
+        "answer": ["Yes, the institute offers job placement assistance and career counseling."]
+    },
+    {
+        "question": "Hi, can PGDIT graduates work abroad?",
+        "answer": ["Yes, the skills taught are globally relevant for IT jobs."]
+    },
+    {
+        "question": "Hi, are there internship opportunities during the course?",
+        "answer": ["Internships are encouraged and the institute helps connect students with companies."]
+    },
+    {
+        "question": "Hello, does PGDIT teach interview preparation?",
+        "answer": ["Yes, career services include mock interviews and resume workshops."]
+    },
+    {
+        "question": "Hi, can I expect a good salary after completing PGDIT?",
+        "answer": ["Salaries vary, but many graduates secure well-paying IT jobs."]
+    },
+    {
+        "question": "Hi, does the program cover freelancing skills?",
+        "answer": ["Yes, entrepreneurship and freelancing basics are part of career guidance."]
+    },
+    {
+        "question": "Hello, are alumni connected for networking?",
+        "answer": ["Yes, the alumni network helps with mentoring and job referrals."]
+    },
+    {
+        "question": "Hi, do companies recruit directly from PGDIT?",
+        "answer": ["Some companies visit for recruitment and internships."]
+    },
+    {
+        "question": "Hi, is there support for starting a tech business?",
+        "answer": ["Yes, entrepreneurship support and workshops are offered."]
+    },
+    {
+        "question": "Hello, does PGDIT help with certification exams?",
+        "answer": ["Career guidance includes info on professional certifications."]
+    },
+    {
+        "question": "Hi, what sectors can I work in after PGDIT?",
+        "answer": ["IT, finance, telecom, education, and government sectors all hire PGDIT grads."]
+    },
+    {
+        "question": "Hi, does the program prepare me for management roles?",
+        "answer": ["Yes, IT project management and leadership skills are taught."]
+    },
+    {
+        "question": "Hello, are soft skills part of the training?",
+        "answer": ["Yes, communication and teamwork skills are emphasized."]
+    },
+    {
+        "question": "Hi, do I get help with building a professional portfolio?",
+        "answer": ["Yes, students get support creating portfolios and GitHub profiles."]
+    },
+    {
+        "question": "Hi, can PGDIT help me switch careers into IT?",
+        "answer": ["Absolutely, it’s designed for both fresh graduates and career switchers."]
+    },
+    {
+        "question": "Hello, how long after graduation can I expect to find a job?",
+        "answer": ["Many find jobs within 3-6 months with the institute's support."]
+    },
+    {
+        "question": "Hi, are there opportunities for higher studies after PGDIT?",
+        "answer": ["Yes, PGDIT graduates can pursue MSc or other advanced degrees."]
+    },
+    {
+        "question": "Hi, do I get career fairs or job events?",
+        "answer": ["Yes, career fairs and networking events are organized regularly."]
+    },
+    {
+        "question": "Hello, does the program help with CV writing?",
+        "answer": ["Yes, professional CV writing assistance is available."]
+    },
+    {
+        "question": "Hi, can I work as a data scientist after PGDIT?",
+        "answer": ["With additional experience or study, yes, data science is a potential career."]
+    },
+    {
+        "question": "Hi, is programming knowledge enough to get a job?",
+        "answer": ["Programming is essential, but soft skills and practical experience matter too."]
+    },
+    {
+        "question": "Hello, do students get mentorship from industry professionals?",
+        "answer": ["Yes, mentorship programs connect students with experienced IT professionals."]
+    },
+    {
+        "question": "Hi, is the PGDIT recognized by employers?",
+        "answer": ["Yes, it is well-regarded by local and regional employers."]
+    },
+    {
+        "question": "Hi, can I work in cybersecurity after PGDIT?",
+        "answer": ["Yes, the program covers cybersecurity basics to help you start in that field."]
+    },
+    {
+        "question": "Hello, do I get help finding freelance projects?",
+        "answer": ["Career services provide guidance for freelancing platforms and opportunities."]
+    },
+    {
+        "question": "Hi, does the course include resume and LinkedIn profile help?",
+        "answer": ["Yes, LinkedIn profile optimization and resume workshops are provided."]
+    },
+    {
+        "question": "Hi, can PGDIT help me get government IT jobs?",
+        "answer": ["Many graduates successfully enter government IT roles."]
+    },
+    {
+        "question": "Hello, are there alumni success stories shared?",
+        "answer": ["Yes, success stories are showcased to inspire current students."]
+    },
+    {
+        "question": "Hi, can PGDIT prepare me for certification exams like AWS or Microsoft?",
+        "answer": ["Yes, the curriculum introduces you to key certifications and how to prepare."]
+    },
+    {
+        "question": "Hi, what companies hire PGDIT graduates?",
+        "answer": ["Graduates work in IT firms, banks, telecoms, NGOs, and startups."]
+    },
+    {
+        "question": "Hello, is there training on soft skills like communication?",
+        "answer": ["Yes, communication skills training is part of career development."]
+    },
+    {
+        "question": "Hi, does the institute help with interview scheduling?",
+        "answer": ["Yes, they assist in connecting students with recruiters."]
+    },
+    {
+        "question": "Hi, are there workshops on entrepreneurship?",
+        "answer": ["Yes, workshops on starting your own IT business are held."]
+    },
+    {
+        "question": "Hello, do I need to prepare my own projects for job applications?",
+        "answer": ["Projects done during the course form a solid portfolio."]
+    },
+    {
+        "question": "Hi, can PGDIT help me switch to data analysis roles?",
+        "answer": ["Yes, data analysis is a strong focus area for career transitions."]
+    },
+    {
+        "question": "Hi, are networking events organized?",
+        "answer": ["Yes, regular networking sessions with industry experts are held."]
+    },
+    {
+        "question": "Hello, is career counseling one-on-one or group sessions?",
+        "answer": ["Both formats are available depending on student needs."]
+    },
+    {
+        "question": "Hi, can I get letters of recommendation from faculty?",
+        "answer": ["Yes, faculty can provide recommendations based on your performance."]
+    },
+    {
+        "question": "Hi, are internship certificates provided?",
+        "answer": ["Yes, official certificates are issued for completed internships."]
+    },
+    {
+        "question": "Hello, can PGDIT improve my chances in competitive job markets?",
+        "answer": ["Definitely, it equips you with skills valued by employers."]
+    },
+    {
+        "question": "Hi, do I get help preparing for technical tests?",
+        "answer": ["Yes, mock tests and technical training sessions are offered."]
+    },
+    {
+        "question": "Hi, is there support for continuing education?",
+        "answer": ["Yes, guidance for advanced degrees and certifications is available."]
+    },
+    {
+        "question": "Hello, can I get help with job applications?",
+        "answer": ["Yes, the career center assists with applications and follow-ups."]
+    },
+    {
+        "question": "Hi, does PGDIT offer workshops on emerging tech?",
+        "answer": ["Yes, workshops on AI, cloud, and data science are included."]
+    },
+    {
+        "question": "Hi, are there alumni meetups?",
+        "answer": ["Yes, alumni meetups and networking events happen regularly."]
+    },
+    {
+        "question": "Hello, can I get help improving my public speaking?",
+        "answer": ["Yes, communication workshops include public speaking practice."]
+    },
+    {
+        "question": "Hi, does the program help develop leadership skills?",
+        "answer": ["Yes, leadership and team management are part of the training."]
+    }
+]

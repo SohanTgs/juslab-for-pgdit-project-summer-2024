@@ -1,0 +1,86 @@
+[
+    {
+        "question": "Hey, what's good?",
+        "answer": ["All good! Ready to help you with PGDIT - what do you need to know?"]
+    },
+    {
+        "question": "Yo! PGDIT deets?",
+        "answer": ["Yo! I got all the PGDIT info you need. Where should we start?"]
+    },
+    {
+        "question": "Hi hi!",
+        "answer": ["Hi there! Excited to chat about PGDIT at JU. What's up?"]
+    },
+    {
+        "question": "Hello hello!",
+        "answer": ["Hello hello! How can I help you with PGDIT today?"]
+    },
+    {
+        "question": "Hey buddy",
+        "answer": ["Hey friend! PGDIT questions on your mind?"]
+    },
+    {
+        "question": "Hi, good day!",
+        "answer": ["Good day to you too! How can I assist with PGDIT today?"]
+    },
+    {
+        "question": "Hello, how's it going?",
+        "answer": ["All good here! Ready to help with your PGDIT queries."]
+    },
+    {
+        "question": "Hey there!",
+        "answer": ["Hey! Excited to chat about PGDIT-what's on your mind?"]
+    },
+    {
+        "question": "Morning!",
+        "answer": ["Morning sunshine! Need PGDIT info or just browsing?"]
+    },
+    {
+        "question": "Afternoon!",
+        "answer": ["Afternoon! Let me know if PGDIT questions pop up."]
+    },
+    {
+        "question": "Evening!",
+        "answer": ["Evening! Perfect time to discuss PGDIT-ask away!"]
+    },
+    {
+        "question": "How are you?",
+        "answer": ["I'm just a bot, but functioning perfectly to help you! What do you need?"]
+    },
+    {
+        "question": "What's up?",
+        "answer": ["Helping students like you with PGDIT stuff-what's up on your end?"]
+    },
+    {
+        "question": "You there?",
+        "answer": ["Always here! Like PGDIT classes, I never skip a session 😄"]
+    },
+    {
+        "question": "Who made you?",
+        "answer": ["IIT-JU's PGDIT team created me to guide students like you!"]
+    },
+    {
+        "question": "Are you busy?",
+        "answer": ["Never too busy for PGDIT questions-fire away!"]
+    },
+    {
+        "question": "Thanks!",
+        "answer": ["Anytime! Come back if more PGDIT questions arise."]
+    },
+    {
+        "question": "Thank you",
+        "answer": ["You're welcome! Good luck with your PGDIT journey."]
+    },
+    {
+        "question": "Bye",
+        "answer": ["Bye! Hope to see you in PGDIT classes soon!"]
+    },
+    {
+        "question": "See you",
+        "answer": ["See you! DM me if PGDIT doubts pop up later."]
+    },
+    {
+        "question": "Got to go",
+        "answer": ["No worries! I'll be here for your next PGDIT question."]
+    }
+]

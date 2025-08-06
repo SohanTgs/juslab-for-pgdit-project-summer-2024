@@ -1,0 +1,206 @@
+[
+    {
+        "question": "Hi, who can apply for PGDIT?",
+        "answer": ["Anyone with at least a second class or CGPA 2.5 in any bachelor's degree can apply."]
+    },
+    {
+        "question": "Hi, is there an admission test?",
+        "answer": ["Yes, you need to sit for a written test and meet eligibility criteria."]
+    },
+    {
+        "question": "Hi, I'm from a non-IT background. Can I apply?",
+        "answer": ["Absolutely! PGDIT is designed for both IT and non-IT graduates."]
+    },
+    {
+        "question": "Hi, how do I apply for PGDIT?",
+        "answer": ["You apply online through the official PGDIT admission portal."]
+    },
+    {
+        "question": "Hello, who is eligible to apply?",
+        "answer": ["Graduates with at least a second class or CGPA 2.5 in any discipline are eligible."]
+    },
+    {
+        "question": "Hi, is there an admission test?",
+        "answer": ["Yes, applicants must pass a written admission test."]
+    },
+    {
+        "question": "Hi, when is the admission open?",
+        "answer": ["Admission is usually open twice a year; check the website for current dates."]
+    },
+    {
+        "question": "Hello, what documents do I need to apply?",
+        "answer": ["You need your bachelor’s degree certificate, transcripts, and a recent photo."]
+    },
+    {
+        "question": "Hi, is there an application fee?",
+        "answer": ["Yes, you must pay a non-refundable application fee during submission."]
+    },
+    {
+        "question": "Hi, can I pay the application fee online?",
+        "answer": ["Yes, online payment options like card and mobile banking are available."]
+    },
+    {
+        "question": "Hello, how do I get my admit card?",
+        "answer": ["After fee payment, you can download your admit card from the admission portal."]
+    },
+    {
+        "question": "Hi, what if I lose my admit card?",
+        "answer": ["You can log in again and re-download the admit card any time before the exam."]
+    },
+    {
+        "question": "Hi, where is the admission test held?",
+        "answer": ["The test is held at the IIT Jahangirnagar University campus."]
+    },
+    {
+        "question": "Hello, how do I prepare for the admission test?",
+        "answer": ["Review basic IT concepts, general knowledge, and reasoning skills."]
+    },
+    {
+        "question": "Hi, when are admission results published?",
+        "answer": ["Results are posted on the official PGDIT website under the notices section."]
+    },
+    {
+        "question": "Hi, what if I fail the admission test?",
+        "answer": ["You can reapply in the next admission cycle."]
+    },
+    {
+        "question": "Hello, can international students apply?",
+        "answer": ["Yes, international graduates meeting eligibility criteria can apply."]
+    },
+    {
+        "question": "Hi, is there any age limit for admission?",
+        "answer": ["No age limit is specified; anyone meeting the qualifications can apply."]
+    },
+    {
+        "question": "Hi, can I apply if I am awaiting my final results?",
+        "answer": ["Generally, you need your final degree and results to apply."]
+    },
+    {
+        "question": "Hello, do I need to submit hard copies of documents?",
+        "answer": ["Usually, you submit scanned copies during application and originals during admission."]
+    },
+    {
+        "question": "Hi, can I edit my application after submission?",
+        "answer": ["No, you cannot edit once submitted, so check carefully before submitting."]
+    },
+    {
+        "question": "Hi, how do I know if my application is accepted?",
+        "answer": ["You will receive confirmation via email or can check your application status online."]
+    },
+    {
+        "question": "Hello, is there an interview in admission?",
+        "answer": ["No, admission is based on the written test and eligibility."]
+    },
+    {
+        "question": "Hi, can I apply in person?",
+        "answer": ["Applications are accepted only online."]
+    },
+    {
+        "question": "Hi, what if I miss the application deadline?",
+        "answer": ["You will need to wait for the next admission cycle."]
+    },
+    {
+        "question": "Hello, can I apply for PGDIT more than once?",
+        "answer": ["Yes, if you don’t get admitted, you can reapply in future cycles."]
+    },
+    {
+        "question": "Hi, how competitive is admission?",
+        "answer": ["Admission is competitive; you must perform well in the test."]
+    },
+    {
+        "question": "Hi, can I get a refund of application fee if I cancel?",
+        "answer": ["No, the application fee is non-refundable."]
+    },
+    {
+        "question": "Hello, what is the syllabus for the admission test?",
+        "answer": ["It includes basic IT knowledge, general knowledge, and logical reasoning."]
+    },
+    {
+        "question": "Hi, are previous year admission question papers available?",
+        "answer": ["You can sometimes find sample questions on the website or from seniors."]
+    },
+    {
+        "question": "Hi, do I need an email account for application?",
+        "answer": ["Yes, a valid email is required for communication and login."]
+    },
+    {
+        "question": "Hello, can I change my test center?",
+        "answer": ["Test centers are fixed; you cannot change them once assigned."]
+    },
+    {
+        "question": "Hi, what if I am late for the admission test?",
+        "answer": ["Latecomers may not be allowed to sit for the test."]
+    },
+    {
+        "question": "Hi, can I bring a calculator to the test?",
+        "answer": ["Usually, calculators or electronic devices are not allowed."]
+    },
+    {
+        "question": "Hello, how long is the admission test?",
+        "answer": ["The test duration is usually around 2 hours."]
+    },
+    {
+        "question": "Hi, is there a quota for female candidates?",
+        "answer": ["There may be reserved seats; check the official admission circular."]
+    },
+    {
+        "question": "Hi, how many students get admitted each cycle?",
+        "answer": ["The intake number varies; check the latest admission notice."]
+    },
+    {
+        "question": "Hello, can I get help with the application form?",
+        "answer": ["You can contact the PGDIT office or use online help resources."]
+    },
+    {
+        "question": "Hi, what is the selection process?",
+        "answer": ["Selection is based on eligibility and admission test results."]
+    },
+    {
+        "question": "Hi, when will classes start after admission?",
+        "answer": ["Classes usually start a few weeks after admission results are published."]
+    },
+    {
+        "question": "Hello, can I defer my admission?",
+        "answer": ["Deferral policies vary; contact administration for details."]
+    },
+    {
+        "question": "Hi, do I need to attend any orientation?",
+        "answer": ["Yes, new students usually attend an orientation session before classes."]
+    },
+    {
+        "question": "Hi, is there any medical requirement for admission?",
+        "answer": ["No specific medical tests are required."]
+    },
+    {
+        "question": "Hello, how do I get information about admission updates?",
+        "answer": ["Visit the official PGDIT website and check the Notices section regularly."]
+    },
+    {
+        "question": "Hi, is the admission fee paid separately from tuition?",
+        "answer": ["Yes, application and tuition fees are separate."]
+    },
+    {
+        "question": "Hi, can I pay the tuition fee in installments?",
+        "answer": ["Please check with the administration for installment options."]
+    },
+    {
+        "question": "Hello, can I get help if I face technical issues during application?",
+        "answer": ["Yes, contact support or the IT helpdesk for assistance."]
+    },
+    {
+        "question": "Hi, are late applications accepted?",
+        "answer": ["No, late applications are not accepted."]
+    },
+    {
+        "question": "Hi, is there a physical fitness test?",
+        "answer": ["No, there is no physical fitness test."]
+    },
+    {
+        "question": "Hello, can I apply after the admission test date?",
+        "answer": ["No, applications must be submitted before the test date."]
+    },
+    {
+        "question": "Hi, do I need to bring original certificates to the admission office?",
+        "answer": ["Yes, originals may be required for verification during admission."]
+    }
+]
