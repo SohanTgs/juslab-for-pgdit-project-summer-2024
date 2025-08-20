@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hello! Need help with xCash transfers?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi there! How can I assist with transfers on xCash?"
+  },
+  {
+    "question": "Anyone there?",
+    "answer": "Yes, here to help with your xCash transfers."
+  },
+  {
+    "question": "Need help transferring money",
+    "answer": "Sure! What’s your transfer question?"
+  },
+  {
+    "question": "How to transfer?",
+    "answer": "Use the Transfer option in your xCash wallet."
+  },
+  {
+    "question": "Transfer not working",
+    "answer": "Try again or contact xCash support if it persists."
+  },
+  {
+    "question": "Where is transfer history?",
+    "answer": "Check Transactions > Transfers in xCash."
+  },
+  {
+    "question": "Is transfer instant?",
+    "answer": "Most xCash transfers happen instantly."
+  },
+  {
+    "question": "Can I transfer internationally?",
+    "answer": "Yes, xCash supports international transfers."
+  },
+  {
+    "question": "Need transfer support",
+    "answer": "I’m here to help with any xCash transfer issue."
+  },
+  {
+    "question": "How long transfers take?",
+    "answer": "Usually transfers clear immediately on xCash."
+  },
+  {
+    "question": "Transfer fees?",
+    "answer": "Fees depend on transfer type; see xCash details."
+  },
+  {
+    "question": "Can I cancel a transfer?",
+    "answer": "Once sent, transfers usually can’t be canceled on xCash."
+  },
+  {
+    "question": "Transfer limits?",
+    "answer": "Limits vary by account type in xCash."
+  },
+  {
+    "question": "Why transfer failed?",
+    "answer": "Check recipient info and balance, then retry on xCash."
+  },
+  {
+    "question": "Need fast transfer",
+    "answer": "xCash processes most transfers quickly."
+  },
+  {
+    "question": "Hi, transfer help",
+    "answer": "Ready to assist with your xCash transfers."
+  },
+  {
+    "question": "Can I transfer to bank?",
+    "answer": "Yes, xCash supports bank transfers."
+  },
+  {
+    "question": "How to transfer to phone?",
+    "answer": "Select mobile transfer option in xCash wallet."
+  },
+  {
+    "question": "Where to find transfer details?",
+    "answer": "View your transfer records in xCash Transactions."
+  },
+  {
+    "question": "How do I send money to someone?",
+    "answer": "Use xCash’s transfer feature to securely send money to any user."
+  },
+  {
+    "question": "Can I transfer funds instantly?",
+    "answer": "Yes, xCash supports instant transfers between accounts."
+  },
+  {
+    "question": "Is there a transfer limit?",
+    "answer": "Your xCash transfer limit depends on your account verification level."
+  },
+  {
+    "question": "How to add a new transfer recipient?",
+    "answer": "Simply enter their details in the transfer section of xCash."
+  },
+  {
+    "question": "Can I transfer money internationally?",
+    "answer": "xCash allows transfers to supported countries with low fees."
+  },
+  {
+    "question": "Are transfer fees high?",
+    "answer": "xCash keeps transfer fees minimal and transparent."
+  },
+  {
+    "question": "How long does a transfer take?",
+    "answer": "Most xCash transfers complete instantly or within minutes."
+  },
+  {
+    "question": "Can I cancel a transfer?",
+    "answer": "Transfers are usually instant; cancellation is only possible if pending."
+  },
+  {
+    "question": "What info do I need to transfer?",
+    "answer": "Recipient’s account or phone number is required for xCash transfers."
+  },
+  {
+    "question": "Is transferring money safe?",
+    "answer": "Absolutely, xCash uses encryption and secure protocols for transfers."
+  },
+  {
+    "question": "Can I schedule a transfer?",
+    "answer": "Currently, xCash processes transfers immediately on request."
+  },
+  {
+    "question": "Are transfers reversible?",
+    "answer": "Usually no; please double-check details before confirming."
+  },
+  {
+    "question": "Can I transfer from my phone?",
+    "answer": "Yes, xCash mobile apps make transfers quick and easy."
+  },
+  {
+    "question": "Do transfers require a PIN?",
+    "answer": "Yes, for security, xCash asks for your transaction PIN."
+  },
+  {
+    "question": "Can I transfer to multiple recipients?",
+    "answer": "Batch transfers are not supported yet in xCash."
+  },
+  {
+    "question": "How do I check transfer status?",
+    "answer": "View transfer status in your xCash transaction history."
+  },
+  {
+    "question": "What if my transfer fails?",
+    "answer": "Try again or contact xCash support for help."
+  },
+  {
+    "question": "Can I transfer using QR code?",
+    "answer": "Yes, xCash supports QR-based transfers for convenience."
+  },
+  {
+    "question": "Does transfer support multiple currencies?",
+    "answer": "xCash supports transfers in various currencies depending on region."
+  },
+  {
+    "question": "Are there daily transfer limits?",
+    "answer": "Yes, limits depend on your xCash account type and verification."
+  },
+  {
+    "question": "Can I transfer money to a new user?",
+    "answer": "Yes, xCash lets you send money to any registered user easily."
+  },
+  {
+    "question": "Is transfer confirmation required?",
+    "answer": "Yes, you must confirm transfer details before completing in xCash."
+  },
+  {
+    "question": "Can I add a note to my transfer?",
+    "answer": "Absolutely, xCash allows adding a message with your transfers."
+  },
+  {
+    "question": "Are transfers traceable?",
+    "answer": "Yes, xCash keeps a secure record of all transfers."
+  },
+  {
+    "question": "How do I update recipient details?",
+    "answer": "Edit or remove recipients anytime via the xCash transfer menu."
+  },
+  {
+    "question": "Does xCash support recurring transfers?",
+    "answer": "Not yet, but it’s a feature planned for future updates."
+  },
+  {
+    "question": "Can I transfer without internet?",
+    "answer": "An internet connection is required for all xCash transfers."
+  },
+  {
+    "question": "How do I report a transfer error?",
+    "answer": "Contact xCash support with transaction details for assistance."
+  },
+  {
+    "question": "Is my bank linked for transfer?",
+    "answer": "You can link your bank to xCash for seamless transfers."
+  },
+  {
+    "question": "Can I transfer funds to a phone number?",
+    "answer": "Yes, xCash supports transfers using registered phone numbers."
+  },
+  {
+    "question": "What if recipient isn’t registered?",
+    "answer": "The recipient will receive an invite to join xCash upon transfer."
+  },
+  {
+    "question": "Can I transfer from wallet to bank?",
+    "answer": "Yes, xCash allows wallet to bank transfers easily."
+  },
+  {
+    "question": "Are transfer records downloadable?",
+    "answer": "You can download your transaction history via xCash dashboard."
+  },
+  {
+    "question": "What security protects transfers?",
+    "answer": "xCash uses encryption and multi-factor authentication."
+  },
+  {
+    "question": "Can I transfer from desktop?",
+    "answer": "Yes, xCash supports transfers via desktop and mobile apps."
+  },
+  {
+    "question": "How to avoid transfer fraud?",
+    "answer": "Always verify recipient info before sending with xCash."
+  },
+  {
+    "question": "Is transfer limit adjustable?",
+    "answer": "Limits can increase after completing verification in xCash."
+  },
+  {
+    "question": "How to resend a failed transfer?",
+    "answer": "Check details and retry the transfer within xCash."
+  },
+  {
+    "question": "Can I transfer gift money?",
+    "answer": "Yes, xCash allows sending money as gifts with notes."
+  },
+  {
+    "question": "Can I save frequent recipients?",
+    "answer": "Yes, xCash lets you save and manage frequent contacts."
+  },
+  {
+    "question": "Can I transfer from multiple accounts?",
+    "answer": "xCash supports transfers from all linked accounts."
+  },
+  {
+    "question": "Is there a daily transfer count limit?",
+    "answer": "Yes, xCash sets daily limits to keep your account secure."
+  },
+  {
+    "question": "Can I schedule transfers for later?",
+    "answer": "Currently, xCash only supports immediate transfers."
+  },
+  {
+    "question": "How do I get notified of transfers?",
+    "answer": "xCash sends notifications for every successful transfer."
+  },
+  {
+    "question": "Can I transfer to a business account?",
+    "answer": "Yes, xCash supports transfers to verified business accounts."
+  },
+  {
+    "question": "What if the transfer amount is wrong?",
+    "answer": "Double-check before sending; xCash transfers are final."
+  },
+  {
+    "question": "Can I use transfer history to repeat a transfer?",
+    "answer": "Yes, xCash lets you repeat past transfers easily."
+  },
+  {
+    "question": "Is there a way to limit transfers by device?",
+    "answer": "You can manage device access in your xCash security settings."
+  },
+  {
+    "question": "Can I get a receipt after transfer?",
+    "answer": "Yes, xCash generates a receipt after each transfer."
+  },
+  {
+    "question": "Are transfers subject to taxes?",
+    "answer": "Please consult your local laws; xCash provides transaction records."
+  },
+  {
+    "question": "Can I transfer rewards points?",
+    "answer": "Currently, xCash only supports money transfers."
+  },
+  {
+    "question": "How to transfer funds using NFC?",
+    "answer": "xCash supports NFC transfers in compatible devices."
+  },
+  {
+    "question": "Can I transfer without logging in?",
+    "answer": "No, you must be logged into xCash to transfer funds."
+  },
+  {
+    "question": "What happens if recipient account is frozen?",
+    "answer": "Transfers to frozen accounts will fail; check status in xCash."
+  },
+  {
+    "question": "Are transfers encrypted?",
+    "answer": "Yes, xCash uses end-to-end encryption for all transfers."
+  },
+  {
+    "question": "Can I transfer from credit card?",
+    "answer": "xCash currently supports transfers from your wallet balance."
+  },
+  {
+    "question": "How do I increase my transfer limit?",
+    "answer": "Complete KYC and verification in xCash to raise limits."
+  },
+  {
+    "question": "Can I send money anonymously?",
+    "answer": "No, xCash requires verified user identities for transfers."
+  },
+  {
+    "question": "Is transfer history private?",
+    "answer": "Yes, only you can view your xCash transaction history."
+  },
+  {
+    "question": "Can I link multiple phones for transfers?",
+    "answer": "Yes, manage your devices in xCash settings."
+  },
+  {
+    "question": "Can I transfer abroad using xCash?",
+    "answer": "Yes, xCash supports international transfers with applicable fees."
+  },
+  {
+    "question": "What currencies can I transfer?",
+    "answer": "xCash supports multiple currencies depending on your region."
+  },
+  {
+    "question": "How fast are transfers processed?",
+    "answer": "Most xCash transfers happen instantly or within a few minutes."
+  },
+  {
+    "question": "Can I cancel a transfer after sending?",
+    "answer": "Transfers are usually final; check xCash support for exceptions."
+  },
+  {
+    "question": "Is two-factor authentication needed for transfers?",
+    "answer": "Yes, xCash requires 2FA to secure your transfers."
+  },
+  {
+    "question": "Can I transfer to multiple people at once?",
+    "answer": "Batch transfers aren’t available yet on xCash."
+  },
+  {
+    "question": "Are there transfer fees?",
+    "answer": "xCash charges minimal fees based on transfer type."
+  },
+  {
+    "question": "How do I update transfer limits?",
+    "answer": "Verify your identity in xCash to raise limits."
+  },
+  {
+    "question": "Can I transfer money from my saved cards?",
+    "answer": "xCash currently uses wallet balance for transfers."
+  },
+  {
+    "question": "Does xCash support crypto transfers?",
+    "answer": "Not at the moment; focus is on fiat currency transfers."
+  },
+  {
+    "question": "Can I transfer to someone without an account?",
+    "answer": "They’ll receive an invite to join xCash upon transfer."
+  },
+  {
+    "question": "What happens if transfer fails?",
+    "answer": "xCash will notify you and refund the amount if needed."
+  },
+  {
+    "question": "Can I track transfer status?",
+    "answer": "Yes, check your transfer status in the xCash app."
+  },
+  {
+    "question": "How do I add a new recipient?",
+    "answer": "Go to Contacts in xCash and add their details."
+  },
+  {
+    "question": "Are transfers subject to limits by regulators?",
+    "answer": "xCash complies with all regional financial regulations."
+  },
+  {
+    "question": "Can I transfer from the web app?",
+    "answer": "Yes, xCash web supports all transfer features."
+  },
+  {
+    "question": "Is there a transfer cooldown period?",
+    "answer": "Certain high-value transfers may have cooldowns in xCash."
+  },
+  {
+    "question": "Can I link multiple bank accounts for transfer?",
+    "answer": "Yes, manage your linked accounts in xCash settings."
+  },
+  {
+    "question": "Can I get transfer alerts via email?",
+    "answer": "Yes, enable notifications in your xCash profile."
+  },
+  {
+    "question": "Can I transfer to merchants?",
+    "answer": "Absolutely, xCash supports merchant payments."
+  },
+  {
+    "question": "Can I transfer using voice commands?",
+    "answer": "Yes, xCash supports voice-enabled transfers for convenience."
+  },
+  {
+    "question": "Is transfer data encrypted?",
+    "answer": "All xCash transfers are secured with strong encryption."
+  },
+  {
+    "question": "Can I save frequent transfer amounts?",
+    "answer": "Yes, xCash lets you save transfer templates for quick use."
+  },
+  {
+    "question": "How do I confirm a transfer?",
+    "answer": "Use your PIN or biometric verification in xCash."
+  },
+  {
+    "question": "Can I transfer via QR code?",
+    "answer": "Yes, scan or generate QR codes in xCash for transfers."
+  },
+  {
+    "question": "What if I send money to wrong account?",
+    "answer": "Contact xCash support immediately to resolve issues."
+  },
+  {
+    "question": "Are there limits for new users?",
+    "answer": "Yes, new users have initial transfer limits on xCash."
+  },
+  {
+    "question": "Can I transfer during system maintenance?",
+    "answer": "Transfers may be unavailable during maintenance on xCash."
+  },
+  {
+    "question": "How do I verify recipient details?",
+    "answer": "Double-check details before confirming transfer in xCash."
+  },
+  {
+    "question": "Does xCash support recurring transfers?",
+    "answer": "Not yet, but this feature is in development."
+  },
+  {
+    "question": "Can I transfer using NFC tap?",
+    "answer": "Yes, xCash supports NFC-based transfers where available."
+  },
+  {
+    "question": "How do I get help with transfers?",
+    "answer": "Reach out to xCash support via chat or email."
+  },
+  {
+    "question": "Are transfers logged?",
+    "answer": "All transfers are securely logged in your xCash account."
+  },
+  {
+    "question": "Can I transfer from multiple currencies?",
+    "answer": "xCash handles currency conversion during transfers."
+  },
+  {
+    "question": "Is transfer speed affected by network?",
+    "answer": "Yes, stable internet improves xCash transfer speed."
+  },
+  {
+    "question": "Can I transfer using third-party apps?",
+    "answer": "Currently, transfers are done within the xCash app."
+  },
+  {
+    "question": "Can I dispute a transfer?",
+    "answer": "Yes, contact xCash support to initiate a dispute."
+  },
+  {
+    "question": "How do I update transfer recipient info?",
+    "answer": "Edit contact details in your xCash address book."
+  },
+  {
+    "question": "Can I set transfer limits myself?",
+    "answer": "Some limits can be customized in your xCash settings."
+  },
+  {
+    "question": "Is there a transfer fee waiver option?",
+    "answer": "Promotions may waive fees; check xCash offers."
+  }
+]

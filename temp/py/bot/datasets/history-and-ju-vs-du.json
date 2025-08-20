@@ -1,0 +1,780 @@
+[
+    {
+        "question": "When did the PGDIT program start at JU?",
+        "answer": ["The PGDIT program at IIT-JU started around 2010–2011, shortly after the institute’s formation in 2009."]
+    },
+    {
+        "question": "Who is Director and Coordinator have?",
+        "answer": [
+            "Dr. Risala Tasin Khan (Director) handles academic and strategic leadership, while Dr. Shamim Al Mamun (Coordinator) manages PGDIT logistics, student advising, and committee coordination." ]
+    },
+    {
+        "question": "Who is Director?",
+        "answer": [
+            "Dr. Risala Tasin Khan (Director) handles academic and strategic leadership, while Dr. Shamim Al Mamun (Coordinator) manages PGDIT logistics, student advising, and committee coordination." ]
+    },
+    {
+        "question": "Who is Coordinator?",
+        "answer": [
+            "Dr. Shamim Al Mamun (Coordinator) manages PGDIT logistics, student advising, and committee coordination." ]
+    },
+    {
+        "question": "Which university started PGDIT first – JU or DU?",
+        "answer": ["DU's Institute of IT began offering PGDIT in 2001, nearly a decade before JU launched its version."]
+    },
+    {
+        "question": "Why was PGDIT introduced at DU?",
+        "answer": ["To equip graduates from various backgrounds with foundational IT knowledge and bridge the tech-industry gap."]
+    },
+    {
+        "question": "Who coordinates the PGDIT program at JU?",
+        "answer": ["K. M. Akkas Ali is the current PGDIT Coordinator at JU, supported by a faculty committee and Director Dr. Risala Tasin Khan."]
+    },
+    {
+        "question": "Who started the IIT at JU?",
+        "answer": ["IIT at JU was officially launched in 2009 by the university with the vision of offering postgraduate IT education."]
+    },
+    {
+        "question": "When did IIT‑JU begin?",
+        "answer": [
+            "The Institute of Information Technology at Jahangirnagar University started in **1987** with a mission to train individuals in computer-related skills."
+        ]
+    },
+    {
+        "question": "Who is the current Director at IIT‑JU?",
+        "answer": [
+            "The current Director is **Dr. M. Shamim Kaiser**, a professor overseeing the institute’s growth and programs."
+        ]
+    },
+    {
+        "question": "What was the original goal of IIT‑JU when it started?",
+        "answer": [
+            "From its inception in 1987, the goal was to provide computer-related training—laying the groundwork for today's IT and coding education."
+        ]
+    },
+    {
+        "question": "Has IIT‑JU always offered the PGDIT program?",
+        "answer": [
+            "No. PGDIT was introduced later—after the institute’s founding—to offer a structured postgraduate pathway in IT."
+        ]
+    },
+    {
+        "question": "How has the institute evolved since 1987?",
+        "answer": [
+            "It began with basic IT training, then gradually added degree programs: BSc(IT) in 2009, followed by MS/PhD and diploma offerings like PGDIT."
+        ]
+    },
+    {
+        "question": "Is the Director involved in academic decisions?",
+        "answer": [
+            "Yes. As Director, Dr. Kaiser provides academic leadership, oversees program development, staff, and ensures the institute stays current."
+        ]
+    },
+    {
+        "question": "When did IIT‑JU begin?",
+        "answer": [
+            "IIT‑JU started in **1987** with the mission to train individuals in computer-related skills."  ]
+    },
+    {
+        "question": "Who is the current Director of IIT‑JU?",
+        "answer": [
+            "The current Director is **Dr. Risala Tasin Khan**, who oversees academic programs and the institute’s development." ]
+    },
+    {
+        "question": "Who is Dr. Shamim Al Mamun at IIT‑JU?",
+        "answer": [
+            "Dr. Shamim Al Mamun is a **Professor** in the Institute, serving as **Coordinator of the PGDIT Coordination Committee**, and also acts as a Student Advisor for IIT‑JU." ]
+    },
+    {
+        "question": "What’s the history timeline of IIT‑JU’s academic offerings?",
+        "answer": [
+            "IIT‑JU began in 1987, later launching its BSc in IT in 2009, expanded to MS/PhD, and introduced diploma programs including PGDIT." ]
+    },
+    {
+        "question": "What roles do the Director and Coordinator have?",
+        "answer": [
+            "Dr. Risala Tasin Khan (Director) handles academic and strategic leadership, while Dr. Shamim Al Mamun (Coordinator) manages PGDIT logistics, student advising, and committee coordination." ]
+    },
+    {
+        "question": "Who founded IIT at Jahangirnagar University?",
+        "answer": [
+            "IIT-JU was founded by Jahangirnagar University in 1987 as a training center for computer education, which evolved into a formal institute over time."
+        ]
+    },
+    {
+        "question": "When did the BSc in IT start at IIT-JU?",
+        "answer": [
+            "The BSc (Hons) in Information Technology program at IIT-JU started in 2009, expanding the institute’s offerings from diploma to full undergraduate degrees."
+        ]
+    },
+    {
+        "question": "Is PGDIT the first program launched by IIT-JU?",
+        "answer": [
+            "No. IIT-JU originally started as a training center in 1987, and the PGDIT program came later as a structured diploma around 2010–2011."
+        ]
+    },
+    {
+        "question": "What is Dr. Shamim Al Mamun’s role at IIT-JU?",
+        "answer": [
+            "Dr. Shamim Al Mamun is a senior professor at IIT-JU and serves as the Coordinator of the PGDIT Coordination Committee. He also acts as the student advisor."
+        ]
+    },
+    {
+        "question": "Who is Dr. Risala Tasin Khan?",
+        "answer": [
+            "Dr. Risala Tasin Khan is the current Director of IIT-JU, responsible for overseeing academic activities, administration, and the development of programs like PGDIT."
+        ]
+    },
+    {
+        "question": "How is the PGDIT program managed at IIT-JU?",
+        "answer": [
+            "The PGDIT program is managed by a Coordination Committee led by Prof. Dr. Shamim Al Mamun, under the supervision of the Director, Dr. Risala Tasin Khan."
+        ]
+    },
+    {
+        "question": "Does IIT-JU offer PhD programs?",
+        "answer": [
+            "Yes, IIT-JU offers MS and PhD programs alongside undergraduate and diploma programs such as PGDIT."
+        ]
+    },
+    {
+        "question": "Why was IIT-JU originally established?",
+        "answer": [
+            "IIT-JU was established in 1987 to meet the growing demand for IT professionals and provide foundational training in computer science and applications."
+        ]
+    },
+    {
+        "question": "Is PGDIT a government-approved program?",
+        "answer": [
+            "Yes, the PGDIT at IIT-JU is a government-approved, university-affiliated one-year postgraduate diploma program run under academic supervision."
+        ]
+    },
+    {
+        "question": "Has IIT-JU collaborated with any industry bodies?",
+        "answer": [
+            "While formal collaborations aren't listed on the main website, IIT-JU regularly updates its curriculum to align with industry demands and employs experienced faculty from academia and industry."
+        ]
+    },
+    {
+        "question": "When did IIT‑JU officially form as an institute?",
+        "answer": [
+            "IIT‑JU was formally established in **October 2009**, evolving from the older Computer & Information Technology Institute (CITI), which itself grew out of JU’s Computer Centre." 
+        ]
+    },
+    {
+        "question": "What was CITI before IIT‑JU?",
+        "answer": [
+            "Before becoming IIT, it was known as CITI—the Computer & Information Technology Institute—which was built on JU’s earlier Computer Centre roots."
+        ]
+    },
+    {
+        "question": "When was the PGDIT program launched at IIT‑JU?",
+        "answer": [
+            "PGDIT began soon after the institute’s launch in 2009, likely starting around 2010–2011 as part of efforts to rapidly boost IT education."
+        ]
+    },
+    {
+        "question": "How is the PGDIT curriculum structured?",
+        "answer": [
+            "It’s a one‑year program split into three 4‑month trimesters: 10 courses (3 credits each) and a project (6 credits), totaling 36 credits." 
+        ]
+    },
+    {
+        "question": "What was the evolution path from Computer Centre to IIT‑JU?",
+        "answer": [
+            "JU’s Computer Centre (pre‑2009) ➝ renamed CITI (Computer & IT Institute) ➝ formally upgraded to IIT‑JU in October 2009, laying the foundation for diploma and degree programs."
+        ]
+    },
+    {
+        "question": "How many students have completed PGDIT since its inception?",
+        "answer": [
+            "Over its lifespan, IIT‑JU has awarded more than **1,800 PGDIT diplomas**, reflecting steady program growth." 
+        ]
+    },
+    {
+        "question": "Which PGDIT program started first: JU or DU?",
+        "answer": ["DU started their PGDIT program in 2001, while JU launched it later around 2010–2011."]
+    },
+    {
+        "question": "Which campus is better for environment?",
+        "answer": ["JU offers a green and peaceful campus in Savar, while DU is located in the busy center of Dhaka."]
+    },
+    {
+        "question": "Are PGDIT degrees from JU and DU both recognized?",
+        "answer": ["Yes! Both are awarded by reputed public universities and highly valued in the job market."]
+    },
+    {
+        "question": "Which one is more affordable?",
+        "answer": ["PGDIT at JU is generally more affordable—around 75,000 BDT total—while DU may charge slightly more."]
+    },
+    {
+        "question": "Do both offer classes on weekends?",
+        "answer": ["Yes. Both IIT–JU and IIT–DU offer flexible weekend classes to help working professionals."]
+    },
+    {
+        "question": "Who runs the PGDIT at JU?",
+        "answer": ["At JU, the PGDIT program is coordinated by Prof. Dr. Shamim Al Mamun under Director Dr. Risala Tasin Khan."]
+    },
+    {
+        "question": "Is there any difference in curriculum?",
+        "answer": ["Both follow similar industry-driven curricula, but JU focuses more on hands-on lab work and structured project work."]
+    },
+    {
+        "question": "Which one has older roots in IT education?",
+        "answer": ["DU’s IIT originated as a computer center in 1985, giving it a longer institutional legacy than JU."]
+    },
+    {
+    "question": "When did IIT JU start?",
+    "answer": ["IIT JU started in 2009 as a place to teach IT skills."]
+  },
+  {
+    "question": "What was IIT JU before 2009?",
+    "answer": ["Before 2009, it was called the Computer Centre and then CITI."]
+  },
+  {
+    "question": "When did the PGDIT program start at JU?",
+    "answer": ["PGDIT started around 2010 or 2011 at JU."]
+  },
+  {
+    "question": "Who is the boss of IIT JU?",
+    "answer": ["The director is Dr. Risala Tasin Khan."]
+  },
+  {
+    "question": "Who helps run PGDIT at JU?",
+    "answer": ["Prof. Shamim Al Mamun coordinates the PGDIT program."]
+  },
+  {
+    "question": "Is PGDIT new at JU?",
+    "answer": ["It’s been running for about 10 years, so it’s well established."]
+  },
+  {
+    "question": "Which started PGDIT first, JU or DU?",
+    "answer": ["DU started PGDIT earlier, around 2001, JU started later."]
+  },
+  {
+    "question": "Is JU’s campus calm or busy?",
+    "answer": ["JU has a calm and green campus, great for studying."]
+  },
+  {
+    "question": "Is DU’s campus big?",
+    "answer": ["Yes, DU is in the busy city center of Dhaka."]
+  },
+  {
+    "question": "Is PGDIT at JU cheaper than DU?",
+    "answer": ["Yes, JU’s PGDIT program usually costs less."]
+  },
+  {
+    "question": "Can working people do PGDIT at JU?",
+    "answer": ["Yes! JU offers weekend classes that suit working students."]
+  },
+  {
+    "question": "Is PGDIT good for beginners?",
+    "answer": ["Yes, it teaches IT basics even if you didn’t study it before."]
+  },
+  {
+    "question": "Do JU and DU both give real certificates for PGDIT?",
+    "answer": ["Yes, both are official diplomas from big universities."]
+  },
+  {
+    "question": "Who studies PGDIT at JU?",
+    "answer": ["Many students and working professionals from different fields."]
+  },
+  {
+    "question": "What is special about JU’s PGDIT?",
+    "answer": ["It’s affordable, hands-on, and good for career changers."]
+  },
+  {
+    "question": "What languages do they teach in PGDIT at JU?",
+    "answer": ["They teach programming languages like Python and web development."]
+  },
+  {
+    "question": "Does DU have more history in IT education?",
+    "answer": ["Yes, DU started IT education much earlier, in the 1980s."]
+  },
+  {
+    "question": "Is it easy to get into PGDIT at JU?",
+    "answer": ["Yes, if you have a bachelor’s degree and meet the CGPA requirement."]
+  },
+  {
+    "question": "Do JU’s PGDIT students do projects?",
+    "answer": ["Yes, they complete a final project to show what they learned."]
+  },
+  {
+    "question": "Why choose JU’s PGDIT over DU?",
+    "answer": ["JU is cheaper, quieter, and has classes on weekends."]
+  },
+  {
+    "question": "Who is the director of IIT JU?",
+    "answer": ["The director is Dr. Risala Tasin Khan."]
+  },
+  {
+    "question": "What does the director do?",
+    "answer": ["The director leads the institute and manages academic programs."]
+  },
+  {
+    "question": "Who coordinates the PGDIT program?",
+    "answer": ["Prof. Dr. Shamim Al Mamun is the PGDIT coordinator."]
+  },
+  {
+    "question": "What does the coordinator do?",
+    "answer": ["The coordinator organizes classes, helps students, and manages the program."]
+  },
+  {
+    "question": "Are the teachers experienced?",
+    "answer": ["Yes, the teachers have good experience and knowledge in IT."]
+  },
+  {
+    "question": "Do teachers help students outside class?",
+    "answer": ["Yes, teachers are friendly and support students when needed."]
+  },
+  {
+    "question": "Can I meet the director if I have questions?",
+    "answer": ["Usually, you can contact or visit the director during office hours."]
+  },
+  {
+    "question": "Who decides the course content?",
+    "answer": ["The director and coordinators work with teachers to decide the syllabus."]
+  },
+  {
+    "question": "Are there many teachers for PGDIT?",
+    "answer": ["Yes, several qualified teachers handle different subjects."]
+  },
+  {
+    "question": "Do teachers have degrees in IT?",
+    "answer": ["Yes, most teachers have Masters or PhDs in computer science or related fields."]
+  },
+  {
+    "question": "Is the coordinator available for student advice?",
+    "answer": ["Yes, the coordinator helps students with academic and course-related issues."]
+  },
+  {
+    "question": "How often do teachers update the courses?",
+    "answer": ["Teachers update courses regularly to keep up with new technology."]
+  },
+  {
+    "question": "Does the director visit classes?",
+    "answer": ["Sometimes, to check on how the program is running."]
+  },
+  {
+    "question": "Can I contact teachers by email?",
+    "answer": ["Yes, teachers usually share their email for communication."]
+  },
+  {
+    "question": "Who handles student complaints or problems?",
+    "answer": ["The coordinator and director handle student issues carefully."]
+  },
+  {
+    "question": "Are teachers strict or friendly?",
+    "answer": ["Teachers are professional but friendly and supportive."]
+  },
+  {
+    "question": "Does the director help with career advice?",
+    "answer": ["The director guides students about academic and career opportunities."]
+  },
+  {
+    "question": "Who plans exams and projects?",
+    "answer": ["Teachers plan exams and projects, with approval from the coordinator."]
+  },
+  {
+    "question": "Can the coordinator change the schedule?",
+    "answer": ["Yes, the coordinator can adjust schedules if needed."]
+  },
+  {
+    "question": "Are new teachers hired often?",
+    "answer": ["Yes, the institute hires new teachers to improve the program."]
+  },
+  {
+    "question": "Who runs IIT JU?",
+    "answer": ["Dr. Risala Tasin Khan is the director."]
+  },
+  {
+    "question": "Who manages PGDIT at JU?",
+    "answer": ["Prof. Dr. Shamim Al Mamun coordinates the program."]
+  },
+  {
+    "question": "Are the teachers good?",
+    "answer": ["Yes, they are experienced and helpful."]
+  },
+  {
+    "question": "How does PGDIT at JU stand out?",
+    "answer": ["It’s affordable, practical, and friendly to working students."]
+  },
+  {
+    "question": "Can the director help students?",
+    "answer": ["Yes, the director supports academic and career guidance."]
+  },
+  {
+    "question": "Do coordinators help with problems?",
+    "answer": ["Yes, they assist students with course and scheduling issues."]
+  },
+  {
+    "question": "Are teachers easy to talk to?",
+    "answer": ["Absolutely, they’re friendly and supportive."]
+  },
+  {
+    "question": "Who updates the course content?",
+    "answer": ["Teachers and coordinators regularly update the syllabus."]
+  },
+  {
+    "question": "Is PGDIT at JU suitable for beginners?",
+    "answer": ["Yes, no prior IT experience is needed."]
+  },
+  {
+    "question": "Are final projects important?",
+    "answer": ["Yes, they help students apply what they learn."]
+  },
+  {
+    "question": "Does JU offer weekend classes?",
+    "answer": ["Yes, classes are mainly on Fridays and Saturdays."]
+  },
+  {
+    "question": "Can working people join PGDIT?",
+    "answer": ["Yes, the schedule suits working professionals."]
+  },
+  {
+    "question": "How big is the teaching team?",
+    "answer": ["Several skilled teachers cover all subjects."]
+  },
+  {
+    "question": "Do teachers support extra help?",
+    "answer": ["Yes, extra sessions can be arranged."]
+  },
+  {
+    "question": "Who handles student feedback?",
+    "answer": ["Coordinators and teachers listen and improve the program."]
+  },
+  {
+    "question": "Is the director involved in daily activities?",
+    "answer": ["Mostly in oversight and important decisions."]
+  },
+  {
+    "question": "Are coordinators easy to contact?",
+    "answer": ["Yes, students can reach them via email or office visits."]
+  },
+  {
+    "question": "Do PGDIT students get career advice?",
+    "answer": ["Yes, from teachers, coordinators, and the director."]
+  },
+  {
+    "question": "Are classes practical or just theory?",
+    "answer": ["Mostly practical with hands-on learning."]
+  },
+  {
+    "question": "Is the PGDIT fee reasonable?",
+    "answer": ["Yes, it’s affordable compared to many similar programs."]
+  },
+  {
+    "question": "Who sets exam schedules?",
+    "answer": ["Coordinators plan exams with teacher input."]
+  },
+  {
+    "question": "Are labs available for students?",
+    "answer": ["Yes, modern labs support all courses."]
+  },
+  {
+    "question": "Can students meet the director directly?",
+    "answer": ["Yes, by appointment or during office hours."]
+  },
+  {
+    "question": "How often do teachers update lessons?",
+    "answer": ["Regularly to keep up with tech changes."]
+  },
+  {
+    "question": "Do coordinators arrange seminars?",
+    "answer": ["Yes, they organize workshops and guest talks."]
+  },
+  {
+    "question": "Who supervises final projects?",
+    "answer": ["Teachers and coordinators guide the projects."]
+  },
+  {
+    "question": "Are teachers strict about attendance?",
+    "answer": ["Yes, attendance is monitored carefully."]
+  },
+  {
+    "question": "Is the learning environment friendly?",
+    "answer": ["Yes, the campus is calm and supportive."]
+  },
+  {
+    "question": "Who can students talk to about course problems?",
+    "answer": ["Coordinators and teachers are available to help."]
+  },
+  {
+    "question": "Does the program include teamwork?",
+    "answer": ["Yes, group projects are part of the course."]
+  },
+  {
+    "question": "How is student progress tracked?",
+    "answer": ["Through exams, assignments, and projects."]
+  },
+  {
+    "question": "Are new teachers often hired?",
+    "answer": ["Yes, to keep teaching quality high."]
+  },
+  {
+    "question": "Who approves the curriculum at JU?",
+    "answer": ["The director and academic committee approve it."]
+  },
+  {
+    "question": "Are there online resources for PGDIT?",
+    "answer": ["Yes, students get digital materials and slides."]
+  },
+  {
+    "question": "Do coordinators help with exam questions?",
+    "answer": ["They organize exams but don’t write the questions."]
+  },
+  {
+    "question": "Can students request schedule changes?",
+    "answer": ["Yes, through the coordinator."]
+  },
+  {
+    "question": "Is the director active in student affairs?",
+    "answer": ["Mostly on big issues and academic planning."]
+  },
+  {
+    "question": "Do teachers provide career support?",
+    "answer": ["Yes, they offer guidance and references."]
+  },
+  {
+    "question": "Are classes available in the evening?",
+    "answer": ["Mostly on weekends, not typical weekday evenings."]
+  },
+  {
+    "question": "Who manages student discipline?",
+    "answer": ["Coordinators and institute authorities handle discipline."]
+  },
+  {
+    "question": "Is it easy to communicate with the teaching staff?",
+    "answer": ["Yes, teachers are approachable and helpful."]
+  },
+  {
+    "question": "Are group discussions part of PGDIT?",
+    "answer": ["Yes, group work is encouraged."]
+  },
+  {
+    "question": "Who guides students in their projects?",
+    "answer": ["Teachers and coordinators supervise projects."]
+  },
+  {
+    "question": "Are final exams important for passing?",
+    "answer": ["Yes, they count significantly toward your grade."]
+  },
+  {
+    "question": "Does the director support new ideas for PGDIT?",
+    "answer": ["Yes, the director encourages improvements."]
+  },
+  {
+    "question": "Do coordinators handle complaints quickly?",
+    "answer": ["Yes, they try to resolve issues fast."]
+  },
+  {
+    "question": "Is the PGDIT program updated regularly?",
+    "answer": ["Yes, updates happen to keep it relevant."]
+  },
+  {
+    "question": "Are study materials easy to get?",
+    "answer": ["Yes, materials are provided by teachers and online."]
+  },
+  {
+    "question": "Who’s in charge?",
+    "answer": ["Dr. Risala Tasin Khan is the director."]
+  },
+  {
+    "question": "Who runs PGDIT?",
+    "answer": ["Prof. Shamim Al Mamun is the coordinator."]
+  },
+  {
+    "question": "Are teachers nice?",
+    "answer": ["Yes, very helpful and friendly."]
+  },
+  {
+    "question": "Can I join without IT knowledge?",
+    "answer": ["Yes, no experience needed."]
+  },
+  {
+    "question": "When are classes?",
+    "answer": ["Mostly on Fridays and Saturdays."]
+  },
+  {
+    "question": "Is it good for working people?",
+    "answer": ["Yes, perfect for busy schedules."]
+  },
+  {
+    "question": "How can I talk to teachers?",
+    "answer": ["You can email or meet after class."]
+  },
+  {
+    "question": "Do I need to do a project?",
+    "answer": ["Yes, a final project is required."]
+  },
+  {
+    "question": "Is the fee high?",
+    "answer": ["No, it’s quite affordable."]
+  },
+  {
+    "question": "Who helps if I have problems?",
+    "answer": ["The coordinator and teachers help you."]
+  },
+  {
+    "question": "Are exams tough?",
+    "answer": ["They are fair and test what you learn."]
+  },
+  {
+    "question": "Can I get career advice?",
+    "answer": ["Yes, teachers and director help with that."]
+  },
+  {
+    "question": "Is the campus peaceful?",
+    "answer": ["Yes, it’s calm and good for study."]
+  },
+  {
+    "question": "Can I do extra classes?",
+    "answer": ["Yes, if you need extra help."]
+  },
+  {
+    "question": "Who plans the classes?",
+    "answer": ["The coordinator organizes the schedule."]
+  },
+  {
+    "question": "Do teachers update lessons?",
+    "answer": ["Yes, they keep content fresh."]
+  },
+  {
+    "question": "Is group work part of PGDIT?",
+    "answer": ["Yes, teamwork is encouraged."]
+  },
+  {
+    "question": "Can I meet the director?",
+    "answer": ["Yes, by appointment."]
+  },
+  {
+    "question": "How do I get study materials?",
+    "answer": ["Teachers provide books and slides."]
+  },
+  {
+    "question": "Are labs available?",
+    "answer": ["Yes, modern computer labs are there."]
+  },
+  {
+    "question": "Can I join PGDIT without experience?",
+    "answer": ["Yes, you can!"]
+  },
+  {
+    "question": "Are classes on weekends?",
+    "answer": ["Yes, mostly Fridays and Saturdays."]
+  },
+  {
+    "question": "Is it expensive?",
+    "answer": ["No, it’s affordable."]
+  },
+  {
+    "question": "Do I need a laptop?",
+    "answer": ["Yes, a laptop helps a lot."]
+  },
+  {
+    "question": "Are teachers friendly?",
+    "answer": ["Yes, very friendly."]
+  },
+  {
+    "question": "Can I ask teachers questions?",
+    "answer": ["Yes, anytime!"]
+  },
+  {
+    "question": "Is there a project at the end?",
+    "answer": ["Yes, you’ll do a final project."]
+  },
+  {
+    "question": "Can working people attend?",
+    "answer": ["Yes, schedule fits working folks."]
+  },
+  {
+    "question": "Is the director easy to reach?",
+    "answer": ["Yes, by appointment."]
+  },
+  {
+    "question": "Will I get career advice?",
+    "answer": ["Yes, help is available."]
+  },
+  {
+    "question": "Are labs available?",
+    "answer": ["Yes, modern labs are ready."]
+  },
+  {
+    "question": "Is attendance important?",
+    "answer": ["Yes, it matters."]
+  },
+  {
+    "question": "Do they update courses often?",
+    "answer": ["Yes, regularly."]
+  },
+  {
+    "question": "Is group work included?",
+    "answer": ["Yes, teamwork is part."]
+  },
+  {
+    "question": "Can I get help outside class?",
+    "answer": ["Yes, teachers help anytime."]
+  },
+  {
+    "question": "Are exams hard?",
+    "answer": ["No, fair and manageable."]
+  },
+  {
+    "question": "Is study material provided?",
+    "answer": ["Yes, both online and offline."]
+  },
+  {
+    "question": "Can I change class timing?",
+    "answer": ["Maybe, ask the coordinator."]
+  },
+  {
+    "question": "Are extra classes available?",
+    "answer": ["Yes, if needed."]
+  },
+  {
+    "question": "Is the campus peaceful?",
+    "answer": ["Yes, very calm and green."]
+  },
+  {
+    "question": "When did PGDIT start at JU?",
+    "answer": ["Around 2010, to teach IT skills quickly."]
+  },
+  {
+    "question": "Why was PGDIT created?",
+    "answer": ["To help non-IT graduates learn computer skills."]
+  },
+  {
+    "question": "How old is PGDIT at JU?",
+    "answer": ["It’s been running for over 10 years."]
+  },
+  {
+    "question": "Was PGDIT JU the first IT course here?",
+    "answer": ["No, JU had a Computer Centre before PGDIT started."]
+  },
+  {
+    "question": "Who started PGDIT at JU?",
+    "answer": ["It was launched by the Institute of Information Technology at JU."]
+  },
+  {
+    "question": "What was there before PGDIT at JU?",
+    "answer": ["There was a Computer Training Institute before PGDIT."]
+  },
+  {
+    "question": "Has PGDIT changed over time?",
+    "answer": ["Yes, the course has been updated regularly."]
+  },
+  {
+    "question": "Is PGDIT part of JU officially?",
+    "answer": ["Yes, it’s an official diploma from Jahangirnagar University."]
+  },
+  {
+    "question": "Who oversees PGDIT history at JU?",
+    "answer": ["The director and coordinator keep the program growing."]
+  },
+  {
+    "question": "Why choose PGDIT at JU historically?",
+    "answer": ["It has a strong history of quality IT education."]
+  }
+]
+
+ 

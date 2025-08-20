@@ -1,0 +1,666 @@
+[
+  {
+    "question": "Is there a bus on Fridays?",
+    "answer": ["Yes, buses run on Fridays for PGDIT students."]
+  },
+  {
+    "question": "Where does Route 1 start?",
+    "answer": ["From Motijheel, Shapla Chattar."]
+  },
+  {
+    "question": "Who to call for Route 1?",
+    "answer": ["Call Motin: 01685949646."]
+  },
+  {
+    "question": "Where does Route 2 start?",
+    "answer": ["Starts at Satrasta."]
+  },
+  {
+    "question": "Who to call for Route 2?",
+    "answer": ["Call Tablu: 01966233296."]
+  },
+  {
+    "question": "Where does Route 3 start?",
+    "answer": ["Near Sangshad Bhaban."]
+  },
+  {
+    "question": "Who to call for Route 3?",
+    "answer": ["Call Noyon: 01307987385."]
+  },
+  {
+    "question": "Where does Route 4 start?",
+    "answer": ["From BTV Bhaban area."]
+  },
+  {
+    "question": "Who to call for Route 4?",
+    "answer": ["Call Sumon: 01951677366."]
+  },
+  {
+    "question": "What time do buses leave Dhaka?",
+    "answer": ["Mostly at 7 AM; Route 4 leaves at 6:45 AM."]
+  },
+  {
+    "question": "When do buses return?",
+    "answer": ["Around 7 PM after classes."]
+  },
+  {
+    "question": "How to book a seat?",
+    "answer": ["Call 01715679264 to book."]
+  },
+  {
+    "question": "Who manages the bus service?",
+    "answer": ["Dr. Shamim Kaiser is the coordinator."]
+  },
+  {
+    "question": "Is the bus service free?",
+    "answer": ["Yes, it is free for PGDIT students."]
+  },
+  {
+    "question": "How many bus routes are there?",
+    "answer": ["There are 4 bus routes."]
+  },
+  {
+    "question": "What areas do buses cover?",
+    "answer": ["Buses cover Motijheel, Satrasta, Sangshad Bhaban, BTV Bhaban, and more."]
+  },
+  {
+    "question": "What major spots do routes pass?",
+    "answer": ["Routes pass Shahbagh, Dhanmondi, Gabtoli, Kalabagan, Kakoli, and others."]
+  },
+  {
+    "question": "Are buses punctual?",
+    "answer": ["Mostly yes, but can be delayed by traffic."]
+  },
+  {
+    "question": "Can I get on or off anywhere?",
+    "answer": ["No, only at designated stops."]
+  },
+  {
+    "question": "Are buses available in rainy season?",
+    "answer": ["Yes, buses run in all seasons."]
+  },
+  {
+    "question": "Is parking available at JU?",
+    "answer": ["Yes, parking is available on campus."]
+  },
+  {
+    "question": "How long is the bus ride?",
+    "answer": ["About 1 to 1.5 hours from Dhaka."]
+  },
+  {
+    "question": "Can I bring luggage on the bus?",
+    "answer": ["Yes, small luggage is allowed."]
+  },
+  {
+    "question": "Are the buses safe?",
+    "answer": ["Yes, the buses are generally safe."]
+  },
+  {
+    "question": "Can non-students use the bus?",
+    "answer": ["No, bus service is only for PGDIT/PMIT students."]
+  },
+  {
+    "question": "How to report issues with the bus?",
+    "answer": ["Contact the coordinator or route phone numbers."]
+  },
+  {
+    "question": "Are the buses air-conditioned?",
+    "answer": ["No, buses are non-AC."]
+  },
+  {
+    "question": "Are masks required on the bus?",
+    "answer": ["Follow current health guidelines."]
+  },
+  {
+    "question": "Can I bring friends on the bus?",
+    "answer": ["No, bus is only for registered students."]
+  },
+  {
+    "question": "Are there toilets on the bus?",
+    "answer": ["No, buses do not have toilets."]
+  },
+  {
+    "question": "Who do I contact if bus is late?",
+    "answer": ["Call your route’s contact number."]
+  },
+  {
+    "question": "How many buses run per route?",
+    "answer": ["Usually one bus per route on class days."]
+  },
+  {
+    "question": "What if I miss the bus?",
+    "answer": ["You need to arrange your own transport."]
+  },
+  {
+    "question": "Is the bus schedule fixed?",
+    "answer": ["Yes, mostly fixed on class Fridays."]
+  },
+  {
+    "question": "Are there evening buses?",
+    "answer": ["Yes, buses return after classes around 7 PM."]
+  },
+  {
+    "question": "Can I switch bus routes?",
+    "answer": ["Usually, students stick to assigned routes."]
+  },
+  {
+    "question": "Are the buses cleaned regularly?",
+    "answer": ["Yes, buses are cleaned before trips."]
+  },
+  {
+    "question": "Are bike racks available on the bus?",
+    "answer": ["No, bikes are not allowed on buses."]
+  },
+  {
+    "question": "Is there a bus stop near the PGDIT building?",
+    "answer": ["Yes, the main campus stop is close by."]
+  },
+  {
+    "question": "Do buses run on holidays?",
+    "answer": ["No, buses do not run on holidays."]
+  },
+  {
+    "question": "Can I get bus info online?",
+    "answer": ["Yes, info is on the official PGDIT website."]
+  },
+  {
+    "question": "Can I reserve my bus seat?",
+    "answer": ["Yes, by calling 01715679264."]
+  },
+  {
+    "question": "Are bus rides crowded?",
+    "answer": ["Yes, buses can be crowded during peak times."]
+  },
+  {
+    "question": "Is the bus driver experienced?",
+    "answer": ["Yes, drivers are trained and experienced."]
+  },
+  {
+    "question": "What is the contact number for Route 1?",
+    "answer": ["01685949646 (Motin)."]
+  },
+  {
+    "question": "What is the contact number for Route 2?",
+    "answer": ["01966233296 (Tablu)."]
+  },
+  {
+    "question": "What is the contact number for Route 3?",
+    "answer": ["01307987385 (Noyon)."]
+  },
+  {
+    "question": "What is the contact number for Route 4?",
+    "answer": ["01951677366 (Sumon)."]
+  },
+ {
+    "question": "Bus available?",
+    "answer": [
+      "Yes, buses run for PGDIT students."
+    ]
+  },
+  {
+    "question": "From which points bus start?",
+    "answer": [
+      "Buses start from Motijheel, Satrasta, Sangshad Bhaban, and BTV Bhaban areas."
+    ]
+  },
+  {
+    "question": "Tell me all routes?",
+    "answer": [
+      "There are 4 routes covering different areas of Dhaka to JU."
+    ]
+  },
+  {
+    "question": "Tell me all spots?",
+    "answer": [
+      "Routes pass through Shahbagh, Dhanmondi, Gabtoli, Kalabagan, Kakoli, and more."
+    ]
+  },
+  {
+    "question": "Start time?",
+    "answer": [
+      "Mostly at 7 AM, Route 4 leaves at 6:45 AM."
+    ]
+  },
+  {
+    "question": "When back from JU?",
+    "answer": [
+      "Buses return around 7 PM after classes."
+    ]
+  },
+  {
+    "question": "Is the bus free?",
+    "answer": [
+      "Yes, it is free for PGDIT students."
+    ]
+  },
+  {
+    "question": "Who coordinates the buses?",
+    "answer": [
+      "Dr. Shamim Kaiser manages the bus service."
+    ]
+  },
+  {
+    "question": "How to book a seat?",
+    "answer": [
+      "Call 01715679264 to reserve your seat."
+    ]
+  },
+  {
+    "question": "Are buses on Fridays only?",
+    "answer": [
+      "Yes, buses run mainly on Fridays for PGDIT classes."
+    ]
+  },
+  {
+    "question": "Route 1 start point?",
+    "answer": [
+      "Motijheel, Shapla Chattar."
+    ]
+  },
+  {
+    "question": "Route 2 start point?",
+    "answer": [
+      "Satrasta area."
+    ]
+  },
+  {
+    "question": "Route 3 start point?",
+    "answer": [
+      "Near Sangshad Bhaban, Paltan Bagaan."
+    ]
+  },
+  {
+    "question": "Route 4 start point?",
+    "answer": [
+      "BTV Bhaban area."
+    ]
+  },
+  {
+    "question": "Route 1 contact number?",
+    "answer": [
+      "Call Motin: 01685949646."
+    ]
+  },
+  {
+    "question": "Route 2 contact number?",
+    "answer": [
+      "Call Tablu: 01966233296."
+    ]
+  },
+  {
+    "question": "Route 3 contact number?",
+    "answer": [
+      "Call Noyon: 01307987385."
+    ]
+  },
+  {
+    "question": "Route 4 contact number?",
+    "answer": [
+      "Call Sumon: 01951677366."
+    ]
+  },
+  {
+    "question": "Are the buses safe?",
+    "answer": [
+      "Yes, buses are generally safe for students."
+    ]
+  },
+  {
+    "question": "Is parking available at JU?",
+    "answer": [
+      "Yes, there is parking space on campus."
+    ]
+  },
+  {
+    "question": "How long is the bus ride?",
+    "answer": [
+      "Usually about 1 to 1.5 hours from Dhaka."
+    ]
+  },
+  {
+    "question": "Can I get on/off anywhere?",
+    "answer": [
+      "No, you must use the designated stops on the route."
+    ]
+  },
+  {
+    "question": "Are there any evening buses?",
+    "answer": [
+      "Buses return after classes, around 7 PM."
+    ]
+  },
+  {
+    "question": "Is the bus schedule fixed?",
+    "answer": [
+      "Yes, but may vary slightly on special days."
+    ]
+  },
+  {
+    "question": "Can I contact the bus coordinator?",
+    "answer": [
+      "Yes, you can contact Dr. Shamim Kaiser."
+    ]
+  },
+  {
+    "question": "How many buses run each route?",
+    "answer": [
+      "Usually one bus per route on class days."
+    ]
+  },
+  {
+    "question": "Are the buses air-conditioned?",
+    "answer": [
+      "No, they are normal non-AC buses."
+    ]
+  },
+  {
+    "question": "Is bus service available in the rainy season?",
+    "answer": [
+      "Yes, buses run in all seasons."
+    ]
+  },
+  {
+    "question": "What if I miss the bus?",
+    "answer": [
+      "You need to arrange your own transport then."
+    ]
+  },
+  {
+    "question": "Is the bus route crowded?",
+    "answer": [
+      "Yes, buses can be crowded during peak times."
+    ]
+  },
+  {
+    "question": "Are there stops near major landmarks?",
+    "answer": [
+      "Yes, stops near Shahbagh, Gabtoli, and others."
+    ]
+  },
+  {
+    "question": "Can I get a bus pass?",
+    "answer": [
+      "No, tickets are not required as service is free."
+    ]
+  },
+  {
+    "question": "Do buses run on holidays?",
+    "answer": [
+      "No, buses only run on class days."
+    ]
+  },
+  {
+    "question": "Can I bring luggage on the bus?",
+    "answer": [
+      "Yes, but keep it small and manageable."
+    ]
+  },
+  {
+    "question": "Is there a bus if I live far from Dhaka?",
+    "answer": [
+      "You need to reach the starting point in Dhaka."
+    ]
+  },
+  {
+    "question": "Are buses punctual?",
+    "answer": [
+      "Mostly yes, but can be delayed by traffic."
+    ]
+  },
+  {
+    "question": "Can I get bus info online?",
+    "answer": [
+      "Yes, on the official PGDIT website."
+    ]
+  },
+  {
+    "question": "Who do I call if the bus is late?",
+    "answer": [
+      "Contact your route’s phone number."
+    ]
+  },
+  {
+    "question": "Is the bus schedule the same every week?",
+    "answer": [
+      "Yes, for regular class Fridays."
+    ]
+  },
+  {
+    "question": "How do I know my bus stop?",
+    "answer": [
+      "Check the route details on the website or ask the coordinator."
+    ]
+  },
+  {
+    "question": "Are the buses wheelchair accessible?",
+    "answer": [
+      "No, buses are not equipped for wheelchairs."
+    ]
+  },
+  {
+    "question": "Are masks required on the bus?",
+    "answer": [
+      "Follow current health guidelines when using the bus."
+    ]
+  },
+  {
+    "question": "Can I bring friends on the bus?",
+    "answer": [
+      "Bus is only for PGDIT and PMIT students."
+    ]
+  },
+  {
+    "question": "Are there toilet facilities on the bus?",
+    "answer": [
+      "No, buses do not have toilets."
+    ]
+  },
+  {
+    "question": "Is the bus driver experienced?",
+    "answer": [
+      "Yes, drivers are trained for safety."
+    ]
+  },
+  {
+    "question": "How to report bus problems?",
+    "answer": [
+      "Contact the coordinator or your route’s phone number."
+    ]
+  },
+  {
+    "question": "Are bikes allowed on campus buses?",
+    "answer": [
+      "No, only passengers allowed."
+    ]
+  },
+  {
+    "question": "Can I switch routes if needed?",
+    "answer": [
+      "Usually you should stick to your assigned route."
+    ]
+  },
+  {
+    "question": "Are the buses cleaned regularly?",
+    "answer": [
+      "Yes, buses are cleaned before trips."
+    ]
+  },
+  {
+    "question": "Can I use the bus if I am not a student?",
+    "answer": [
+      "No, bus service is only for PGDIT/PMIT students."
+    ]
+  },
+  {
+    "question": "Is there a bus to JU?",
+    "answer": ["Yes, there are buses to Jahangirnagar University."]
+  },
+  {
+    "question": "Where do buses to JU start?",
+    "answer": ["They usually start from Dhaka city."]
+  },
+  {
+    "question": "What’s the bus route to JU?",
+    "answer": ["Most buses take the Mirpur-Bangabandhu Bridge route."]
+  },
+  {
+    "question": "Are there buses during class days?",
+    "answer": ["Yes, buses run on Fridays and Saturdays."]
+  },
+  {
+    "question": "What time do buses leave for JU?",
+    "answer": ["Buses leave early morning, around 7 AM."]
+  },
+  {
+    "question": "Is there a bus stop near the PGDIT building?",
+    "answer": ["Yes, the main campus bus stop is close by."]
+  },
+  {
+    "question": "How long does the bus ride take?",
+    "answer": ["About 1 to 1.5 hours from Dhaka."]
+  },
+  {
+    "question": "Are buses safe and comfortable?",
+    "answer": ["Most buses are safe, but comfort may vary."]
+  },
+  {
+    "question": "Can I get a bus ticket in advance?",
+    "answer": ["Usually, tickets are bought on the spot."]
+  },
+  {
+    "question": "Is there bus service late evening?",
+    "answer": ["Bus service may be limited after 6 PM."]
+  },
+  {
+    "question": "Are there private bus options?",
+    "answer": ["Yes, private buses and vans are available."]
+  },
+  {
+    "question": "Is there a bus from JU back to Dhaka?",
+    "answer": ["Yes, buses run back after classes end."]
+  },
+  {
+    "question": "Do buses get crowded on class days?",
+    "answer": ["Yes, buses can be crowded during peak times."]
+  },
+  {
+    "question": "Is there parking if I bring my own vehicle?",
+    "answer": ["Yes, JU has parking areas on campus."]
+  },
+  {
+    "question": "How to check the bus schedule?",
+    "answer": ["You can ask at the JU transport office or check online."]
+  },
+  {
+    "question": "Is there a bus for PGDIT students on Fridays?",
+    "answer": ["Yes, there are special buses on Fridays for PGDIT and PMIT students."]
+  },
+  {
+    "question": "Where does Route 1 start?",
+    "answer": ["Route 1 starts at Motijheel, Shapla Chattar."]
+  },
+  {
+    "question": "What places does Route 1 pass through?",
+    "answer": ["It goes through Shahbagh, Dhanmondi, Kalabagan, Gabtoli, Savar Bus Stand, and ends at JU campus."]
+  },
+  {
+    "question": "Who can I contact for Route 1 bus info?",
+    "answer": ["You can contact Motin at 01685949646."]
+  },
+  {
+    "question": "Where does Route 2 start?",
+    "answer": ["Route 2 starts at Satrasta and goes through Kakoli and Shyampur."]
+  },
+  {
+    "question": "Who is the contact person for Route 2?",
+    "answer": ["Contact Tablu at 01966233296."]
+  },
+  {
+    "question": "What is the start point of Route 3?",
+    "answer": ["Route 3 starts near Sangshad Bhaban, Paltan Bagaan."]
+  },
+  {
+    "question": "Who is the contact for Route 3 bus?",
+    "answer": ["Noyon can be reached at 01307987385."]
+  },
+  {
+    "question": "Where does Route 4 start?",
+    "answer": ["Route 4 starts at BTV Bhaban area."]
+  },
+  {
+    "question": "Who to call for Route 4 info?",
+    "answer": ["Contact Sumon at 01951677366."]
+  },
+  {
+    "question": "What time do buses leave Dhaka for JU on Fridays?",
+    "answer": ["Buses leave at 7:00 AM, except Route 4 which leaves at 6:45 AM."]
+  },
+  {
+    "question": "Do buses return to Dhaka after classes?",
+    "answer": ["Yes, buses return around 7:00 PM after classes end."]
+  },
+  {
+    "question": "How can I book a bus seat?",
+    "answer": ["For booking, call 01715679264."]
+  },
+  {
+    "question": "Who coordinates the bus service?",
+    "answer": ["Dr. M Shamim Kaiser is the coordinator."]
+  },
+  {
+    "question": "Is there a bus on Fridays?",
+    "answer": ["Yes, buses run on Fridays for PGDIT students."]
+  },
+  {
+    "question": "Where does Route 1 start?",
+    "answer": ["From Motijheel, Shapla Chattar."]
+  },
+  {
+    "question": "Who to call for Route 1?",
+    "answer": ["Call Motin: 01685949646."]
+  },
+  {
+    "question": "Where does Route 2 start?",
+    "answer": ["Starts at Satrasta."]
+  },
+  {
+    "question": "Who to call for Route 2?",
+    "answer": ["Call Tablu: 01966233296."]
+  },
+  {
+    "question": "Where does Route 3 start?",
+    "answer": ["Near Sangshad Bhaban."]
+  },
+  {
+    "question": "Who to call for Route 3?",
+    "answer": ["Call Noyon: 01307987385."]
+  },
+  {
+    "question": "Where does Route 4 start?",
+    "answer": ["From BTV Bhaban area."]
+  },
+  {
+    "question": "Who to call for Route 4?",
+    "answer": ["Call Sumon: 01951677366."]
+  },
+  {
+    "question": "What time do buses leave Dhaka?",
+    "answer": ["Mostly at 7 AM; Route 4 leaves at 6:45 AM."]
+  },
+  {
+    "question": "When do buses return?",
+    "answer": ["Around 7 PM after classes."]
+  },
+  {
+    "question": "How to book a seat?",
+    "answer": ["Call 01715679264 to book."]
+  },
+  {
+    "question": "Who manages the bus service?",
+    "answer": ["Dr. Shamim Kaiser is the coordinator."]
+  }
+]
+
+
+
+ 

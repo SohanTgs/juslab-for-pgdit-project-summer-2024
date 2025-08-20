@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the name of the project?",
+    "answer": ["JusLab - AI-Powered PGDIT Assistant."]
+  },
+  {
+    "question": "What type of project is JusLab?",
+    "answer": ["It's a custom AI chatbot project."]
+  },
+  {
+    "question": "Who developed the JusLab chatbot?",
+    "answer": ["Md. Zahidul Islam Sohan and Waliullah."]
+  },
+  {
+    "question": "Which batch are the developers from?",
+    "answer": ["Summer-2024 PGDIT batch."]
+  },
+  {
+    "question": "Which semester was the project done in?",
+    "answer": ["The project was completed in the third semester."]
+  },
+  {
+    "question": "When was the project submitted?",
+    "answer": ["On 9 July 2025."]
+  },
+  {
+    "question": "Who supervised the JusLab project?",
+    "answer": ["Dr. Shamim Al Mamun, Professor at IIT-JU."]
+  },
+  {
+    "question": "Supervised name?",
+    "answer": ["Dr. Shamim Al Mamun, Professor at IIT-JU."]
+  },
+  {
+    "question": "Project Supervised?",
+    "answer": ["Dr. Shamim Al Mamun, Professor at IIT-JU."]
+  },
+  {
+    "question": "Project submitted to?",
+    "answer": ["Dr. Shamim Al Mamun, Professor at IIT-JU."]
+  },
+  {
+    "question": "What is the purpose of JusLab?",
+    "answer": ["To assist PGDIT students with useful information."]
+  },
+  {
+    "question": "Was the chatbot created for JU students?",
+    "answer": ["Yes, specifically for PGDIT students at JU."]
+  },
+  {
+    "question": "Is JusLab an academic project?",
+    "answer": ["Yes, it was submitted as part of the PGDIT curriculum."]
+  },
+  {
+    "question": "Did two students work on JusLab?",
+    "answer": ["Yes, it was a team project by two students."]
+  },
+  {
+    "question": "Is this chatbot based on real data?",
+    "answer": ["Yes, it was designed using real PGDIT-related data."]
+  },
+  {
+    "question": "What technologies were used to build JusLab?",
+    "answer": ["It uses Django, Python, NLP, and Bootstrap."]
+  },
+  {
+    "question": "Can JusLab answer questions about PGDIT?",
+    "answer": ["Yes, it was designed to answer PGDIT-specific queries."]
+  },
+  {
+    "question": "Was NLP used in JusLab?",
+    "answer": ["Yes, it uses NLP to understand and respond to queries."]
+  },
+  {
+    "question": "Is JusLab available online?",
+    "answer": ["It's a prototype, and may be deployed for student use."]
+  },
+  {
+    "question": "Was JusLab part of the final semester project?",
+    "answer": ["Yes, it was submitted in the third and final semester."]
+  },
+  {
+    "question": "Is JusLab interactive?",
+    "answer": ["Yes, it responds to user questions in real time."]
+  },
+  {
+    "question": "Are the developers from IIT-JU?",
+    "answer": ["Yes, they are PGDIT students at IIT-Jahangirnagar University."]
+  },
+  {
+    "question": "Is the project formally submitted?",
+    "answer": ["Yes, it was officially submitted to the institute."]
+  },
+  {
+    "question": "Which semester was the project done in?",
+    "answer": ["The project was completed in the third semester."]
+  },
+  {
+    "question": "What program are the developers enrolled in?",
+    "answer": ["They are PGDIT students."]
+  }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Hi",
+        "answer": "Hello! I'm your xCash assistant. How can I help you today?"
+    },
+    {
+        "question": "Hello",
+        "answer": "Hey there! Ask me anything about xCash."
+    },
+    {
+        "question": "Good morning",
+        "answer": "Good morning! Ready to assist you today."
+    },
+    {
+        "question": "Good afternoon",
+        "answer": "Good afternoon! What would you like to know today?"
+    },
+    {
+        "question": "Good evening",
+        "answer": "Good evening! How can I assist with xCash?"
+    },
+    {
+        "question": "Hey",
+        "answer": "Hey! What can I do for you today?"
+    },
+    {
+        "question": "Yo",
+        "answer": "Yo! Need help with your xCash wallet?"
+    },
+    {
+        "question": "What's up",
+        "answer": "All set! How can I assist you with xCash?"
+    },
+    {
+        "question": "How are you",
+        "answer": "I'm a bot, but ready to help! What do you need today?"
+    },
+    {
+        "question": "Nice to meet you",
+        "answer": "Pleasure’s mine! How can I help?"
+    },
+    {
+        "question": "Howdy",
+        "answer": "Howdy! Ask me anything about xCash."
+    },
+    {
+        "question": "Good day",
+        "answer": "Good day! How can I assist you?"
+    },
+    {
+        "question": "Morning",
+        "answer": "Morning! Ready to help with anything xCash."
+    },
+    {
+        "question": "Afternoon",
+        "answer": "Afternoon! How can I support you today?"
+    },
+    {
+        "question": "Evening",
+        "answer": "Evening! Need assistance with something?"
+    },
+    {
+        "question": "Greetings",
+        "answer": "Greetings! I'm here to help with your xCash queries."
+    },
+    {
+        "question": "Hi there",
+        "answer": "Hi there! How can I help with xCash today?"
+    },
+    {
+        "question": "Hello there",
+        "answer": "Hello there! What can I do for you?"
+    },
+    {
+        "question": "Hi xCash bot",
+        "answer": "That's me! How can I assist?"
+    },
+    {
+        "question": "Hey xCash",
+        "answer": "Yes? How can I help you with xCash?"
+    }
+]

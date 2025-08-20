@@ -1,0 +1,194 @@
+[
+  {
+    "question": "is transportation available",
+    "answer": ["Yes, transport facilities are available for students coming from outside campus."]
+  },
+  {
+    "question": "are labs provided",
+    "answer": ["Yes, hands-on labs with modern equipment are part of the training."]
+  },
+  {
+    "question": "will I need a laptop",
+    "answer": ["It's helpful to have one, but on-campus labs are available too."]
+  },
+  {
+    "question": "what facilities are available for PGDIT students",
+    "answer": ["Students have access to modern computer labs, library, and study spaces."]
+  },
+  {
+    "question": "is there Wi-Fi on campus",
+    "answer": ["Yes, high-speed Wi-Fi is available throughout the institute."]
+  },
+  {
+    "question": "are there computer labs for practice",
+    "answer": ["Yes, fully equipped labs are available for hands-on sessions."]
+  },
+  {
+    "question": "can I borrow books from the university library",
+    "answer": ["Yes, PGDIT students can borrow books and access digital resources."]
+  },
+  {
+    "question": "is there academic counseling available",
+    "answer": ["Yes, academic counseling is provided to help students succeed."]
+  },
+  {
+    "question": "are there career counseling services",
+    "answer": ["Yes, career guidance and job placement support are offered."]
+  },
+  {
+    "question": "is there help available for technical issues",
+    "answer": ["Yes, IT support is available for students facing technical problems."]
+  },
+  {
+    "question": "are study groups or clubs organized",
+    "answer": ["Yes, students often form study groups and tech clubs."]
+  },
+  {
+    "question": "can I access online learning materials",
+    "answer": ["Yes, study materials and resources are available online."]
+  },
+  {
+    "question": "is there a student lounge or common area",
+    "answer": ["Yes, there are spaces for students to relax and socialize."]
+  },
+  {
+    "question": "is there parking available for students",
+    "answer": ["Yes, parking is available on campus for students."]
+  },
+  {
+    "question": "are there any cafeteria facilities",
+    "answer": ["Yes, a cafeteria with food and drinks is available."]
+  },
+  {
+    "question": "can I get help with internship opportunities",
+    "answer": ["Yes, the institute assists with internship placements."]
+  },
+  {
+    "question": "are there scholarship or financial aid offices",
+    "answer": ["Yes, financial aid advice is available for eligible students."]
+  },
+  {
+    "question": "can I get help with thesis or project work",
+    "answer": ["Yes, faculty provide guidance on projects and research."]
+  },
+  {
+    "question": "are there health services on campus",
+    "answer": ["Basic health services are available at the university clinic."]
+  },
+  {
+    "question": "is transportation available for students",
+    "answer": ["Yes, transport facilities are offered for off-campus students."]
+  },
+  {
+    "question": "can students use the computer labs after class hours",
+    "answer": ["Yes, labs are often accessible beyond class time."]
+  },
+  {
+    "question": "is there a helpdesk for administrative queries",
+    "answer": ["Yes, an administrative office helps with enrollment and other queries."]
+  },
+  {
+    "question": "are there language support services",
+    "answer": ["Language assistance may be available for students who need it."]
+  },
+  {
+    "question": "is there accommodation for students",
+    "answer": ["Accommodation is available but limited; check with the housing office."]
+  },
+  {
+    "question": "can I get print and photocopy facilities",
+    "answer": ["Yes, printing and photocopying services are on campus."]
+  },
+  {
+    "question": "is there support for differently-abled students",
+    "answer": ["Yes, facilities are in place to assist differently-abled students."]
+  },
+  {
+    "question": "do students get email accounts from the university",
+    "answer": ["Yes, official email accounts are provided."]
+  },
+  {
+    "question": "can I join online discussion forums",
+    "answer": ["Yes, the program supports online forums for discussions."]
+  },
+  {
+    "question": "are there workshops or seminars offered",
+    "answer": ["Yes, regular workshops and guest lectures are organized."]
+  },
+  {
+    "question": "do students get career placement support",
+    "answer": ["Yes, placement assistance is part of the support services."]
+  },
+  {
+    "question": "is there counseling for stress or mental health",
+    "answer": ["Mental health counseling services are available."]
+  },
+  {
+    "question": "is the campus safe for students",
+    "answer": ["Yes, security measures are in place for student safety."]
+  },
+  {
+    "question": "can I get help with research work",
+    "answer": ["Faculty provide support for research and academic projects."]
+  },
+  {
+    "question": "are there language labs available",
+    "answer": ["Language labs may be available to improve communication skills."]
+  },
+  {
+    "question": "can students access digital libraries",
+    "answer": ["Yes, digital library resources are accessible."]
+  },
+  {
+    "question": "is there help with resume building",
+    "answer": ["Career services assist students with CV and interview preparation."]
+  },
+  {
+    "question": "can students participate in tech competitions",
+    "answer": ["Yes, students are encouraged to join competitions and hackathons."]
+  },
+  {
+    "question": "is there a student union or council",
+    "answer": ["Yes, students have representation through a student council."]
+  },
+  {
+    "question": "are there mentoring programs",
+    "answer": ["Yes, mentoring is available from senior students and faculty."]
+  },
+  {
+    "question": "can I get help with scholarship applications",
+    "answer": ["Yes, guidance is provided for scholarship applications."]
+  },
+  {
+    "question": "are there language classes for non-English speakers",
+    "answer": ["English language support classes may be offered."]
+  },
+  {
+    "question": "can I use campus computers for my own projects",
+    "answer": ["Yes, lab computers are available for student use during open hours."]
+  },
+  {
+    "question": "are there opportunities for student exchange programs",
+    "answer": ["Currently, exchange programs are limited but may be available in the future."]
+  },
+  {
+    "question": "is there any alumni network support",
+    "answer": ["Yes, alumni network helps with mentoring and job placements."]
+  },
+  {
+    "question": "can I attend seminars from other departments",
+    "answer": ["Yes, students are encouraged to attend relevant seminars."]
+  },
+  {
+    "question": "do students get orientation sessions",
+    "answer": ["Yes, orientation is provided at the start of the program."]
+  },
+  {
+    "question": "can I access online courses through the institute",
+    "answer": ["Yes, supplementary online courses may be available."]
+  },
+  {
+    "question": "what support is available for new students",
+    "answer": ["New students get orientation, academic counseling, and peer support."]
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "question": "Is there a bus on Fridays?",
+    "answer": ["Yes, buses run on Fridays for PGDIT students."]
+  },
+  {
+    "question": "Hey",
+    "answer": ["Hey! Looking for details about PGDIT at IIT, JU?"]
+  },
+  {
+    "question": "Good morning",
+    "answer": ["Good morning! How can I assist you with the PGDIT course today?"]
+  },
+  {
+    "question": "Good afternoon",
+    "answer": ["Good afternoon! I'm here if you have any questions about the PGDIT program."]
+  },
+  {
+    "question": "Good evening",
+    "answer": ["Good evening! Let me know if you need anything about PGDIT at JU."]
+  },
+  {
+    "question": "Anyone here?",
+    "answer": ["Yes! I'm here to help you with anything about the PGDIT program."]
+  },
+  {
+    "question": "Is anyone available?",
+    "answer": ["I'm right here to assist you with the PGDIT course details."]
+  },
+  {
+    "question": "Are you real?",
+    "answer": ["I'm a virtual assistant, but I’m here to help like a real person!"]
+  },
+  {
+    "question": "Can someone help me?",
+    "answer": ["Of course! I'm here to assist with your PGDIT queries."]
+  },
+  {
+    "question": "I need help",
+    "answer": ["Sure! What do you want to know about the PGDIT program?"]
+  },
+  {
+    "question": "Who's this?",
+    "answer": ["I'm your assistant for the PGDIT program at IIT, JU."]
+  },
+  {
+    "question": "Is this PGDIT support?",
+    "answer": ["Yes! This is your virtual support for PGDIT at JU."]
+  },
+  {
+    "question": "Greetings",
+    "answer": ["Greetings! I'm here to help with anything related to PGDIT at JU."]
+  },
+  {
+    "question": "Is this JU PGDIT?",
+    "answer": ["Yes, welcome! I can guide you with all PGDIT program details."]
+  },
+  {
+    "question": "What is this page about?",
+    "answer": ["This is the support chatbot for the PGDIT program at JU."]
+  },
+  {
+    "question": "Can you guide me?",
+    "answer": ["Sure! Ask anything about the PGDIT program at IIT, JU."]
+  },
+  {
+    "question": "Any admission info?",
+    "answer": ["Yes! Ask away—I can help you with PGDIT admission details."]
+  },
+  {
+    "question": "PGDIT",
+    "answer": ["Hello! How can I support you with PGDIT-related questions?"]
+  },
+  {
+    "question": "Is PGDIT open now?",
+    "answer": ["Let me check the latest updates for you!"]
+  },
+  {
+    "question": "Who are you?",
+    "answer": ["I'm your friendly assistant for the PGDIT program at JU!"]
+  },
+  {
+    "question": "How are you?",
+    "answer": ["Doing well, thanks! How can I help with PGDIT today?"]
+  },
+  {
+    "question": "I just found this site",
+    "answer": ["Great! This is the official site for PGDIT at IIT, JU. Need help?"]
+  },
+  {
+    "question": "I'm new here",
+    "answer": ["Welcome! Ask me anything about the PGDIT program."]
+  },
+  {
+    "question": "Can I ask something?",
+    "answer": ["Absolutely! What would you like to know about PGDIT?"]
+  },
+  {
+    "question": "PGDIT bot",
+    "answer": ["Hi! I'm here to support your PGDIT queries."]
+  },
+  {
+    "question": "Is this JU?",
+    "answer": ["Yes, this is the PGDIT program from IIT, Jahangirnagar University."]
+  },
+  {
+    "question": "Is this the right place for PGDIT?",
+    "answer": ["Yes! You're in the right place to learn about PGDIT at JU."]
+  },
+  {
+    "question": "Just browsing",
+    "answer": ["Welcome! Let me know if anything about PGDIT catches your interest."]
+  },
+  {
+    "question": "Again",
+    "answer": ["Hey there! Back for more PGDIT info?"]
+  },
+  {
+    "question": "Looking for a course",
+    "answer": ["PGDIT might be a great fit! Want to know more?"]
+  },
+  {
+    "question": "Team",
+    "answer": ["Hi! This is your PGDIT assistant, how can I help?"]
+  },
+  {
+    "question": "Is this IIT?",
+    "answer": ["Yes! This is IIT under JU, and this bot is for PGDIT support."]
+  },
+  {
+    "question": "Is admission ongoing?",
+    "answer": ["I'll get the latest admission info for you. One moment!"]
+  },
+  {
+    "question": "Good day",
+    "answer": ["Good day! How can I assist you with PGDIT at JU?"]
+  },
+  {
+    "question": "Any brochure?",
+    "answer": ["Yes, I can help you with the PGDIT brochure. Just a sec!"]
+  },
+  {
+    "question": "Can I apply?",
+    "answer": ["Absolutely! I can guide you through the PGDIT application process."]
+  },
+  {
+    "question": "Yo",
+    "answer": ["Yo! Need anything about PGDIT at JU?"]
+  },
+  {
+    "question": "Bot",
+    "answer": ["Hey! I'm your PGDIT bot—ask me anything!"]
+  },
+  {
+    "question": "When did PGDIT start?",
+    "answer": ["Great question! The PGDIT program at IIT, JU started in 2005."]
+  },
+  {
+    "question": "Is PGDIT for me?",
+    "answer": ["Let's find out! I can help you decide if PGDIT fits your goals."]
+  },
+  {
+    "question": "What is PGDIT?",
+    "answer": ["PGDIT stands for Post Graduate Diploma in IT, offered by IIT, JU."]
+  },
+  {
+    "question": "Is this full-time?",
+    "answer": ["PGDIT is a part-time evening program—great for professionals!"]
+  },
+  {
+    "question": "Can I join from work?",
+    "answer": ["Yes! PGDIT is designed for working individuals."]
+  },
+  {
+    "question": "Any classes on weekend?",
+    "answer": ["Yes! Classes are on Friday and Saturday."]
+  },
+  {
+    "question": "How long is the course?",
+    "answer": ["PGDIT is a one-year evening diploma program."]
+  },
+  {
+    "question": "Where is IIT located?",
+    "answer": ["IIT is inside the campus of Jahangirnagar University."]
+  },
+  {
+    "question": "Is this a JU certificate?",
+    "answer": ["Yes! PGDIT is certified by Jahangirnagar University."]
+  },
+  {
+    "question": "Just checking",
+    "answer": ["Sure! Let me know if you need anything about PGDIT."]
+  },
+  {
+    "question": "Is this chat live?",
+    "answer": ["I'm always here to assist you—ask anything!"]
+  },
+  {
+    "question": "You there?",
+    "answer": ["Yes, always! How can I help you with PGDIT?"]
+  },
+  {
+    "question": "Can I talk to someone?",
+    "answer": ["I'm your virtual guide for PGDIT. Ask me anything!"]
+  },
+  {
+    "question": "What's up?",
+    "answer": ["All good! Want to know something about PGDIT?"]
+  },
+  {
+    "question": "Again",
+    "answer": ["Welcome back! Ready to explore more about PGDIT?"]
+  },
+  {
+    "question": "I missed admission",
+    "answer": ["Don't worry! I can tell you when the next intake starts."]
+  },
+  {
+    "question": "This PGDIT course—what is it?",
+    "answer": ["It's a professional IT diploma by IIT under JU—great for career growth!"]
+  },
+  {
+    "question": "Which dept runs this?",
+    "answer": ["It's run by the Institute of Information Technology (IIT) at JU."]
+  },
+  {
+    "question": "Do you offer classes online?",
+    "answer": ["PGDIT classes are usually held physically at IIT, JU."]
+  },
+  {
+    "question": "Any support?",
+    "answer": ["Yes! I'm here to support you with everything PGDIT-related."]
+  },
+  {
+    "question": "Is there any help desk?",
+    "answer": ["This chat is your help desk—ask me anything you want!"]
+  },
+  {
+    "question": "Can you help with form?",
+    "answer": ["Of course! I can walk you through the PGDIT form process."]
+  },
+  {
+    "question": "Is this full of tech?",
+    "answer": ["Yes! PGDIT covers programming, networking, databases and more."]
+  },
+  {
+    "question": "Do I need a laptop?",
+    "answer": ["It's recommended, especially for lab-based classes."]
+  },
+  {
+    "question": "Who are the teachers?",
+    "answer": ["PGDIT classes are taken by IIT faculty and industry experts."]
+  },
+  {
+    "question": "Is this for beginners?",
+    "answer": ["Yes, PGDIT welcomes students with any background!"]
+  },
+  {
+    "question": "How to contact you?",
+    "answer": ["You can reach IIT, JU via the contacts listed on the PGDIT website."]
+  },
+  {
+    "question": "Does PGDIT have labs?",
+    "answer": ["Yes! You'll get hands-on experience through lab sessions."]
+  },
+  {
+    "question": "Do I need coding knowledge?",
+    "answer": ["Not mandatory, but having some helps. PGDIT also starts from basics."]
+  },
+  {
+    "question": "Is the program recognized?",
+    "answer": ["Yes, it's recognized by JU and well-known in the industry."]
+  },
+  {
+    "question": "Will I get a certificate?",
+    "answer": ["Yes, you'll receive a certificate from JU after completion."]
+  },
+  {
+    "question": "What's the fee?",
+    "answer": ["I can help you with the latest fee structure. Give me a moment."]
+  },
+  {
+    "question": "When are the classes?",
+    "answer": ["Usually Friday and Saturday in the evening."]
+  },
+  {
+    "question": "Do you provide placement?",
+    "answer": ["While PGDIT doesn't guarantee placement, many students land great jobs."]
+  },
+  {
+    "question": "Any student reviews?",
+    "answer": ["Many alumni speak highly of the program’s impact on their careers!"]
+  },
+  {
+    "question": "Does PGDIT help in jobs?",
+    "answer": ["Definitely! It adds strong value to your IT career."]
+  },
+  {
+    "question": "Is it worth doing?",
+    "answer": ["Many professionals found it highly rewarding—want more info?"]
+  },
+  {
+    "question": "Is it hard?",
+    "answer": ["It's manageable with dedication. Many do it alongside jobs."]
+  },
+  {
+    "question": "What subjects are covered?",
+    "answer": ["Courses include Python, Networking, Databases, and more!"]
+  },
+  {
+    "question": "How many seats?",
+    "answer": ["I'll check the latest seat availability for you."]
+  },
+  {
+    "question": "What's the deadline?",
+    "answer": ["Let me find the current admission deadline for you."]
+  },
+  {
+    "question": "Is this evening course?",
+    "answer": ["Yes, PGDIT is an evening course suitable for professionals."]
+  },
+  {
+    "question": "Is there any test?",
+    "answer": ["Yes, usually there's a written admission test."]
+  },
+  {
+    "question": "When is orientation?",
+    "answer": ["Orientation dates are shared after admission confirmation."]
+  },
+  {
+    "question": "Do you have a Facebook page?",
+    "answer": ["Yes! You can follow PGDIT at IIT, JU on Facebook for updates."]
+  },
+  {
+    "question": "Any scholarships?",
+    "answer": ["Currently, PGDIT doesn't offer scholarships but it's affordable."]
+  },
+  {
+    "question": "Can foreigners apply?",
+    "answer": ["Yes, international applicants can apply to PGDIT too!"]
+  },
+  {
+    "question": "How to prepare for admission?",
+    "answer": ["Focus on basic IT concepts. I can share more tips if you'd like."]
+  },
+  {
+    "question": "How many terms?",
+    "answer": ["PGDIT is divided into 3 terms across one year."]
+  },
+  {
+    "question": "Do I get class recordings?",
+    "answer": ["Classes are live, and recordings depend on instructor policies."]
+  }
+]

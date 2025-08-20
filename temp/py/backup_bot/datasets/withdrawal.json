@@ -1,0 +1,481 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hello! Need help withdrawing funds in xCash?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi! How can I assist with withdrawals on xCash?"
+  },
+  {
+    "question": "Anyone there?",
+    "answer": "Yes, ready to assist with your xCash withdrawals."
+  },
+  {
+    "question": "Need withdrawal help",
+    "answer": "Sure! What withdrawal questions do you have?"
+  },
+  {
+    "question": "How to withdraw money?",
+    "answer": "Use Withdrawal option in your xCash wallet."
+  },
+  {
+    "question": "Withdrawal not working",
+    "answer": "Try again or contact xCash support if issue persists."
+  },
+  {
+    "question": "Where is withdrawal history?",
+    "answer": "Check Transactions > Withdrawals in xCash app."
+  },
+  {
+    "question": "Is withdrawal instant?",
+    "answer": "Most withdrawals process quickly on xCash."
+  },
+  {
+    "question": "Withdrawal limits?",
+    "answer": "Limits depend on your xCash account type."
+  },
+  {
+    "question": "Need support withdrawing",
+    "answer": "I’m here to help with withdrawals on xCash."
+  },
+  {
+    "question": "How long withdrawals take?",
+    "answer": "Usually minutes, depending on method in xCash."
+  },
+  {
+    "question": "Withdrawal fees?",
+    "answer": "Some fees may apply; check xCash for details."
+  },
+  {
+    "question": "Can I cancel withdrawal?",
+    "answer": "Usually not after processing in xCash."
+  },
+  {
+    "question": "Withdrawal failed",
+    "answer": "Verify info and retry or contact xCash support."
+  },
+  {
+    "question": "Hi, withdrawal help",
+    "answer": "Ready to assist you with xCash withdrawals."
+  },
+  {
+    "question": "How to withdraw to bank?",
+    "answer": "Link your bank and select it during withdrawal."
+  },
+  {
+    "question": "Is withdrawal secure?",
+    "answer": "xCash uses strong security for all withdrawals."
+  },
+  {
+    "question": "Where to find withdrawal info?",
+    "answer": "Check wallet and transaction history in xCash."
+  },
+  {
+    "question": "Need quick withdrawal",
+    "answer": "Most withdrawals process fast with xCash."
+  },
+  {
+    "question": "Why withdrawal declined?",
+    "answer": "Check limits and account status in xCash."
+  },
+  {
+    "question": "How do I withdraw money?",
+    "answer": "To withdraw funds, use the withdrawal option in your xCash wallet."
+  },
+  {
+    "question": "Can I withdraw to my bank account?",
+    "answer": "Yes, xCash allows direct withdrawals to linked bank accounts."
+  },
+  {
+    "question": "What’s the withdrawal limit?",
+    "answer": "Withdrawal limits depend on your xCash account verification level."
+  },
+  {
+    "question": "How long does withdrawal take?",
+    "answer": "Most xCash withdrawals process within a few minutes."
+  },
+  {
+    "question": "Are there fees for withdrawal?",
+    "answer": "xCash applies minimal fees for withdrawals based on amount."
+  },
+  {
+    "question": "Can I cancel a withdrawal?",
+    "answer": "Withdrawals can be canceled if still pending in xCash."
+  },
+  {
+    "question": "Is withdrawal available 24/7?",
+    "answer": "Yes, xCash supports withdrawals any time of day."
+  },
+  {
+    "question": "How do I check withdrawal status?",
+    "answer": "Check your withdrawal history in the xCash app dashboard."
+  },
+  {
+    "question": "Why was my withdrawal declined?",
+    "answer": "Check account balance and verification status in xCash."
+  },
+  {
+    "question": "Can I withdraw from multiple accounts?",
+    "answer": "xCash withdrawals must be done per linked account."
+  },
+  {
+    "question": "Is withdrawal secure?",
+    "answer": "xCash uses encryption and two-factor authentication for security."
+  },
+  {
+    "question": "Can I set a withdrawal schedule?",
+    "answer": "Currently, xCash supports manual withdrawal requests only."
+  },
+  {
+    "question": "How do I add a bank for withdrawal?",
+    "answer": "Add and verify your bank details under xCash wallet settings."
+  },
+  {
+    "question": "What currencies can I withdraw?",
+    "answer": "xCash supports withdrawals in multiple currencies."
+  },
+  {
+    "question": "Can I withdraw to a mobile wallet?",
+    "answer": "Yes, withdrawals to mobile wallets are supported by xCash."
+  },
+  {
+    "question": "What if withdrawal fails?",
+    "answer": "Try again or contact xCash support for assistance."
+  },
+  {
+    "question": "Do I need ID to withdraw?",
+    "answer": "ID verification may be required depending on withdrawal amount."
+  },
+  {
+    "question": "Are there withdrawal limits per day?",
+    "answer": "Yes, xCash enforces daily withdrawal limits for security."
+  },
+  {
+    "question": "Can I withdraw using QR code?",
+    "answer": "Currently, QR withdrawal is not supported by xCash."
+  },
+  {
+    "question": "How to withdraw without bank account?",
+    "answer": "Use xCash cash-out options via agents or mobile wallets."
+  },
+  {
+    "question": "Can I withdraw from the xCash website?",
+    "answer": "Yes, you can request withdrawals from the xCash website dashboard."
+  },
+  {
+    "question": "Is there a minimum withdrawal amount?",
+    "answer": "Yes, xCash enforces a minimum withdrawal limit for transactions."
+  },
+  {
+    "question": "How do I withdraw in USD?",
+    "answer": "Select USD as currency when requesting a withdrawal in xCash."
+  },
+  {
+    "question": "Can withdrawals be instant?",
+    "answer": "Many xCash withdrawals are processed instantly, depending on method."
+  },
+  {
+    "question": "Can I save withdrawal details?",
+    "answer": "Yes, xCash lets you save preferred withdrawal accounts securely."
+  },
+  {
+    "question": "What documents are needed for large withdrawals?",
+    "answer": "xCash may require ID and proof of address for high-value withdrawals."
+  },
+  {
+    "question": "How to fix withdrawal errors?",
+    "answer": "Check your details and try again or contact xCash support."
+  },
+  {
+    "question": "Can I withdraw using a debit card?",
+    "answer": "xCash supports withdrawals to some debit card networks."
+  },
+  {
+    "question": "How to withdraw using mobile app?",
+    "answer": "Open the withdrawal section in the xCash app and follow prompts."
+  },
+  {
+    "question": "Is withdrawal PIN mandatory?",
+    "answer": "Yes, xCash requires a PIN for withdrawal security."
+  },
+  {
+    "question": "Can I withdraw multiple currencies at once?",
+    "answer": "Withdrawals must be done per currency separately in xCash."
+  },
+  {
+    "question": "Does xCash notify me after withdrawal?",
+    "answer": "Yes, you get instant notifications on withdrawal status."
+  },
+  {
+    "question": "Can I withdraw abroad?",
+    "answer": "xCash supports some international withdrawal options."
+  },
+  {
+    "question": "How to track pending withdrawals?",
+    "answer": "View pending requests in your xCash wallet transaction history."
+  },
+  {
+    "question": "Is withdrawal data encrypted?",
+    "answer": "All xCash withdrawal info is securely encrypted."
+  },
+  {
+    "question": "Can I withdraw to multiple banks?",
+    "answer": "Yes, add multiple banks and select when withdrawing in xCash."
+  },
+  {
+    "question": "How long do international withdrawals take?",
+    "answer": "International withdrawals via xCash may take a few business days."
+  },
+  {
+    "question": "What happens if I enter wrong bank details?",
+    "answer": "Withdrawals may fail; double-check details before confirming in xCash."
+  },
+  {
+    "question": "Are withdrawals reversible?",
+    "answer": "Usually, xCash withdrawals can’t be reversed once processed."
+  },
+  {
+    "question": "Is withdrawal history accessible?",
+    "answer": "Yes, xCash lets you view all past withdrawal transactions anytime."
+  },
+  {
+    "question": "Can I set withdrawal limits?",
+    "answer": "xCash lets you set personal withdrawal limits in settings."
+  },
+  {
+    "question": "How to withdraw if my account is limited?",
+    "answer": "Contact xCash support to resolve account limits before withdrawing."
+  },
+  {
+    "question": "Can I schedule withdrawals for later?",
+    "answer": "Currently, xCash supports only immediate withdrawals."
+  },
+  {
+    "question": "How to withdraw if I forgot my PIN?",
+    "answer": "Reset your PIN through xCash’s secure recovery process."
+  },
+  {
+    "question": "Can I withdraw from a frozen account?",
+    "answer": "Withdrawals are blocked on frozen accounts in xCash."
+  },
+  {
+    "question": "Does xCash verify withdrawals manually?",
+    "answer": "Large withdrawals may undergo manual verification by xCash."
+  },
+  {
+    "question": "How to withdraw from xCash business account?",
+    "answer": "Use your business dashboard to request withdrawals in xCash."
+  },
+  {
+    "question": "Can I withdraw if my account is new?",
+    "answer": "New accounts may have withdrawal restrictions for security."
+  },
+  {
+    "question": "What currencies does xCash support for withdrawal?",
+    "answer": "xCash supports multiple major currencies for withdrawal."
+  },
+  {
+    "question": "How to withdraw using QR code?",
+    "answer": "QR code withdrawals are coming soon to xCash."
+  },
+  {
+    "question": "Can I withdraw without internet?",
+    "answer": "Internet is needed to initiate withdrawals in xCash."
+  },
+  {
+    "question": "Are withdrawals taxable?",
+    "answer": "Tax depends on local laws; xCash does not withhold taxes."
+  },
+  {
+    "question": "Can I withdraw with a third-party app?",
+    "answer": "Withdrawals must be done via official xCash channels."
+  },
+  {
+    "question": "Is there a withdrawal cooldown period?",
+    "answer": "xCash may enforce cooldowns after large withdrawals."
+  },
+  {
+    "question": "How to withdraw after a failed attempt?",
+    "answer": "Check account status and retry the withdrawal on xCash."
+  },
+  {
+    "question": "What if withdrawal gets delayed?",
+    "answer": "Contact xCash support if withdrawal exceeds usual time."
+  },
+  {
+    "question": "Can I withdraw using biometric authentication?",
+    "answer": "xCash supports biometric login; withdrawals still require PIN."
+  },
+  {
+    "question": "How to withdraw with limited balance?",
+    "answer": "Withdraw only up to your available xCash balance."
+  },
+  {
+    "question": "Can I withdraw rewards or bonuses?",
+    "answer": "Bonuses may have withdrawal restrictions in xCash."
+  },
+  {
+    "question": "Does xCash support crypto withdrawals?",
+    "answer": "Currently, xCash does not support cryptocurrency withdrawals."
+  },{
+    "question": "Can I withdraw partial amounts?",
+    "answer": "Yes, xCash allows partial withdrawals from your balance."
+  },
+  {
+    "question": "How to update withdrawal account details?",
+    "answer": "Edit your withdrawal accounts anytime in the xCash settings."
+  },
+  {
+    "question": "Can withdrawals be paused?",
+    "answer": "Withdrawals can only be paused by disabling your account in xCash."
+  },
+  {
+    "question": "How do I confirm a withdrawal?",
+    "answer": "You will receive a confirmation prompt before finalizing in xCash."
+  },
+  {
+    "question": "Can I withdraw during maintenance?",
+    "answer": "Withdrawals may be temporarily unavailable during xCash maintenance."
+  },
+  {
+    "question": "Are withdrawals logged?",
+    "answer": "All withdrawals are securely logged in your xCash history."
+  },
+  {
+    "question": "Can I withdraw after changing password?",
+    "answer": "Yes, withdrawals continue as normal after password updates."
+  },
+  {
+    "question": "How to avoid withdrawal fraud?",
+    "answer": "Keep your xCash credentials secure and enable two-factor authentication."
+  },
+  {
+    "question": "What if withdrawal is blocked?",
+    "answer": "Contact xCash support immediately for blocked withdrawal issues."
+  },
+  {
+    "question": "Can I withdraw from multiple devices?",
+    "answer": "Yes, xCash allows withdrawals from any authorized device."
+  },
+  {
+    "question": "Is withdrawal data shared?",
+    "answer": "xCash keeps your withdrawal info private and secure."
+  },
+  {
+    "question": "How to withdraw without a linked bank?",
+    "answer": "Link a bank or wallet first to enable withdrawals in xCash."
+  },
+  {
+    "question": "What happens if withdrawal fails mid-process?",
+    "answer": "No funds are deducted; try withdrawing again via xCash."
+  },
+  {
+    "question": "Can I withdraw multiple times a day?",
+    "answer": "Yes, within your daily limits set by xCash."
+  },
+  {
+    "question": "Can I withdraw while traveling?",
+    "answer": "Yes, but ensure your account is secure and verified on xCash."
+  },
+  {
+    "question": "How to withdraw using OTP?",
+    "answer": "Enter the OTP sent to your registered phone during withdrawal."
+  },
+  {
+    "question": "Are withdrawal receipts available?",
+    "answer": "Yes, xCash provides digital receipts for all withdrawals."
+  },
+  {
+    "question": "What if I lose withdrawal confirmation?",
+    "answer": "Check your transaction history or contact xCash support."
+  },
+  {
+    "question": "Can withdrawals be delayed on weekends?",
+    "answer": "Sometimes, depending on banks; xCash processes withdrawals promptly."
+  },
+  {
+    "question": "Is withdrawal status trackable?",
+    "answer": "Yes, track it live via your xCash transaction page."
+  },
+  {
+    "question": "Can I withdraw using multiple accounts?",
+    "answer": "Yes, xCash lets you manage multiple withdrawal accounts."
+  },
+  {
+    "question": "How to withdraw to a new bank?",
+    "answer": "Add your new bank in xCash and select it during withdrawal."
+  },
+  {
+    "question": "Can I withdraw instantly?",
+    "answer": "Most withdrawals via xCash are processed instantly."
+  },
+  {
+    "question": "What’s the minimum withdrawal amount?",
+    "answer": "xCash sets a minimum withdrawal amount depending on your region."
+  },
+  {
+    "question": "Can withdrawals be reversed?",
+    "answer": "Withdrawals are final; contact xCash support for exceptions."
+  },
+  {
+    "question": "How to check withdrawal fees?",
+    "answer": "Fee details are shown before confirming withdrawal in xCash."
+  },
+  {
+    "question": "Are withdrawal limits adjustable?",
+    "answer": "Yes, subject to xCash’s verification and policies."
+  },
+  {
+    "question": "Can I withdraw using voice commands?",
+    "answer": "Voice withdrawal features are planned for future xCash updates."
+  },
+  {
+    "question": "Is there a withdrawal history?",
+    "answer": "Yes, xCash provides a complete withdrawal history in your account."
+  },
+  {
+    "question": "How to resolve withdrawal disputes?",
+    "answer": "Contact xCash support with your transaction details."
+  },
+  {
+    "question": "Can I withdraw without mobile app?",
+    "answer": "Yes, withdrawals are available via xCash web portal."
+  },
+  {
+    "question": "Does withdrawal affect my account balance?",
+    "answer": "Yes, your balance updates immediately after withdrawal."
+  },
+  {
+    "question": "Can I withdraw with delayed bank processing?",
+    "answer": "xCash processes withdrawals promptly; banks may delay credit."
+  },
+  {
+    "question": "Are withdrawal notifications sent?",
+    "answer": "Yes, xCash sends alerts on withdrawal status changes."
+  },
+  {
+    "question": "How to withdraw after account verification?",
+    "answer": "Once verified, use xCash withdrawal feature freely."
+  },
+  {
+    "question": "Can I withdraw if my account is suspended?",
+    "answer": "Withdrawals are disabled on suspended xCash accounts."
+  },
+  {
+    "question": "What to do if withdrawal amount is wrong?",
+    "answer": "Report the issue to xCash support immediately."
+  },
+  {
+    "question": "Are there special withdrawal offers?",
+    "answer": "xCash sometimes offers promotions on withdrawal fees."
+  },
+  {
+    "question": "How to increase withdrawal limit?",
+    "answer": "Complete additional verification steps in xCash."
+  },
+  {
+    "question": "Can I withdraw from savings wallet?",
+    "answer": "Yes, withdrawals are supported from all xCash wallets."
+  }
+]

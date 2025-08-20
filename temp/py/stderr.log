@@ -1,0 +1,2823 @@
+Not Found: /chatbot/
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2019' in position 16: ordinal not in range(128)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2019' in position 16: ordinal not in range(128)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2019' in position 16: ordinal not in range(128)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2019' in position 16: ordinal not in range(128)
+User asked: asdf
+Best match: what about computer vision? (score: 0.25202104449272156)
+User asked: what is pgdit?
+User asked: hello, what time do classes start?
+User asked: hi
+User asked: need help
+Best match: i appreciate your assistance (score: 0.41859662532806396)
+User asked: fees
+Best match: are there any additional fees? (score: 0.6141210794448853)
+User asked: hello how are you
+User asked: i am so much expert skirt for my exam give me some instruction to remove it
+Best match: i made a mistake in the exam. (score: 0.33832883834838867)
+User asked: give me a dua for best result
+Best match: when are results announced? (score: 0.39636945724487305)
+User asked: i am so much is card for my final exam give me some instruction to remove it
+Best match: hi, what if i lose my admit card? (score: 0.4229651689529419)
+User asked: hi
+User asked: asdf.
+Best match: what about computer vision? (score: 0.24482528865337372)
+User asked: asdf
+Best match: what about computer vision? (score: 0.25202104449272156)
+User asked: asdf
+Best match: what about computer vision? (score: 0.25202104449272156)
+User asked: asd
+User asked: fasd
+Best match: hello, what is the syllabus for the admission test? (score: 0.35398244857788086)
+User asked: f
+Best match: closing with... (score: 0.32558536529541016)
+User asked: asd
+User asked: fasd
+Best match: hello, what is the syllabus for the admission test? (score: 0.35398244857788086)
+User asked: fas
+Best match: regards (score: 0.2801218032836914)
+User asked: df
+User asked: asdf
+Best match: what about computer vision? (score: 0.25202104449272156)
+User asked: asd
+User asked: fasdf
+Best match: sorry, me once more... (score: 0.24683347344398499)
+User asked: f
+Best match: closing with... (score: 0.32558536529541016)
+User asked: hello, can i get help with the application form?
+User asked: hi, when is the class schedule published?
+User asked: hi, when is the class schedule published?
+User asked: hi, can i apply if i am awaiting my final results?
+User asked: hi, is there any medical requirement for admission?
+User asked: hi, when is the class schedule published?
+User asked: hi, can i apply if i am awaiting my final results?
+User asked: what is pgdit?
+User asked: give me next schedule of pgdit course
+Best match: hi, when are pgdit classes held? (score: 0.8426672220230103)
+User asked: please give me cost about
+Best match: what's the total program cost? (score: 0.4828847050666809)
+User asked: what is pgt
+Best match: what is pgdit (score: 0.617440938949585)
+User asked: tell me something about pgt cost
+User asked: is there any requirement to admission in pgd it
+Best match: pgdit eligibility (score: 0.5839813947677612)
+[UID:1099][2985613] Child process with pid: 2985616 was killed by signal: 15, core dumped: no
+User asked: in which year pgt it started in jahangirnagar vishwavidyalaya
+User asked: tell me about pgt admission 2026
+Best match: hi, are there opportunities for higher studies after pgdit? (score: 0.5568222999572754)
+User asked: in which year pgdit started in ju
+User asked: in which year pgdit started in ju
+User asked: who is the coordinator in jee university
+Best match: what's unique about ju's campus life? (score: 0.3749339282512665)
+User asked: how are you
+User asked: han do you tell me what is the approximately cause of pgti program
+Best match: what is pgdit (score: 0.39602911472320557)
+User asked: what is the approximately cost of pgdit
+Best match: pgdit fees (score: 0.8409137725830078)
+User asked: okay thank you
+User asked: thank you
+User asked: a good boy
+Best match: if it's okay to ask... (score: 0.32166141271591187)
+User asked: actually i want to know that what is the pre requirement to admission in pgti course
+Best match: hi, can pgdit prepare me for certification exams like aws or microsoft? (score: 0.51268070936203)
+User asked: when the circular will be held
+Best match: hi, when is the class schedule published? (score: 0.47503364086151123)
+User asked: tell me the class video
+Best match: see you in class (score: 0.5138490200042725)
+User asked: tell me the class schedule
+Best match: when do classes start? (score: 0.7717515230178833)
+User asked: is there any web or discount facility
+Best match: do you offer payment plans? (score: 0.5475362539291382)
+User asked: tell me the some subject of
+Best match: are there any game development topics? (score: 0.402355432510376)
+User asked: is there database management system available
+Best match: are there any database systems taught? (score: 0.6635023355484009)
+User asked: can i continue with cyber security or it
+Best match: hi, can i work in cybersecurity after pgdit? (score: 0.6782695055007935)
+User asked: tell me the class routing on ramzan month
+Best match: hi, when is the class schedule published? (score: 0.5462806224822998)
+User asked: tell me the mark distribution of hundred
+Best match: how many students per batch? (score: 0.3758786916732788)
+User asked: it is help me to 2:00 p.m. it program
+Best match: hi, can i complete the program faster? (score: 0.40531450510025024)
+User asked: no i want to know pgdid helps me to continue pmit
+Best match: hello, does pgdit help with certification exams? (score: 0.4938860535621643)
+User asked: what is pgdit?
+User asked: hi
+User asked: class schedule?
+Best match: when do classes start? (score: 0.8067700862884521)
+User asked: see you in class
+User asked: do you offer payment plans?
+User asked: hi
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-mpnet-base-v2
+No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english).
+Using a pipeline without specifying a model name and revision in production is not recommended.
+Device set to use cpu
+INFO:bot.views:All models loaded successfully
+Batches:   0%|          | 0/15 [00:00<?, ?it/s]Batches:   7%|6         | 1/15 [00:00<00:05,  2.42it/s]Batches:  13%|#3        | 2/15 [00:00<00:05,  2.23it/s]Batches:  20%|##        | 3/15 [00:01<00:05,  2.30it/s]Batches:  27%|##6       | 4/15 [00:01<00:04,  2.37it/s]Batches:  33%|###3      | 5/15 [00:02<00:04,  2.42it/s]Batches:  40%|####      | 6/15 [00:02<00:03,  2.45it/s]Batches:  47%|####6     | 7/15 [00:02<00:03,  2.66it/s]Batches:  53%|#####3    | 8/15 [00:03<00:02,  2.62it/s]Batches:  60%|######    | 9/15 [00:03<00:02,  2.61it/s]Batches:  67%|######6   | 10/15 [00:03<00:01,  2.80it/s]Batches:  73%|#######3  | 11/15 [00:04<00:01,  2.94it/s]Batches:  80%|########  | 12/15 [00:04<00:00,  3.02it/s]Batches:  87%|########6 | 13/15 [00:04<00:00,  3.14it/s]Batches:  93%|#########3| 14/15 [00:05<00:00,  3.49it/s]Batches: 100%|##########| 15/15 [00:05<00:00,  4.32it/s]Batches: 100%|##########| 15/15 [00:05<00:00,  2.93it/s]
+INFO:bot.views:User asked: hi
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 182, in chat
+    "reply": random.choice(greeting_responses[tone]),
+                           ~~~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'friendly'
+ERROR:django.request:Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 182, in chat
+    "reply": random.choice(greeting_responses[tone]),
+                           ~~~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'friendly'
+INFO:bot.views:User asked: hi
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 182, in chat
+    "reply": random.choice(greeting_responses[tone]),
+                           ~~~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'friendly'
+ERROR:django.request:Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 182, in chat
+    "reply": random.choice(greeting_responses[tone]),
+                           ~~~~~~~~~~~~~~~~~~^^^^^^
+KeyError: 'friendly'
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-mpnet-base-v2
+No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english).
+Using a pipeline without specifying a model name and revision in production is not recommended.
+Device set to use cpu
+INFO:bot.views:All models loaded successfully
+Batches:   0%|          | 0/15 [00:00<?, ?it/s]Batches:   7%|6         | 1/15 [00:00<00:05,  2.63it/s]Batches:  13%|#3        | 2/15 [00:00<00:04,  2.97it/s]Batches:  20%|##        | 3/15 [00:01<00:04,  2.46it/s]Batches:  27%|##6       | 4/15 [00:01<00:04,  2.47it/s]Batches:  33%|###3      | 5/15 [00:01<00:04,  2.49it/s]Batches:  40%|####      | 6/15 [00:02<00:03,  2.31it/s]Batches:  47%|####6     | 7/15 [00:03<00:04,  1.78it/s]Batches:  53%|#####3    | 8/15 [00:03<00:03,  1.88it/s]Batches:  60%|######    | 9/15 [00:04<00:02,  2.13it/s]Batches:  67%|######6   | 10/15 [00:04<00:02,  2.26it/s]Batches:  73%|#######3  | 11/15 [00:04<00:01,  2.50it/s]Batches:  80%|########  | 12/15 [00:05<00:01,  2.53it/s]Batches:  87%|########6 | 13/15 [00:05<00:00,  2.90it/s]Batches:  93%|#########3| 14/15 [00:05<00:00,  3.05it/s]Batches: 100%|##########| 15/15 [00:05<00:00,  3.81it/s]Batches: 100%|##########| 15/15 [00:05<00:00,  2.59it/s]
+INFO:bot.views:User asked: hi
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-mpnet-base-v2
+No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english).
+Using a pipeline without specifying a model name and revision in production is not recommended.
+Device set to use cpu
+INFO:bot.views:All models loaded successfully
+Batches:   0%|          | 0/15 [00:00<?, ?it/s]Batches:   7%|6         | 1/15 [00:00<00:05,  2.36it/s]Batches:  13%|#3        | 2/15 [00:00<00:05,  2.43it/s]Batches:  20%|##        | 3/15 [00:01<00:05,  2.39it/s]Batches:  27%|##6       | 4/15 [00:01<00:04,  2.27it/s]Batches:  33%|###3      | 5/15 [00:02<00:04,  2.35it/s]Batches:  40%|####      | 6/15 [00:02<00:03,  2.57it/s]Batches:  47%|####6     | 7/15 [00:02<00:03,  2.58it/s]Batches:  53%|#####3    | 8/15 [00:03<00:02,  2.73it/s]Batches:  60%|######    | 9/15 [00:03<00:02,  2.68it/s]Batches:  67%|######6   | 10/15 [00:03<00:01,  2.84it/s]Batches:  73%|#######3  | 11/15 [00:04<00:01,  2.95it/s]Batches:  80%|########  | 12/15 [00:04<00:01,  2.85it/s]Batches:  87%|########6 | 13/15 [00:04<00:00,  3.22it/s]Batches:  93%|#########3| 14/15 [00:05<00:00,  3.30it/s]Batches: 100%|##########| 15/15 [00:05<00:00,  4.10it/s]Batches: 100%|##########| 15/15 [00:05<00:00,  2.92it/s]
+INFO:bot.views:User asked: who are you
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|##########| 1/1 [00:00<00:00, 11.41it/s]
+INFO:bot.views:Top semantic matches: [('sorry, me once more...', np.float32(0.47339216)), ('how are you', np.float32(0.42541024)), ('who made you?', np.float32(0.41539538))]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+INFO:bot.views:User asked: tell me sometihng about your self
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|##########| 1/1 [00:00<00:00, 13.27it/s]
+INFO:bot.views:Top semantic matches: [('how are you', np.float32(0.41040334)), ('hi', np.float32(0.40937003)), ('how are you?', np.float32(0.40456432))]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+INFO:bot.views:User asked: much the cost of this program
+INFO:bot.views:User asked: much the cost of this program
+INFO:bot.views:User asked: much the cost of this program
+INFO:bot.views:User asked: much the cost of this program
+INFO:bot.views:User asked: much the cost of this program
+User asked: much the cost of this program
+User asked: how are you
+User asked: how are you
+User asked: how are you
+User asked: what is pgdit?
+User asked: how are you
+User asked: how are you
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: class schedule?
+Best match: when do classes start? (score: 0.8067700862884521)
+User asked: what is pgdit?
+User asked: class schedule?
+Best match: when do classes start? (score: 0.8067700862884521)
+User asked: how are you
+User asked: how are you
+User asked: what is pgdit?
+User asked: is there any embedded systems content?
+User asked: how long is the admission test?
+User asked: how long is the admission test?
+User asked: is there any embedded systems content?
+User asked: what is pgdit?
+User asked: is there any embedded systems content?
+User asked: how long is the admission test?
+User asked: hello, how long is the admission test?
+User asked: is there any embedded systems content?
+User asked: how are you
+User asked: do you accept late applications?
+User asked: hi, do i get help with building a professional portfolio?
+User asked: when do classes start?
+User asked: hi, do i get help with building a professional portfolio?
+User asked: do you accept late applications?
+User asked: tell me the course cost
+Best match: hi, is it a full-time course? (score: 0.5879917740821838)
+User asked: tell me the cost
+Best match: what's the total program cost? (score: 0.44172507524490356)
+User asked: hello, does the program help with job placement?
+User asked: total fee
+Best match: what's the application fee? (score: 0.5435106754302979)
+User asked: hey how are you
+User asked: thank you
+User asked: tell me the approximately cost of pgt cost
+Best match: pgdit fees (score: 0.5081895589828491)
+User asked: tell me the duration of the course
+Best match: hi, is it a full-time course? (score: 0.6680209636688232)
+User asked: i am so much scared for my semester final tell me some instruction to remove it
+Best match: i studied hard but still worried. (score: 0.39882826805114746)
+User asked: are you mad
+Best match: are you busy? (score: 0.43110787868499756)
+User asked: what is pgdit?
+User asked: hello, who is eligible to apply?
+User asked: hello, do i need to prepare my own projects for job applications?
+User asked: hello, who is eligible to apply?
+User asked: is studying during ramadan more rewarding?
+User asked: is studying during ramadan more rewarding?
+User asked: what is pgdit?
+User asked: hello how are you
+User asked: do you tell me the opportunity
+Best match: hi, who can apply for pgdit? (score: 0.37549152970314026)
+User asked: do you tell me the
+Best match: not sure if you know but... (score: 0.3407621383666992)
+User asked: tell me the approximately cost of pgdit course
+Best match: hi, is pgdit a full-time or part-time course? (score: 0.7031612396240234)
+User asked: no tell me the approximately cost
+Best match: are there any additional fees? (score: 0.45343825221061707)
+User asked: by the way...
+User asked: what is pgdit?
+User asked: pddit cost
+Best match: pgdit fees (score: 0.6345592737197876)
+User asked: pgd cost
+Best match: pgdit fees (score: 0.5944290161132812)
+User asked: pgdit cost
+Best match: pgdit fees (score: 0.8966571092605591)
+User asked: semister?
+Best match: ttyl (score: 0.20238390564918518)
+User asked: how many semister
+Best match: how many students per batch? (score: 0.3819836974143982)
+User asked: hello, how do i prepare for the admission test?
+User asked: how many years
+Best match: hello, how long does the pgdit program last? (score: 0.44769781827926636)
+User asked: duration?
+Best match: duration of pgdit (score: 0.477356493473053)
+User asked: is it wrong to feel anxious?
+User asked: sorry to bother again but...
+User asked: class in ramadan?
+Best match: hi, are there pgdit classes during ramadan? (score: 0.7133629322052002)
+User asked: what is pgdit?
+User asked: hi how are you
+User asked: tell me the approximately cost of the course
+Best match: hi, is it a full-time course? (score: 0.5753096342086792)
+User asked: tell me the approximately cost
+Best match: what's the total program cost? (score: 0.46427834033966064)
+User asked: mention three dimensional three subject name
+Best match: pgdit subjects (score: 0.319837749004364)
+User asked: do you tell me the subject name of pgd codes
+Best match: what is pgdit (score: 0.4616483151912689)
+User asked: mention some subjects
+Best match: pgdit subjects (score: 0.47714918851852417)
+User asked: what is pgdit?
+User asked: what dhikr helps for anxiety?
+User asked: what is pgdit?
+User asked: hi, where is the admission test held?
+User asked: how do i stay calm before the exam starts?
+User asked: 
+Best match: yo (score: 0.2956112027168274)
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: is attendance important?
+User asked: hello, is this for beginners?
+User asked: can i ask allah for success in studies during laylatul qadr?
+User asked: 
+Best match: yo (score: 0.2956112027168274)
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: hi
+User asked: what is pgdit
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Best match: pgdit benefits (score: 0.7718115448951721)
+[UID:1099][866973] Child process with pid: 866979 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Best match: pgdit benefits (score: 0.7718115448951721)
+User asked: what is pgdit?
+Best match: pgdit benefits (score: 0.7718115448951721)
+User asked: who can apply?
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: class schedule?
+Best match: when do classes start? (score: 0.8067700862884521)
+User asked: what is pgdit?
+Best match: pgdit benefits (score: 0.7718115448951721)
+User asked: what programming languages are covered in pgdit?
+User asked: hi, are there workshops on entrepreneurship?
+User asked: what programming languages are covered in pgdit?
+OpenBLAS blas_thread_init: pthread_create failed for thread 21 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 22 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 23 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+[ERROR] [UID:1099][938536] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    response = self.get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/corsheaders/middleware.py", line 56, in __call__
+    result = self.get_response(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/chatbot_project/urls.py", line 22, in <module>
+    path('api/', include('bot.urls')),
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/bot/urls.py", line 2, in <module>
+    from .views import chat
+  File "/home/sohan/chatbot/bot/views.py", line 5, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/__init__.py", line 14, in <module>
+    from sentence_transformers.cross_encoder import (
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/cross_encoder/__init__.py", line 3, in <module>
+    from .CrossEncoder import CrossEncoder
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/cross_encoder/CrossEncoder.py", line 19, in <module>
+    from transformers import (
+  File "<frozen importlib._bootstrap>", line 1229, in _handle_fromlist
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2154, in __getattr__
+    module = self._get_module(self._class_to_module[name])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2182, in _get_module
+    return importlib.import_module("." + module_name, self.__name__)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py", line 21, in <module>
+    from .auto_factory import (
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 43, in <module>
+    from ...generation import GenerationMixin
+  File "<frozen importlib._bootstrap>", line 1229, in _handle_fromlist
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2154, in __getattr__
+    module = self._get_module(self._class_to_module[name])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2182, in _get_module
+    return importlib.import_module("." + module_name, self.__name__)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/generation/utils.py", line 63, in <module>
+    from .candidate_generator import (
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/generation/candidate_generator.py", line 29, in <module>
+    from sklearn.metrics import roc_curve
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/__init__.py", line 73, in <module>
+    from .base import clone  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/base.py", line 19, in <module>
+    from .utils._metadata_requests import _MetadataRequester, _routing_enabled
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/__init__.py", line 9, in <module>
+    from ._chunking import gen_batches, gen_even_slices
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/_chunking.py", line 11, in <module>
+    from ._param_validation import Interval, validate_params
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/_param_validation.py", line 17, in <module>
+    from .validation import _is_arraylike_not_scalar
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/validation.py", line 21, in <module>
+    from ..utils._array_api import _asarray_with_order, _is_numpy_namespace, get_namespace
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/_array_api.py", line 14, in <module>
+    import scipy.special as special
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/scipy/special/__init__.py", line 784, in <module>
+    from . import _ufuncs
+  File "<frozen importlib._bootstrap>", line 405, in parent
+KeyboardInterrupt
+OpenBLAS blas_thread_init: pthread_create failed for thread 2 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 3 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 4 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 5 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 6 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 7 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 8 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 9 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 10 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 11 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 12 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 13 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 14 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 15 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 16 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 17 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 18 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 19 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 20 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 21 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 22 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 23 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: ensure that your address space and process count limits are big enough (ulimit -a)
+OpenBLAS blas_thread_init: or set a smaller OPENBLAS_NUM_THREADS to fit into what you have available
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+[ERROR] [UID:1099][938568] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    response = self.get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/corsheaders/middleware.py", line 56, in __call__
+    result = self.get_response(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/chatbot_project/urls.py", line 22, in <module>
+    path('api/', include('bot.urls')),
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/bot/urls.py", line 2, in <module>
+    from .views import chat
+  File "/home/sohan/chatbot/bot/views.py", line 5, in <module>
+    from sentence_transformers import SentenceTransformer
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/__init__.py", line 14, in <module>
+    from sentence_transformers.cross_encoder import (
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/cross_encoder/__init__.py", line 3, in <module>
+    from .CrossEncoder import CrossEncoder
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/cross_encoder/CrossEncoder.py", line 19, in <module>
+    from transformers import (
+  File "<frozen importlib._bootstrap>", line 1229, in _handle_fromlist
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2154, in __getattr__
+    module = self._get_module(self._class_to_module[name])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2182, in _get_module
+    return importlib.import_module("." + module_name, self.__name__)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/models/auto/modeling_auto.py", line 21, in <module>
+    from .auto_factory import (
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/models/auto/auto_factory.py", line 43, in <module>
+    from ...generation import GenerationMixin
+  File "<frozen importlib._bootstrap>", line 1229, in _handle_fromlist
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2154, in __getattr__
+    module = self._get_module(self._class_to_module[name])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/utils/import_utils.py", line 2182, in _get_module
+    return importlib.import_module("." + module_name, self.__name__)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/generation/utils.py", line 63, in <module>
+    from .candidate_generator import (
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/generation/candidate_generator.py", line 29, in <module>
+    from sklearn.metrics import roc_curve
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/__init__.py", line 73, in <module>
+    from .base import clone  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/base.py", line 19, in <module>
+    from .utils._metadata_requests import _MetadataRequester, _routing_enabled
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/__init__.py", line 9, in <module>
+    from ._chunking import gen_batches, gen_even_slices
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/_chunking.py", line 11, in <module>
+    from ._param_validation import Interval, validate_params
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/_param_validation.py", line 17, in <module>
+    from .validation import _is_arraylike_not_scalar
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/validation.py", line 21, in <module>
+    from ..utils._array_api import _asarray_with_order, _is_numpy_namespace, get_namespace
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/sklearn/utils/_array_api.py", line 14, in <module>
+    import scipy.special as special
+  File "/home/sohan/virtualenv/chatbot/3.11/lib64/python3.11/site-packages/scipy/special/__init__.py", line 784, in <module>
+    from . import _ufuncs
+  File "<frozen importlib._bootstrap>", line 405, in parent
+KeyboardInterrupt
+Not Found: /chatbot/api/message
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hi
+Best match: hi hi! (score: 0.695525050163269)
+Not Found: /chatbot/api/message
+Not Found: /chatbot/api
+Not Found: /chatbot/api
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+[UID:1099][938533] Child process with pid: 938536 was killed by signal: 11, core dumped: yes
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: tell me about bus schedule
+Best match: how to check the bus schedule? (score: 0.8357419967651367)
+User asked: bus from btb centre
+Best match: bus available? (score: 0.6993991136550903)
+User asked: route on contact
+Best match: tell me all routes? (score: 0.5357959270477295)
+User asked: food call for route to
+Best match: is there food delivery to campus? (score: 0.48691999912261963)
+User asked: how to book a seat
+User asked: how to book a seat?
+User asked: who manages the bus service?
+User asked: when the bus return
+Best match: when do buses return? (score: 0.8655692338943481)
+User asked: who took call for route for
+Best match: who to call for route 1? (score: 0.6557348966598511)
+User asked: who manage the bus service
+Best match: who manages the bus service? (score: 0.9324058890342712)
+User asked: sharafat contact number
+Best match: route 1 contact number? (score: 0.45802992582321167)
+User asked: give me the route 3 contact
+Best match: what is the contact number for route 3? (score: 0.8416240215301514)
+User asked: bus from rampura
+Best match: bus available? (score: 0.6798642873764038)
+User asked: bus from btp centre
+Best match: bus available? (score: 0.6721317768096924)
+User asked: who is pgt coordinator
+Best match: who coordinates the pgdit program at ju? (score: 0.6489230394363403)
+User asked: is this the right place for pgdit?
+User asked: who is director
+User asked: pgd cost please
+Best match: what is the total tuition fee for pgdit (score: 0.5761020183563232)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: 
+Best match: yo (score: 0.29561105370521545)
+User asked: what is pgdit?
+User asked: who can apply?
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392183065414429)
+User asked: class schedule?
+Best match: when are classes? (score: 0.8330049514770508)
+User asked: tell me the bus routine
+Best match: is the bus schedule the same every week? (score: 0.6076019406318665)
+User asked: do you tell me the approximately cause cost of pgdit program
+User asked: tell me the approximately cost
+Best match: is it expensive? (score: 0.4684816598892212)
+User asked: tell me the pgt fees
+Best match: what is the tuition fee for pgdit (score: 0.6511815786361694)
+User asked: tell me the pgdit cost
+User asked: what is the cost of the course
+Best match: how much is the course fee (score: 0.9218738079071045)
+User asked: what is the cost
+Best match: what's the fee? (score: 0.7072827816009521)
+User asked: what is the cost of the course
+Best match: how much is the course fee (score: 0.9218738079071045)
+User asked: when start the pgt course
+Best match: hi, bismillah, i want to know about the pgdit course. (score: 0.6367343664169312)
+User asked: when started the pgdit course
+User asked: tell me the pgdit history
+User asked: pgd history
+Best match: when did pgdit start? (score: 0.6030383706092834)
+User asked: what is the daily good dua for strength
+Best match: what's a good daily du'a for strength? (score: 0.8953043222427368)
+User asked: assalam walekum
+Best match: assalamu alaikum (score: 0.7927752733230591)
+User asked: assalam walekum
+Best match: assalamu alaikum (score: 0.7927752733230591)
+User asked: is taking a break on islamic
+Best match: is taking a break un-islamic? (score: 0.794896125793457)
+User asked: assalam walekum
+Best match: assalamu alaikum (score: 0.7927752733230591)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: give
+Best match: with thanks (score: 0.43326517939567566)
+User asked: how are you
+User asked: who are you
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who are you
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2011' in position 54: ordinal not in range(128)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 42, in chat
+    print(f"User asked: {user_input}")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2019' in position 34: ordinal not in range(128)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 42, in chat
+    print(f"User asked: {user_input}")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2019' in position 30: ordinal not in range(128)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: any dua for pgt it
+Best match: can you make du'a for me? (score: 0.4764242172241211)
+User asked: of course in your studies and success in your exams
+User asked: i am nervous
+Best match: i'm feeling nervous about exams. (score: 0.6158061027526855)
+User asked: any diwakar better result
+Best match: assalamu alaikum, do you have any du'a for study success? (score: 0.38425448536872864)
+User asked: pgdit full form
+User asked: any dua for good result
+Best match: assalamu alaikum, do you have any du'a for study success? (score: 0.5892903208732605)
+User asked: who made this chatbot
+User asked: tell me the director name
+Best match: who is director? (score: 0.7229453325271606)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: when start the pgt course at ju
+User asked: hi
+Best match: hi hi! (score: 0.695525050163269)
+User asked: fine and you
+User asked: yes
+Best match: is this chat live? (score: 0.37662622332572937)
+User asked: when started the pgdit course at ju?
+User asked: when started the pgdit course at ju
+User asked: when was begin the pgdit
+User asked: tell me the coordinator of the program
+Best match: how can i contact the program coordinator (score: 0.728694498538971)
+User asked: tell me the coordinator' name of the program
+Best match: how can i contact the program coordinator (score: 0.6972121000289917)
+User asked: whos coordinators
+Best match: who is coordinator? (score: 0.9185124635696411)
+User asked: coordinators
+Best match: who is coordinator? (score: 0.886603832244873)
+User asked: promoter
+Best match: who is coordinator? (score: 0.5146181583404541)
+User asked: who is the chairman
+Best match: who is director and coordinator have? (score: 0.5505959391593933)
+User asked: give me bus contactor number
+Best match: who is the contact for route 3 bus? (score: 0.7235181331634521)
+User asked: my address is mirpur, in whice bus i used from mirpur to campus
+Best match: can i get bus info online? (score: 0.5936086177825928)
+User asked: whice bus from mirpur
+Best match: is there a bus from ju back to dhaka? (score: 0.5669050216674805)
+User asked: mirpur bus
+Best match: bus available? (score: 0.6108757853507996)
+User asked: bus
+Best match: bus available? (score: 0.7228066921234131)
+User asked: bus shcdules
+Best match: bus available? (score: 0.5616500973701477)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who made you
+User asked: supervised?
+Best match: project supervised? (score: 0.5827665328979492)
+User asked: developer?
+Best match: what program are the developers enrolled in? (score: 0.6540224552154541)
+User asked: tell me your creator name
+User asked: who devleoped jus lab?
+Best match: who supervised the juslab project? (score: 0.5205292701721191)
+User asked: tell me the name they made you
+User asked: who developed you
+User asked: who are you
+User asked: what is the project name
+Best match: what is the name of the project? (score: 0.8951724171638489)
+User asked: who develped you
+User asked: who develped
+Best match: who is director? (score: 0.4476693868637085)
+User asked: who developed jus lab?
+Best match: who supervised the juslab project? (score: 0.5687942504882812)
+User asked: who developed you
+User asked: who developed the cahtbot
+User asked: who developed the juslab chatbot?
+User asked: who developed juslab
+Best match: who supervised the juslab project? (score: 0.8031728267669678)
+User asked: from the batch
+Best match: which batch are the developers from? (score: 0.5389651656150818)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who is supervisor of this project?
+Best match: who supervises final projects? (score: 0.6511317491531372)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: project supervisor
+Best match: project supervised? (score: 0.7568974494934082)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who is director of this project
+Best match: who is director and coordinator have? (score: 0.6385809183120728)
+User asked: bus routine
+Best match: is the bus schedule fixed? (score: 0.6758904457092285)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2011' in position 45: ordinal not in range(128)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2011' in position 45: ordinal not in range(128)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who is jahidul islam johan
+User asked: jahidul islam sohan
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: do you know about jahidul islam chauhan
+
+thread '<unnamed>' panicked at /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+[ERROR] [UID:1099][1173636] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    response = self.get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/corsheaders/middleware.py", line 56, in __call__
+    result = self.get_response(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/chatbot_project/urls.py", line 22, in <module>
+    path('api/', include('bot.urls')),
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/bot/urls.py", line 2, in <module>
+    from .views import chat
+  File "/home/sohan/chatbot/bot/views.py", line 37, in <module>
+    question_embeddings = embedding_model.encode(questions)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 653, in encode
+    features = self.tokenize(sentences_batch)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 1124, in tokenize
+    return self._first_module().tokenize(texts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/models/Transformer.py", line 500, in tokenize
+    self.tokenizer(
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2855, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2943, in _call_one
+    return self.batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 3144, in batch_encode_plus
+    return self._batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_fast.py", line 553, in _batch_encode_plus
+    encodings = self._tokenizer.encode_batch(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyo3_runtime.PanicException: The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+
+thread '<unnamed>' panicked at /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+[ERROR] [UID:1099][1173663] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    response = self.get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/corsheaders/middleware.py", line 56, in __call__
+    result = self.get_response(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/chatbot_project/urls.py", line 22, in <module>
+    path('api/', include('bot.urls')),
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/bot/urls.py", line 2, in <module>
+    from .views import chat
+  File "/home/sohan/chatbot/bot/views.py", line 37, in <module>
+    question_embeddings = embedding_model.encode(questions)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 653, in encode
+    features = self.tokenize(sentences_batch)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 1124, in tokenize
+    return self._first_module().tokenize(texts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/models/Transformer.py", line 500, in tokenize
+    self.tokenizer(
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2855, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2943, in _call_one
+    return self.batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 3144, in batch_encode_plus
+    return self._batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_fast.py", line 553, in _batch_encode_plus
+    encodings = self._tokenizer.encode_batch(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyo3_runtime.PanicException: The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+
+thread '<unnamed>' panicked at /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+[ERROR] [UID:1099][1173735] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    response = self.get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/corsheaders/middleware.py", line 56, in __call__
+    result = self.get_response(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/chatbot_project/urls.py", line 22, in <module>
+    path('api/', include('bot.urls')),
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/bot/urls.py", line 2, in <module>
+    from .views import chat
+  File "/home/sohan/chatbot/bot/views.py", line 37, in <module>
+    question_embeddings = embedding_model.encode(questions)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 653, in encode
+    features = self.tokenize(sentences_batch)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 1124, in tokenize
+    return self._first_module().tokenize(texts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/models/Transformer.py", line 500, in tokenize
+    self.tokenizer(
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2855, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2943, in _call_one
+    return self.batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 3144, in batch_encode_plus
+    return self._batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_fast.py", line 553, in _batch_encode_plus
+    encodings = self._tokenizer.encode_batch(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyo3_runtime.PanicException: The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+
+thread '<unnamed>' panicked at /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+[ERROR] [UID:1099][1174824] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    response = self.get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/corsheaders/middleware.py", line 56, in __call__
+    result = self.get_response(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/chatbot_project/urls.py", line 22, in <module>
+    path('api/', include('bot.urls')),
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/bot/urls.py", line 2, in <module>
+    from .views import chat
+  File "/home/sohan/chatbot/bot/views.py", line 37, in <module>
+    question_embeddings = embedding_model.encode(questions)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 653, in encode
+    features = self.tokenize(sentences_batch)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 1124, in tokenize
+    return self._first_module().tokenize(texts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/models/Transformer.py", line 500, in tokenize
+    self.tokenizer(
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2855, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2943, in _call_one
+    return self.batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 3144, in batch_encode_plus
+    return self._batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_fast.py", line 553, in _batch_encode_plus
+    encodings = self._tokenizer.encode_batch(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyo3_runtime.PanicException: The global thread pool has not been initialized.: ThreadPoolBuildError { kind: IOError(Os { code: 11, kind: WouldBlock, message: "Resource temporarily unavailable" }) }
+
+thread '<unnamed>' panicked at /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rayon-core-1.12.1/src/registry.rs:168:10:
+The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+[ERROR] [UID:1099][1173663] wsgiAppHandler pApp->start_response() return NULL.
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/wsgi.py", line 131, in __call__
+    response = self.get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/corsheaders/middleware.py", line 56, in __call__
+    result = self.get_response(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/deprecation.py", line 136, in __call__
+    response = response or self.get_response(request)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 313, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 663, in resolve
+    for pattern in self.url_patterns:
+                   ^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/chatbot_project/urls.py", line 22, in <module>
+    path('api/', include('bot.urls')),
+                 ^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/alt/python311/lib64/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/sohan/chatbot/bot/urls.py", line 2, in <module>
+    from .views import chat
+  File "/home/sohan/chatbot/bot/views.py", line 37, in <module>
+    question_embeddings = embedding_model.encode(questions)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 653, in encode
+    features = self.tokenize(sentences_batch)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/SentenceTransformer.py", line 1124, in tokenize
+    return self._first_module().tokenize(texts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/sentence_transformers/models/Transformer.py", line 500, in tokenize
+    self.tokenizer(
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2855, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 2943, in _call_one
+    return self.batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_base.py", line 3144, in batch_encode_plus
+    return self._batch_encode_plus(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/transformers/tokenization_utils_fast.py", line 553, in _batch_encode_plus
+    encodings = self._tokenizer.encode_batch(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pyo3_runtime.PanicException: The global thread pool has not been initialized.: ThreadPoolBuildError { kind: GlobalPoolAlreadyInitialized }
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+[UID:1099][1978788] Child process with pid: 1978791 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hello
+Best match: hello hello! (score: 0.7633768916130066)
+User asked: what are the requirements
+Best match: are there any prerequisites? (score: 0.6963376402854919)
+User asked: how much time required for completing pigeon
+Best match: how many credit hours are needed to finish (score: 0.4085569977760315)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: vai kmn acen
+Best match: is this ju pgdit? (score: 0.33478549122810364)
+User asked: where does route 4 start?
+User asked: what is the contact number for route 3?
+User asked: can i contact faculty directly
+User asked: how can i pay the tuition fee
+User asked: course price ??
+Best match: how much is the course fee (score: 0.8561411499977112)
+[UID:1099][725179] Child process with pid: 725503 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: kothay tumi akhon
+Best match: assalamu alaikum (score: 0.40047788619995117)
+User asked: are there any ai topics?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: is there an application fee?
+User asked: how can i admit here
+Best match: since you mentioned it... (score: 0.3016277253627777)
+User asked: explain me the admission process of pgdit
+User asked: tell me the
+Best match: me again with... (score: 0.30846595764160156)
+User asked: tell me the admit process
+Best match: i missed admission (score: 0.6465949416160583)
+User asked: tell me the admission process
+Best match: any admission info? (score: 0.6954216361045837)
+User asked: tell me the approximately cost of pgdit
+User asked: how are you
+User asked: what is pgdit
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: can i call the university central office for pgdit queries
+User asked: can i apply if i am awaiting my final results?
+User asked: can i call the university central office for pgdit queries
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: how are you
+User asked: how are you
+User asked: who are you
+User asked: who are you
+User asked: what is your name
+User asked: who made you
+User asked: who created you
+User asked: tell me supervisor name that you made
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: is group work included?
+User asked: how old is pgdit at ju?
+User asked: how many seats?
+User asked: how old is pgdit at ju?
+User asked: how many seats?
+User asked: how many seats?
+User asked: how many seats?
+User asked: how are candidates selected?
+User asked: hi
+Best match: hi hi! (score: 0.695525050163269)
+User asked: catch you later
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: what is the contact number for route 1?
+User asked: what is the contact number for route 1?
+User asked: are final exams important for passing?
+User asked: hello
+Best match: hello hello! (score: 0.7633768916130066)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: class schedule?
+Best match: when are classes? (score: 0.8330049514770508)
+User asked: when is next class?
+Best match: when are the classes? (score: 0.8622219562530518)
+User asked: when is next class?
+Best match: when are the classes? (score: 0.8622219562530518)
+User asked: specify please
+Best match: just wondering... (score: 0.33557456731796265)
+User asked: please let me know what is the next class and when?
+Best match: when are the classes? (score: 0.8270803689956665)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: when is orientation?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: pgdit bot
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what are the admission requirements?
+Best match: is there any medical requirement for admission? (score: 0.7180488109588623)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: can pgdit graduates work abroad?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who can apply?
+User asked: who can apply?
+User asked: can students access digital libraries
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who can apply?
+User asked: who is coordinator?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who can apply?
+User asked: can i get help with thesis or project work
+[UID:1099][939022] Child process with pid: 939148 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hi
+Best match: hi hi! (score: 0.695525050163269)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: pgdit
+User asked: what is pgdit?
+User asked: is there any test?
+User asked: who is coordinator?
+User asked: what is pgdit?
+User asked: is there any test?
+User asked: are there group studies?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who is coordinator
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who is director?
+User asked: tell me the name of director of pgdit?
+User asked: tell me the director name
+Best match: who is director? (score: 0.7229453325271606)
+User asked: tell me the admission requirements
+Best match: is there any medical requirement for admission? (score: 0.6691811680793762)
+User asked: tell me the cost
+Best match: what's the fee? (score: 0.5000572204589844)
+User asked: tell me the course fees
+Best match: how much is the course fee (score: 0.8069921731948853)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: tell me fee
+Best match: what's the fee? (score: 0.69514000415802)
+User asked: pgdit fee
+Best match: is the pgdit fee reasonable? (score: 0.8875030279159546)
+User asked: pgdit fees
+Best match: is the pgdit fee reasonable? (score: 0.8829268217086792)
+User asked: course fees
+Best match: how much is the course fee (score: 0.901414155960083)
+User asked: semester fees
+Best match: do i need to pay fees every semester (score: 0.7882722616195679)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit
+User asked: next admission date
+Best match: when is the admission open? (score: 0.7468411922454834)
+User asked: tell me the fees
+Best match: what's the fee? (score: 0.7737523317337036)
+User asked: who is director
+User asked: who made you
+User asked: who is brock lesnar
+Best match: who's this? (score: 0.26674216985702515)
+[UID:1099][1250242] Child process with pid: 1250250 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+[UID:1099][3893811] Child process with pid: 3893815 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: sdf
+Best match: who is director? (score: 0.2436732053756714)
+User asked: what is pgdit?
+User asked: is studying during ramadan more rewarding?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: is there an admission test?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: is there an admission tes
+User asked: is there an admission tes
+User asked: is there an admission tes
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: why was pgdit created?
+User asked: can i get a scholarship for pgdit
+User asked: who made
+Best match: who made you? (score: 0.5161058902740479)
+User asked: who made you
+User asked: fine
+Best match: bye (score: 0.3691847622394562)
+User asked: tell me the cost
+Best match: what's the fee? (score: 0.5000572204589844)
+User asked: how much the approximately cost
+Best match: what's the total program cost? (score: 0.48692578077316284)
+User asked: pgdit
+User asked: what is pgdit?
+User asked: what is the contact number for route 2?
+User asked: is work experience mandatory?
+User asked: who are yo
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: what is the contact number for route 2?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: tell me the number of sura of quran
+Best match: how many sura on holy quran (score: 0.9383060932159424)
+[UID:1099][128730] Child process with pid: 128743 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: what if i fail the admission test?
+User asked: what areas do buses cover?
+[UID:1099][880768] Child process with pid: 912586 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: is the director involved in academic decisions?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: what if i fail the admission test?
+User asked: what if i fail the admission test?
+User asked: sadfsadf
+Best match: assalamu alaikum (score: 0.3077741861343384)
+User asked: class schedule?
+Best match: when are classes? (score: 0.8330049514770508)
+User asked: can i choose my own class time
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: can i get a scholarship for pgdit
+User asked: can i get help with job applications?
+User asked: can students access digital libraries
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who can apply?
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: asdfsadf
+Best match: assalamu alaikum (score: 0.3365522623062134)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: class schedule?
+Best match: when are classes? (score: 0.8330049514770508)
+User asked: asfdsadf
+Best match: assalamu alaikum (score: 0.2978731393814087)
+User asked: are exams held during the course
+[UID:1099][1302248] Child process with pid: 1302262 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+[UID:1099][1302248] Child process with pid: 1331959 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: are buses punctual?
+User asked: are there any courses on networking
+User asked: who can apply?
+User asked: who can apply?
+User asked: who is eligible to apply?
+User asked: do i have to pay any deposit
+User asked: do i need to bring original certificates to the admission office?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: class schedule?
+Best match: when are classes? (score: 0.8330049514770508)
+User asked: are buses available in rainy season?
+User asked: is the director active in student affairs?
+User asked: who approves the curriculum at ju?
+User asked: do i need to bring original certificates to the admission office?
+User asked: do i have to pay any deposit
+User asked: can i get career advice?
+User asked: do i need to bring original certificates to the admission office?
+User asked: can i pray on campus during class hours?
+User asked: do i need to bring original certificates to the admission office?
+User asked: do i have to pay any deposit
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum, is this the pgdit office?
+User asked: who approves the curriculum at ju?
+User asked: who approves the curriculum at ju?
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: what is pgdit?
+User asked: what career opportunities does pgdit offer?
+User asked: what career opportunities does pgdit offer?
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: xxxxxxxxxx
+Best match: back with another... (score: 0.3137058913707733)
+User asked: xxxxxxxxxx
+Best match: back with another... (score: 0.3137058913707733)
+User asked: xxxxxxxxx
+Best match: back with another... (score: 0.3113860487937927)
+User asked: xxxxxx
+Best match: back with another... (score: 0.30996906757354736)
+User asked: xxxxxxxxxx
+Best match: back with another... (score: 0.3137058913707733)
+User asked: xxxxxxxx
+Best match: back with another... (score: 0.308671772480011)
+User asked: sadfasdf
+Best match: assalamu alaikum (score: 0.3133736252784729)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: assalamu
+Best match: assalamu alaikum (score: 0.7909523844718933)
+User asked: who are you
+User asked: tell me the approximately cost
+Best match: is it expensive? (score: 0.4684816598892212)
+User asked: how much the cost
+Best match: what's the total program cost? (score: 0.5916842222213745)
+User asked: is running in ramadan month
+Best match: do pgdit students fast during ramadan? (score: 0.5111240744590759)
+User asked: is the pgdit program updated regularly?
+User asked: assalamu alaikum
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: asfd
+Best match: assalamu alaikum (score: 0.2849195897579193)
+User asked: one test three
+Best match: what's the test format? (score: 0.5442795753479004)
+User asked: sdfsadfsadf
+Best match: assalamu alaikum (score: 0.21820926666259766)
+User asked: who are you
+User asked: what is pgdit
+User asked: who are you
+User asked: who made you
+User asked: who is derector
+Best match: who is director? (score: 0.3887995481491089)
+User asked: who is director
+User asked: one test three
+Best match: what's the test format? (score: 0.5442795753479004)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: assalamu alaikum
+User asked: ssalamu alaikum
+Best match: assalamu alaikum (score: 0.846023440361023)
+User asked: ssalamu alaikum
+Best match: assalamu alaikum (score: 0.846023440361023)
+User asked: ssalamu alaikum
+Best match: assalamu alaikum (score: 0.846023440361023)
+User asked: ssalamu alaikum
+Best match: assalamu alaikum (score: 0.846023440361023)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+User asked: test case
+Best match: what's the test format? (score: 0.5433195233345032)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+[UID:1099][1422362] Child process with pid: 1422365 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: test case
+User asked: test case
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: assalamu alaikum
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: assalamu alaikum
+User asked: test case
+User asked: test case
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: test case
+User asked: test case
+User asked: test case
+User asked: test case
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hello how are you
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2011' in position 45: ordinal not in range(128)
+Internal Server Error: /chatbot/api/chat/
+Traceback (most recent call last):
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/virtualenv/chatbot/3.11/lib/python3.11/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sohan/chatbot/bot/views.py", line 105, in chat
+    print(f"Best match: {questions[best_idx]} (score: {best_score})")
+UnicodeEncodeError: 'ascii' codec can't encode character '\u2011' in position 45: ordinal not in range(128)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392183065414429)
+User asked: class schedule?
+Best match: when are classes? (score: 0.8330049514770508)
+User asked: how do i report issues with the online portal
+User asked: do teachers update lessons?
+User asked: do i learn about web security
+User asked: how are you
+User asked: when the next admission date
+Best match: when is the admission open? (score: 0.7837117910385132)
+User asked: tell me the approximately fish
+Best match: how big is the teaching team? (score: 0.2822555601596832)
+User asked: tell me the approximately cost
+Best match: is it expensive? (score: 0.4684816598892212)
+User asked: how much the approximately cost
+Best match: what's the total program cost? (score: 0.48692578077316284)
+User asked: is available cyber security
+Best match: do we get any cybersecurity tools? (score: 0.6671314835548401)
+User asked: who is teacher teach us
+Best match: who are the teachers? (score: 0.6638145446777344)
+User asked: what is the requirement to admission here
+Best match: is there any medical requirement for admission? (score: 0.6759942173957825)
+User asked: tell me the preparation for admission test
+Best match: how to prepare for admission? (score: 0.8578040599822998)
+User asked: who is required paper to admission
+Best match: what is the syllabus for the admission test? (score: 0.5623222589492798)
+User asked: who made you
+User asked: who is
+Best match: who are you? (score: 0.6540194749832153)
+User asked: who is is vishala
+Best match: who is dr. risala tasin khan? (score: 0.3601853549480438)
+User asked: who is dr shamim al mamun
+User asked: who is dr shamimul naman
+User asked: who are you
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hi
+Best match: hi hi! (score: 0.695525050163269)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: who is coordinator/
+Best match: who is coordinator? (score: 0.9667726755142212)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how is everything is going on?
+User asked: xxxxxxxxxxxxxxxxxxxxxxx
+Best match: back with another... (score: 0.293306827545166)
+[UID:1099][4097118] Child process with pid: 4097131 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: total cost and class time?
+Best match: how many hours is each class day (score: 0.6663153171539307)
+User asked: total cost
+Best match: what's the total program cost? (score: 0.5769319534301758)
+User asked: total cost?
+Best match: what's the total program cost? (score: 0.5790919661521912)
+User asked: total fees
+Best match: what's the fee? (score: 0.6312515139579773)
+User asked: total fees?
+Best match: what's the fee? (score: 0.7092289328575134)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: cost structure of pgdit program
+User asked: cost structure
+Best match: total cost (score: 0.4844799339771271)
+User asked: fee
+Best match: what's the fee? (score: 0.7519389986991882)
+User asked: semester cost
+User asked: credit fee
+User asked: how much i have to pay for a credit?
+Best match: credit fee (score: 0.7052547931671143)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: total cost
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: total cost of trasport
+User asked: total cost of transport for pgdit program?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hi
+Best match: hi hi! (score: 0.695525050163269)
+[UID:1099][2088812] Child process with pid: 2121719 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hello
+Best match: hello hello! (score: 0.7633768916130066)
+User asked: are there any prerequisites?
+User asked: is there any age limit for admission
+User asked: do ju and du both give real certificates for pgdit?
+User asked: tell me the approximately fish
+Best match: how big is the teaching team? (score: 0.28225553035736084)
+User asked: how much the fish
+Best match: total cost (score: 0.4299938678741455)
+User asked: how much expense
+Best match: total cost (score: 0.620110273361206)
+User asked: budget
+Best match: which one is more affordable? (score: 0.45199519395828247)
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what about version control systems?
+User asked: what about version control systems?
+User asked: what about version control systems?
+User asked: what about version control systems?
+User asked: what about version control systems?
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: what is pgdit?
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: class schedule?
+Best match: when are classes? (score: 0.8330049514770508)
+User asked: can the class schedule change
+[UID:1099][2088812] Child process with pid: 2171234 was killed by signal: 15, core dumped: no
+[UID:1099][2088812] Child process with pid: 2171465 was killed by signal: 15, core dumped: no
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: are there any prerequisites?
+User asked: is there any age limit for admission
+User asked: do ju and du both give real certificates for pgdit?
+User asked: is there an email address for admission inquiries
+User asked: how are you
+User asked: how are you
+User asked: who are you
+User asked: who are you
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: is there an faq section on the website
+User asked: sdfasdfasdf
+Best match: assalamu alaikum (score: 0.25559329986572266)
+User asked: sdfsdaf
+Best match: who is director? (score: 0.25233444571495056)
+User asked: asdfsadf
+Best match: assalamu alaikum (score: 0.3365522623062134)
+User asked: sdfsadf
+Best match: who is director? (score: 0.20542412996292114)
+User asked: sadfsd
+Best match: salam (score: 0.2848140001296997)
+User asked: safsadf
+Best match: salam (score: 0.394206166267395)
+User asked: afsadfsdafs
+Best match: assalamu alaikum (score: 0.38559699058532715)
+User asked: asdfsdf
+Best match: assalamu alaikum (score: 0.30491557717323303)
+User asked: adsfasdfs
+Best match: assalamu alaikum (score: 0.21893982589244843)
+User asked: asdfasdf
+Best match: assalamu alaikum (score: 0.33845391869544983)
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: is it expensive?
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hi
+Best match: hi hi! (score: 0.695525050163269)
+User asked: amar result ki pgdit te roll 24126
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: is there an age limit?
+User asked: what office software is provided?
+User asked: what version of python is taught?
+User asked: hello how are you
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: hello how are you
+User asked: who made you
+User asked: who is your supervisor
+Error loading default.json: Expecting ',' delimiter: line 21 column 10 (char 668)
+User asked: what is pgdit?
+User asked: 
+Best match: yo (score: 0.29561105370521545)
+User asked: undefined
+Best match: got what i needed (score: 0.23306883871555328)
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: eligibility
+Best match: who is eligible to apply? (score: 0.6226738691329956)
+User asked: how to apply?
+Best match: how do i apply online? (score: 0.5392181873321533)
+User asked: course fees?
+Best match: how much is the course fee (score: 0.8535364866256714)
+User asked: class schedule
+Best match: when are classes? (score: 0.8087671399116516)
+User asked: how to apply
+User asked: how to apply
+User asked: how to apply
+User asked: how to apply
+User asked: how to apply
+User asked: how to apply
+User asked: how to apply
+User asked: what is pgdit?
+User asked: eligibility?
+User asked: course fees?
+User asked: class schedule?
+User asked: class schedule?
+User asked: can i get class recordings if i miss a session
+User asked: can i request transcripts online
+User asked: can i do taraweeh and still manage study?
+User asked: can i do taraweeh and still manage study?
+User asked: can i request transcripts online
+User asked: can i do taraweeh and still manage study?
+User asked: do i have to attend all classes to pass
+User asked: can i do taraweeh and still manage study?
+User asked: can i do taraweeh and still manage study?
+User asked: can i request transcripts online
+User asked: do i have to attend all classes to pass
+User asked: can i request transcripts online
+User asked: how do i contact pgdit administration
+User asked: do i have to attend all classes to pass
+User asked: can i do taraweeh and still manage study?
+User asked: can i request transcripts online
+User asked: can i do taraweeh and still manage study?
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: how do i balance my mental health and faith?
+User asked: can i request transcripts online
+User asked: do i have to attend all classes to pass
+User asked: cost
+Best match: total cost (score: 0.6953411102294922)
+User asked: total cost of transport for pgdit program?
+User asked: dua
+Best match: can you make du'a for me? (score: 0.5592951774597168)
+User asked: may allah make it easy for all students.
+User asked: if i may add...
+User asked: if i may add...
+User asked: can you make du'a for me?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: what is pgdit?
+User asked: pgdit
+User asked: pgdit
+User asked: pgdit
+User asked: pgdit
+User asked: can i apply for pgdit online
+User asked: is there support for continuing education?
+User asked: who is your superviso
+User asked: superviso
+Best match: what virtualization software is used? (score: 0.37152278423309326)
+User asked: supervisor
+Best match: who is your supervisor? (score: 0.8122580051422119)
+User asked: who is manage you
+User asked: who is your boss?
+User asked: who is your boss
+User asked: who is your superior?
+User asked: who is your coordinator?
+User asked: who is your overseer?
+User asked: who is your overseer?
+User asked: who is overseer?
+Best match: who is coordinator? (score: 0.5946288108825684)
+User asked: who handles student complaints or problems?
+User asked: dua
+Best match: can you make du'a for me? (score: 0.5592951774597168)
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: are there any discounts for group enrollments
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: dua
+Best match: can you make du'a for me? (score: 0.5592951774597168)
+User asked: that's all for now
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: dua
+Best match: can you make du'a for me? (score: 0.5592951774597168)
+User asked: allah
+Best match: salam (score: 0.501042902469635)
+User asked: dua
+Best match: can you make du'a for me? (score: 0.5592951774597168)

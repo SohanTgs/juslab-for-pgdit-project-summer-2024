@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hello! Need help with your xCash transactions?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi! How can I assist with transaction queries on xCash?"
+  },
+  {
+    "question": "Anyone there?",
+    "answer": "Yes, ready to help with your xCash transactions."
+  },
+  {
+    "question": "Need help with transactions",
+    "answer": "Sure! What transaction questions do you have?"
+  },
+  {
+    "question": "Where to see transactions?",
+    "answer": "Check the Transactions tab in your xCash wallet."
+  },
+  {
+    "question": "Transaction not showing",
+    "answer": "Try refreshing or contact xCash support if issue persists."
+  },
+  {
+    "question": "Are transactions instant?",
+    "answer": "Most xCash transactions complete immediately."
+  },
+  {
+    "question": "How to download transaction history?",
+    "answer": "Use export option in xCash transaction page."
+  },
+  {
+    "question": "Can I filter transactions?",
+    "answer": "Yes, xCash provides filters by date and type."
+  },
+  {
+    "question": "Need support with transactions",
+    "answer": "I’m here to assist with xCash transaction questions."
+  },
+  {
+    "question": "Why transaction failed?",
+    "answer": "Check balance and details; retry or contact support."
+  },
+  {
+    "question": "How can I check my transaction history?",
+    "answer": "You can view your full transaction history in the 'Transactions' section of your xCash account."
+  },
+  {
+    "question": "What should I do if a payment fails?",
+    "answer": "Please verify your balance and payment details. If the issue persists, contact xCash support for assistance."
+  },
+  {
+    "question": "Is there a limit on how much I can send?",
+    "answer": "Yes, xCash has transaction limits based on your account verification level. Check the 'Limits' section for details."
+  },
+  {
+    "question": "How do I update my account information?",
+    "answer": "You can edit your personal details in the 'Account Settings' section of your xCash profile."
+  },
+  {
+    "question": "Why was my account temporarily restricted?",
+    "answer": "For security reasons, xCash may restrict accounts if suspicious activity is detected. Please contact support to resolve this."
+  },
+  {
+    "question": "Can I receive international payments?",
+    "answer": "Yes, xCash supports cross-border transactions, but fees and processing times may vary."
+  },
+  {
+    "question": "How do I enable two-factor authentication?",
+    "answer": "Navigate to 'Security Settings' in your xCash account to set up 2FA for added protection."
+  },
+  {
+    "question": "Where can I find my account number?",
+    "answer": "Your xCash account number is displayed in the 'Profile' section of the app or dashboard."
+  },
+  {
+    "question": "What payment methods are supported?",
+    "answer": "xCash accepts bank transfers, debit/credit cards, and linked digital wallets. See 'Payment Options' for full details."
+  },
+  {
+    "question": "How do I view my transactions?",
+    "answer": "Check your full transaction history anytime in the xCash app."
+  },
+  {
+    "question": "Can I download transaction reports?",
+    "answer": "Yes, xCash lets you export transaction reports in various formats."
+  },
+  {
+    "question": "What types of transactions are recorded?",
+    "answer": "All payments, transfers, withdrawals, and deposits show up in xCash."
+  },
+  {
+    "question": "How to search transactions by date?",
+    "answer": "Use the date filter in xCash transaction history to find specific entries."
+  },
+  {
+    "question": "Are transaction details secure?",
+    "answer": "xCash encrypts all transaction data to keep it safe."
+  },
+  {
+    "question": "Can I see transaction statuses?",
+    "answer": "Yes, each transaction in xCash shows status like pending or completed."
+  },
+  {
+    "question": "How often are transactions updated?",
+    "answer": "xCash updates transactions in real time for instant tracking."
+  },
+  {
+    "question": "Can I categorize my transactions?",
+    "answer": "Yes, xCash offers categories to organize your transaction history."
+  },
+  {
+    "question": "Is there a limit to transaction history?",
+    "answer": "xCash retains your transaction data as per regulatory requirements."
+  },
+  {
+    "question": "How to dispute a transaction?",
+    "answer": "Report any transaction issues via xCash support immediately."
+  },
+  {
+    "question": "Can I filter transactions by amount?",
+    "answer": "Yes, use amount filters in xCash transaction history."
+  },
+  {
+    "question": "Are refunds shown in transactions?",
+    "answer": "Refunds appear as separate transactions in your xCash history."
+  },
+  {
+    "question": "Can I export transactions to Excel?",
+    "answer": "Absolutely, xCash supports exporting your data to Excel files."
+  },
+  {
+    "question": "How to print my transaction list?",
+    "answer": "Use the print option available in the xCash web portal."
+  },
+  {
+    "question": "Can I get transaction notifications?",
+    "answer": "Yes, enable push notifications for transaction alerts in xCash."
+  },
+  {
+    "question": "Are international transactions supported?",
+    "answer": "xCash supports both domestic and international transactions."
+  },
+  {
+    "question": "Can I tag transactions for reference?",
+    "answer": "Yes, xCash allows you to add custom tags to your transactions."
+  },
+  {
+    "question": "How to delete a transaction record?",
+    "answer": "For security, transaction records in xCash cannot be deleted."
+  },
+  {
+    "question": "Is transaction data shared with third parties?",
+    "answer": "xCash respects your privacy and does not share data without consent."
+  },
+  {
+    "question": "What if transaction is missing?",
+    "answer": "Contact xCash support to investigate missing transaction issues."
+  },
+  {
+    "question": "Can I download transactions on my phone?",
+    "answer": "Yes, xCash mobile app supports exporting your transaction history."
+  },
+  {
+    "question": "How to see transaction fees?",
+    "answer": "Fees are clearly listed with each transaction in xCash."
+  },
+  {
+    "question": "Are transactions timestamped?",
+    "answer": "Every xCash transaction shows an accurate date and time."
+  },
+  {
+    "question": "Can I view transaction locations?",
+    "answer": "xCash records location data for transactions when enabled."
+  },
+  {
+    "question": "How to handle duplicate transactions?",
+    "answer": "Report duplicates to xCash support for resolution."
+  },
+  {
+    "question": "Can I get monthly transaction summaries?",
+    "answer": "Yes, xCash provides monthly reports for your convenience."
+  },
+  {
+    "question": "How to export filtered transactions?",
+    "answer": "Apply filters and export only the transactions you need in xCash."
+  },
+  {
+    "question": "Are pending transactions shown?",
+    "answer": "Pending and completed transactions are both visible in xCash."
+  },
+  {
+    "question": "Can I share transaction history?",
+    "answer": "You can export and share reports generated from xCash."
+  },
+  {
+    "question": "How secure is transaction data backup?",
+    "answer": "xCash keeps your data backed up with industry-standard security."
+  },
+  {
+    "question": "How do refunds appear?",
+    "answer": "Refunds are logged as credits in your xCash transaction list."
+  },
+  {
+    "question": "Can I filter transactions by merchant?",
+    "answer": "Yes, xCash allows filtering transactions by merchant name."
+  },
+  {
+    "question": "Are transaction details downloadable?",
+    "answer": "Detailed transaction data can be downloaded via xCash dashboard."
+  },
+  {
+    "question": "Can I request transaction history for tax?",
+    "answer": "Yes, xCash supports generating reports for tax purposes."
+  },
+  {
+    "question": "How do I report a fraudulent transaction?",
+    "answer": "Immediately report suspected fraud through xCash support."
+  },
+  {
+    "question": "Can I view transaction notes?",
+    "answer": "Any notes attached during transactions appear in xCash history."
+  },
+  {
+    "question": "How to sync transactions with accounting software?",
+    "answer": "xCash offers export options compatible with popular accounting tools."
+  },
+  {
+    "question": "Is there a way to tag transactions as personal or business?",
+    "answer": "Yes, categorize your xCash transactions accordingly."
+  },
+  {
+    "question": "Can I see recurring transactions?",
+    "answer": "Recurring payments are flagged clearly in your xCash history."
+  },
+  {
+    "question": "How to handle failed transactions?",
+    "answer": "Failed transactions are marked, and you can retry or report via xCash."
+  },
+  {
+    "question": "Can I view transaction currency details?",
+    "answer": "Yes, xCash shows the currency used for each transaction."
+  },
+  {
+    "question": "How do I export transactions for a custom period?",
+    "answer": "Set your desired date range in xCash before exporting."
+  },
+  {
+    "question": "Are transaction IDs unique?",
+    "answer": "Every xCash transaction has a unique ID for tracking."
+  },
+  {
+    "question": "Can I attach receipts to transactions?",
+    "answer": "Yes, xCash lets you upload receipts for your records."
+  },
+  {
+    "question": "How to get notified about large transactions?",
+    "answer": "Enable alerts in xCash for transactions exceeding your set limit."
+  },
+  {
+    "question": "Can I sort transactions by amount?",
+    "answer": "xCash allows sorting your transactions in ascending or descending order."
+  },
+  {
+    "question": "Is there an option to mark transactions as reviewed?",
+    "answer": "Yes, you can mark transactions reviewed in xCash for better tracking."
+  },
+  {
+    "question": "Can I see pending approvals on transactions?",
+    "answer": "Any transaction needing approval will be clearly flagged in xCash."
+  },
+  {
+    "question": "How to export transactions with notes included?",
+    "answer": "Choose export settings to include notes when exporting from xCash."
+  },
+  {
+    "question": "Can I filter transactions by payment method?",
+    "answer": "Yes, filter by card, bank transfer, or wallet in xCash."
+  },
+  {
+    "question": "How long does xCash keep transaction data?",
+    "answer": "xCash retains your transaction history for several years per policy."
+  },
+  {
+    "question": "Can I print transaction summaries?",
+    "answer": "Print options are available in the xCash web portal."
+  },
+  {
+    "question": "Are transaction alerts customizable?",
+    "answer": "You can customize alert preferences in your xCash settings."
+  },
+  {
+    "question": "How to handle disputed transactions?",
+    "answer": "Report disputes via xCash support for quick assistance."
+  },
+  {
+    "question": "Can I export transactions to PDF?",
+    "answer": "Yes, xCash supports exporting transaction history as PDF."
+  },
+  {
+    "question": "Is offline transaction viewing possible?",
+    "answer": "Download reports in xCash to view transactions offline."
+  },
+  {
+    "question": "Can I access transactions from multiple devices?",
+    "answer": "xCash syncs your data across all your logged-in devices."
+  },
+  {
+    "question": "Are refunded transactions linked to originals?",
+    "answer": "Yes, refunds reference the original transaction in xCash."
+  },
+  {
+    "question": "How to export transactions by category?",
+    "answer": "Filter by category and export the filtered list in xCash."
+  },
+  {
+    "question": "Can I hide certain transactions from view?",
+    "answer": "Currently, xCash does not support hiding transactions."
+  },
+  {
+    "question": "Can I add tags to transactions?",
+    "answer": "Yes, xCash lets you tag transactions for easy sorting."
+  },
+  {
+    "question": "How do I download transaction data in CSV?",
+    "answer": "Choose CSV format when exporting your history in xCash."
+  },
+  {
+    "question": "Is transaction data encrypted?",
+    "answer": "All xCash transaction data is encrypted for security."
+  },
+  {
+    "question": "Can I merge multiple transactions?",
+    "answer": "xCash does not support merging transactions at this time."
+  },
+  {
+    "question": "How to reset transaction filters?",
+    "answer": "Use the reset button on the xCash transactions page."
+  },
+  {
+    "question": "Can I see transaction status updates?",
+    "answer": "xCash shows real-time status for all your transactions."
+  },
+  {
+    "question": "How to set transaction alerts by amount?",
+    "answer": "Set your preferred limit in xCash alert settings."
+  },
+  {
+    "question": "Are transaction exports limited by size?",
+    "answer": "Large exports may be split, but xCash manages this seamlessly."
+  },
+  {
+    "question": "How to check transaction authenticity?",
+    "answer": "Verify details and IDs within xCash to confirm legitimacy."
+  },
+  {
+    "question": "Can I export transaction charts?",
+    "answer": "Yes, xCash lets you export graphical summaries."
+  },
+  {
+    "question": "How to report missing transactions?",
+    "answer": "Contact xCash support if any transactions are missing."
+  },
+  {
+    "question": "Can I mark transactions as business expenses?",
+    "answer": "Yes, categorize transactions accordingly in xCash."
+  },
+  {
+    "question": "Are international transactions supported?",
+    "answer": "xCash supports multiple currencies for international use."
+  },
+  {
+    "question": "Can I get SMS alerts for transactions?",
+    "answer": "Enable SMS notifications in your xCash profile."
+  },
+  {
+    "question": "How to add notes to a transaction?",
+    "answer": "Edit transaction details and add notes in xCash."
+  },
+  {
+    "question": "Is there a limit to transaction history length?",
+    "answer": "xCash stores your history indefinitely, subject to policies."
+  },
+  {
+    "question": "Can I export transaction data to Excel?",
+    "answer": "Yes, xCash supports Excel format for exports."
+  },
+  {
+    "question": "How to reconcile transactions with bank statements?",
+    "answer": "Export data from xCash and cross-check with your bank."
+  },
+  {
+    "question": "Are transaction histories searchable?",
+    "answer": "Yes, use the search bar in the xCash transaction list."
+  },
+  {
+    "question": "Can I get daily transaction summaries?",
+    "answer": "Set daily reports in your xCash notification settings."
+  },
+  {
+    "question": "How to export transactions by merchant?",
+    "answer": "Filter by merchant name and export from xCash."
+  },
+  {
+    "question": "Can I download transaction data on mobile?",
+    "answer": "Yes, xCash mobile app allows exporting transaction history."
+  },
+  {
+    "question": "Are transaction details updated in real-time?",
+    "answer": "xCash updates transaction status instantly as they occur."
+  },
+  {
+    "question": "How to correct transaction mistakes?",
+    "answer": "Report errors to xCash support for quick resolution."
+  },
+  {
+    "question": "Can I view failed transactions?",
+    "answer": "Yes, failed transactions are listed with error details in xCash."
+  },
+  {
+    "question": "Is there a way to download transaction graphs?",
+    "answer": "Yes, export charts from xCash dashboard anytime."
+  },
+  {
+    "question": "Can I filter transactions by date and amount?",
+    "answer": "xCash provides multiple filter options including date and amount."
+  },
+  {
+    "question": "How do I get monthly transaction reports?",
+    "answer": "Set monthly report preferences in your xCash account."
+  },
+  {
+    "question": "Are transaction alerts sent by email?",
+    "answer": "Yes, you can enable email notifications in xCash."
+  },
+  {
+    "question": "Can I share transaction details securely?",
+    "answer": "Share via secure links generated by xCash."
+  },
+  {
+    "question": "Is there a dashboard for transaction summaries?",
+    "answer": "xCash dashboard shows comprehensive transaction overviews."
+  },
+  {
+    "question": "How to delete transaction records?",
+    "answer": "For security, xCash does not allow deleting transactions."
+  },
+  {
+    "question": "Can I view transaction fees separately?",
+    "answer": "Yes, fees are detailed alongside each transaction in xCash."
+  },
+  {
+    "question": "How to export transaction logs for tax purposes?",
+    "answer": "Use xCash export feature with appropriate filters for taxes."
+  },
+  {
+    "question": "Can I sync transactions with accounting software?",
+    "answer": "xCash supports integration with popular accounting tools."
+  },
+  {
+    "question": "Are transaction notifications customizable?",
+    "answer": "Yes, tailor notifications to your preference in xCash."
+  },
+  {
+    "question": "Can I bulk download transactions?",
+    "answer": "Large bulk downloads are supported through xCash exports."
+  },
+  {
+    "question": "How to archive old transactions?",
+    "answer": "xCash archives older data automatically per retention policies."
+  },
+  {
+    "question": "Is transaction data backed up?",
+    "answer": "Yes, xCash securely backs up all transaction data regularly."
+  },
+  {
+    "question": "How do I get help with transaction errors?",
+    "answer": "Contact xCash support anytime for error assistance."
+  }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is xCash?",
+        "answer": "xCash is a digital wallet and payment solution that allows users to store, send, and receive money securely."
+    },
+    {
+        "question": "Tell me about xCash",
+        "answer": "xCash is a modern platform for managing payments and personal finances digitally, securely, and efficiently."
+    },
+    {
+        "question": "Who built xCash?",
+        "answer": "xCash was developed by the SoftKing team to streamline digital payments."
+    },
+    {
+        "question": "What platforms support xCash?",
+        "answer": "xCash is available on iOS, Android, and a web portal."
+    },
+    {
+        "question": "Is xCash free to use?",
+        "answer": "Yes—creating an xCash account and using basic wallet services is free."
+    },
+    {
+        "question": "How do I sign up?",
+        "answer": "Download the app, open it, tap 'Create Account', and follow the steps to register."
+    },
+    {
+        "question": "Do I need KYC?",
+        "answer": "Yes—KYC verification is required to unlock full features like sending money."
+    },
+    {
+        "question": "What is wallet balance?",
+        "answer": "Wallet balance is the amount of funds currently available in your xCash wallet."
+    },
+    {
+        "question": "Can I have multiple accounts?",
+        "answer": "No—each person can register only one primary xCash account."
+    },
+    {
+        "question": "Is xCash insured?",
+        "answer": "Yes—funds are protected under our partnership with regulated financial institutions."
+    },
+    {
+        "question": "What does KYC stand for?",
+        "answer": "KYC means Know Your Customer—it's verification to confirm your identity."
+    },
+    {
+        "question": "Where can I view fees?",
+        "answer": "Fees are listed under 'Help & Fees' in the app's menu."
+    },
+    {
+        "question": "Can I use xCash internationally?",
+        "answer": "Currently xCash supports transactions within supported regions only."
+    },
+    {
+        "question": "What currencies are supported?",
+        "answer": "We currently support BDT and USD."
+    },
+    {
+        "question": "How do I top up?",
+        "answer": "Use the 'Add Money' feature via bank transfer or partner agents."
+    },
+    {
+        "question": "Can I withdraw money?",
+        "answer": "Yes—withdraw to your linked bank account."
+    },
+    {
+        "question": "How do I view my profile?",
+        "answer": "Tap your avatar in the app's top corner to open your profile."
+    },
+    {
+        "question": "Can I get premium support?",
+        "answer": "Yes—premium support is available via subscription."
+    },
+    {
+        "question": "Is xCash private?",
+        "answer": "We respect user privacy and comply with data protection laws."
+    },
+    {
+        "question": "How to contact support?",
+        "answer": "Tap 'Help' in the app or email support@xcash.com."
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "question": "How do I withdraw?",
+        "answer": "Go to Wallet > Withdraw, select your method, and enter amount."
+    },
+    {
+        "question": "Why is my KYC pending?",
+        "answer": "KYC may take 24–48 hours to be reviewed. Check your profile."
+    },
+    {
+        "question": "What is kyc?",
+        "answer": "KYC (Know Your Customer) is a verification process required by financial regulations to confirm your identity."
+    },
+    {
+        "question": "What is your name?",
+        "answer": "My name is xCash, the ultimate wallet solution. This is our official link: https://script.viserlab.com/xcash/"
+    },
+    {
+        "question": "Your creator",
+        "answer": "Viserlab"
+    },
+    {
+        "question": "How to deposit funds?",
+        "answer": "Go to Wallet > Deposit and select your preferred deposit method."
+    },
+    {
+        "question": "Transaction fees",
+        "answer": "Fees vary by transaction type. Standard transfers cost 0.1 XCASH, while priority transfers cost 0.3 XCASH."
+    },
+    {
+        "question": "Minimum withdrawal amount",
+        "answer": "The minimum withdrawal amount is 10 XCASH."
+    },
+    {
+        "question": "How long do withdrawals take?",
+        "answer": "Withdrawals typically process within 30 minutes, but may take longer during peak times."
+    },
+    {
+        "question": "Forgot password",
+        "answer": "Visit the login page and click 'Forgot Password' to reset via email."
+    },
+    {
+        "question": "Two-factor authentication",
+        "answer": "Enable 2FA in Security Settings for extra protection. We recommend Google Authenticator."
+    },
+    {
+        "question": "Supported countries",
+        "answer": "XCash is available worldwide except in restricted jurisdictions. Check our Terms for details."
+    },
+    {
+        "question": "How to contact support?",
+        "answer": "Email support@xcash.com or use the live chat feature in the app."
+    },
+    {
+        "question": "Transaction history",
+        "answer": "View all transactions in the History tab of your wallet."
+    },
+    {
+        "question": "Wallet backup",
+        "answer": "Regularly export your wallet keys and store them securely offline."
+    },
+    {
+        "question": "Recover wallet",
+        "answer": "Use your recovery phrase or private keys to restore your wallet."
+    },
+    {
+        "question": "Security tips",
+        "answer": "Never share your private keys, enable 2FA, and use strong passwords."
+    },
+    {
+        "question": "Mobile app download",
+        "answer": "Download our iOS/Android app from the official app stores."
+    },
+    {
+        "question": "Browser extension",
+        "answer": "Our Chrome/Firefox extension is available at xcash.com/extensions."
+    },
+    {
+        "question": "Staking rewards",
+        "answer": "Earn 5-7% APY by staking XCASH in your wallet's Earn section."
+    },
+    {
+        "question": "Referral program",
+        "answer": "Earn 10% of fees paid by users you refer. Share your unique link."
+    },
+    {
+        "question": "Token swap",
+        "answer": "Old tokens can be swapped in the Migration section until December 2023."
+    },
+    {
+        "question": "Network status",
+        "answer": "All systems operational. Check status.xcash.com for updates."
+    },
+    {
+        "question": "Partnerships",
+        "answer": "We partner with major exchanges and payment processors worldwide."
+    },
+    {
+        "question": "Roadmap",
+        "answer": "View our development roadmap at xcash.com/roadmap."
+    },
+    {
+        "question": "White paper",
+        "answer": "Download our technical white paper from xcash.com/whitepaper."
+    },
+    {
+        "question": "Team members",
+        "answer": "Our team consists of 25 blockchain experts worldwide."
+    },
+    {
+        "question": "Privacy policy",
+        "answer": "Read how we protect your data at xcash.com/privacy."
+    },
+    {
+        "question": "Tokenomics",
+        "answer": "Total supply: 100M XCASH. Circulating supply: 60M XCASH."
+    },
+    {
+        "question": "Smart contracts",
+        "answer": "XCash supports ERC-20 and BEP-20 smart contract functionality."
+    },
+    {
+        "question": "Gas fees",
+        "answer": "Ethereum network fees apply for ERC-20 transactions."
+    },
+    {
+        "question": "Exchange listings",
+        "answer": "XCash is listed on Binance, Coinbase, and 15 other exchanges."
+    },
+    {
+        "question": "Market cap",
+        "answer": "Current market cap is $120M. Check CoinMarketCap for updates."
+    },
+    {
+        "question": "Price prediction",
+        "answer": "We don't provide financial advice. Do your own research."
+    },
+    {
+        "question": "How to buy",
+        "answer": "Purchase XCASH on exchanges or via our wallet's Buy feature."
+    },
+    {
+        "question": "Limit orders",
+        "answer": "Set buy/sell limits in the Advanced Trading section."
+    },
+    {
+        "question": "Stop-loss",
+        "answer": "Protect your investments with automatic stop-loss orders."
+    },
+    {
+        "question": "Tax reporting",
+        "answer": "Export transaction history for tax purposes from your wallet."
+    },
+    {
+        "question": "Hardware wallet",
+        "answer": "XCash is compatible with Ledger and Trezor devices."
+    },
+    {
+        "question": "Multi-sig wallets",
+        "answer": "Enterprise users can set up multi-signature wallets."
+    },
+    {
+        "question": "Merchant solutions",
+        "answer": "Accept XCASH payments with our merchant tools and plugins."
+    },
+    {
+        "question": "API access",
+        "answer": "Developers can integrate using our comprehensive API docs."
+    },
+    {
+        "question": "Bug bounty",
+        "answer": "Earn rewards for reporting security issues. See xcash.com/bugbounty."
+    },
+    {
+        "question": "Community forum",
+        "answer": "Join discussions at community.xcash.com."
+    },
+    {
+        "question": "Social media",
+        "answer": "Follow us on Twitter @XCashOfficial and Telegram t.me/xcash."
+    },
+    {
+        "question": "Latest updates",
+        "answer": "Check our blog at xcash.com/blog for news and announcements."
+    }
+]

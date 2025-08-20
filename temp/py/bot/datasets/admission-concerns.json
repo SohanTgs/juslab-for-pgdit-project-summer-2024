@@ -1,0 +1,182 @@
+[
+    {
+        "question": "I missed the deadline!",
+        "answer": ["Don't stress! Another intake will come - I can notify you when dates are announced."]
+    },
+    {
+        "question": "Is the admission test hard?",
+        "answer": ["It's manageable! Focus on basic IT concepts and logical thinking."]
+    },
+    {
+        "question": "What if my GPA is low?",
+        "answer": ["We consider overall profile - work experience and test scores matter too!"]
+    },
+    {
+        "question": "Can I apply without my transcripts yet?",
+        "answer": ["You'll need them eventually, but can start the application process."]
+    },
+    {
+        "question": "Is there an age limit?",
+        "answer": ["No age limit! We've had students from 22 to 55 in PGDIT."]
+    },
+    {
+        "question": "What's the minimum GPA requirement?",
+        "answer": ["A minimum GPA of 2.5 in bachelor's degree or equivalent is required."]
+    },
+    {
+        "question": "Can I apply with a foreign degree?",
+        "answer": ["Yes! Foreign degrees must be attested by the appropriate authorities."]
+    },
+    {
+        "question": "Is work experience mandatory?",
+        "answer": ["Not mandatory, but relevant work experience strengthens your application."]
+    },
+    {
+        "question": "Do I need to submit recommendation letters?",
+        "answer": ["Yes, two recommendation letters are required with your application."]
+    },
+    {
+        "question": "What documents do I need to submit?",
+        "answer": ["You'll need academic transcripts, photos, NID copy, and recommendation letters."]
+    },
+    {
+        "question": "How do I apply online?",
+        "answer": ["Visit our admission portal at pgdit.iitju.edu.bd/apply to start your application."]
+    },
+    {
+        "question": "What's the application fee?",
+        "answer": ["The current application fee is 500 BDT, payable through bKash or bank deposit."]
+    },
+    {
+        "question": "Can I edit my application after submission?",
+        "answer": ["Yes, you can edit until the application deadline passes."]
+    },
+    {
+        "question": "How will I know my application status?",
+        "answer": ["You'll receive email/SMS updates and can check the admission portal."]
+    },
+    {
+        "question": "What if I make a mistake in my application?",
+        "answer": ["Contact the admission office immediately at pgdit@iitju.edu.bd for corrections."]
+    },
+    {
+        "question": "What's the test format?",
+        "answer": ["It's a written exam testing basic IT knowledge, English, and analytical skills."]
+    },
+    {
+        "question": "How long is the admission test?",
+        "answer": ["The test duration is 1 hour with multiple-choice and short answer questions."]
+    },
+    {
+        "question": "Can I get sample questions?",
+        "answer": ["Sample questions are available on our website under Admission Resources."]
+    },
+    {
+        "question": "Is the test conducted online?",
+        "answer": ["No, it's an on-campus written test at IIT, JU."]
+    },
+    {
+        "question": "What if I miss the admission test?",
+        "answer": ["Contact us immediately - special arrangements may be possible with valid reasons."]
+    },
+    {
+        "question": "How are candidates selected?",
+        "answer": ["Based on test scores (70%), academic background (20%), and experience (10%)."]
+    },
+    {
+        "question": "When are results announced?",
+        "answer": ["Typically within 2 weeks after the admission test."]
+    },
+    {
+        "question": "How will I receive my result?",
+        "answer": ["Results are published on our website and sent via email/SMS."]
+    },
+    {
+        "question": "Can I appeal my admission decision?",
+        "answer": ["Yes, you may appeal in writing within 5 working days of result publication."]
+    },
+    {
+        "question": "What's the acceptance rate?",
+        "answer": ["We typically accept about 40-50 students per batch from all applicants."]
+    },
+    {
+        "question": "When do classes start?",
+        "answer": ["New batches begin every January and July - exact dates are announced with results."]
+    },
+    {
+        "question": "How do I pay tuition fees?",
+        "answer": ["Fees can be paid semester-wise through bank transfer or bKash."]
+    },
+    {
+        "question": "Is there an orientation program?",
+        "answer": ["Yes, a mandatory orientation is held before classes begin."]
+    },
+    {
+        "question": "Can I defer my admission?",
+        "answer": ["Possible for valid reasons with prior approval from the admission committee."]
+    },
+    {
+        "question": "What if I need to withdraw?",
+        "answer": ["You may withdraw with written notice - refer to our refund policy for details."]
+    },
+    {
+        "question": "I'm a foreign applicant - any special requirements?",
+        "answer": ["You'll need equivalency certificates and valid student visa for Bangladesh."]
+    },
+    {
+        "question": "Can I transfer credits from another program?",
+        "answer": ["Possible for similar graduate-level courses, subject to approval."]
+    },
+    {
+        "question": "Is there any quota system?",
+        "answer": ["No quotas, but special consideration may apply for JU graduates."]
+    },
+    {
+        "question": "Do you accept late applications?",
+        "answer": ["Only if the deadline is officially extended - check our website for updates."]
+    },
+    {
+        "question": "What if my documents arrive after deadline?",
+        "answer": ["Contact us immediately - some flexibility may apply for document submission."]
+    },
+    {
+        "question": "How many students per batch?",
+        "answer": ["We maintain small batches of 40-50 students for quality instruction."]
+    },
+    {
+        "question": "Are there weekend batches?",
+        "answer": ["All batches have Friday-Saturday classes to accommodate professionals."]
+    },
+    {
+        "question": "Can I switch batches later?",
+        "answer": ["Possible only in exceptional circumstances with committee approval."]
+    },
+    {
+        "question": "How many batches run simultaneously?",
+        "answer": ["Typically 2 batches (new and continuing) run at any time."]
+    },
+    {
+        "question": "When does the evening batch start?",
+        "answer": ["Classes run 6:00-9:00 PM to accommodate working professionals."]
+    },
+    {
+        "question": "What's the total program cost?",
+        "answer": ["Approximately 75,000 BDT total, payable in installments over 3 semesters."]
+    },
+    {
+        "question": "Are there any additional fees?",
+        "answer": ["Just a small library and lab fee each semester (around 2,000 BDT)."]
+    },
+    {
+        "question": "Do you offer payment plans?",
+        "answer": ["Yes, fees can be paid in 3 equal installments - one per semester."]
+    },
+    {
+        "question": "Is there any refund policy?",
+        "answer": ["Partial refunds are possible if withdrawing before classes begin."]
+    },
+    {
+        "question": "Can I get a fee waiver?",
+        "answer": ["Limited need-based waivers are available - inquire during application."]
+    }
+]

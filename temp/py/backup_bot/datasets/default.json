@@ -1,0 +1,82 @@
+[
+    {
+        "question": "I need help",
+        "answer": "Sure, I’m here to help. Please ask your question about xCash."
+    },
+    {
+        "question": "Can you assist me?",
+        "answer": "Absolutely. Just type your question and I’ll do my best to assist you."
+    },
+    {
+        "question": "Help me",
+        "answer": "Certainly! What do you need help with?"
+    },
+    {
+        "question": "I have a problem",
+        "answer": "I'm sorry to hear that. Could you please describe the issue?"
+    },
+    {
+        "question": "Not working",
+        "answer": "Let's fix it. Can you tell me what's not working?"
+    },
+    {
+        "question": "Something is wrong",
+        "answer": "I’m here to support. What seems to be the issue?"
+    },
+    {
+        "question": "Error",
+        "answer": "I'm sorry you encountered an error. Can you share the error message?"
+    },
+    {
+        "question": "Issue",
+        "answer": "Let me help. What issue are you facing?"
+    },
+    {
+        "question": "Problem",
+        "answer": "I'm on it. What's the problem?"
+    },
+    {
+        "question": "Not sure what to do",
+        "answer": "I can guide you. What are you trying to do?"
+    },
+    {
+        "question": "I'm stuck",
+        "answer": "No worries. What step are you stuck on?"
+    },
+    {
+        "question": "Don't know",
+        "answer": "No problem. Tell me more about what you want to do."
+    },
+    {
+        "question": "Idk",
+        "answer": "Take your time. Let me know how I can assist."
+    },
+    {
+        "question": "Error occurred",
+        "answer": "Let's get this sorted. What happened?"
+    },
+    {
+        "question": "Why not working",
+        "answer": "Let's troubleshoot. Can you share more details?"
+    },
+    {
+        "question": "What's wrong",
+        "answer": "I'm here to help. What seems off?"
+    },
+    {
+        "question": "Need support",
+        "answer": "Support is here. How can I assist you?"
+    },
+    {
+        "question": "Tell me more",
+        "answer": "Certainly. What would you like to know?"
+    },
+    {
+        "question": "Show help",
+        "answer": "Here to help. What do you need assistance with?"
+    },
+    {
+        "question": "Guide me",
+        "answer": "Happy to! What would you like guidance on?"
+    }
+]

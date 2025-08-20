@@ -1,0 +1,482 @@
+[
+{
+    "question": "Hi",
+    "answer": "Hello! How can I help you with xCash today?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi there! Need any assistance with your xCash deposits?"
+  },
+  {
+    "question": "Is anyone there?",
+    "answer": "Yes, I’m here to help with your xCash deposit questions."
+  },
+  {
+    "question": "I need help",
+    "answer": "Sure! What do you need help with in xCash deposits?"
+  },
+  {
+    "question": "Deposit issue",
+    "answer": "I’m sorry to hear that. Let’s fix your xCash deposit problem."
+  },
+  {
+    "question": "How do I deposit?",
+    "answer": "You can add money easily through the deposit section in xCash."
+  },
+  {
+    "question": "Can I deposit now?",
+    "answer": "Absolutely! Use xCash’s deposit feature anytime."
+  },
+  {
+    "question": "Deposit not working",
+    "answer": "Try refreshing or contact xCash support if the problem persists."
+  },
+  {
+    "question": "Where to deposit?",
+    "answer": "Go to Wallet > Deposit inside your xCash app."
+  },
+  {
+    "question": "Need support",
+    "answer": "xCash support is ready to assist you anytime."
+  },
+  {
+    "question": "How long deposit takes?",
+    "answer": "Most deposits clear instantly in xCash."
+  },
+  {
+    "question": "Is deposit free?",
+    "answer": "Some deposit methods are free; check xCash fees."
+  },
+  {
+    "question": "Can I deposit via bank?",
+    "answer": "Yes, xCash supports bank deposits securely."
+  },
+  {
+    "question": "I forgot deposit steps",
+    "answer": "No worries! Just open the deposit page in xCash."
+  },
+  {
+    "question": "Any limit on deposits?",
+    "answer": "Yes, xCash sets deposit limits based on your account."
+  },
+  {
+    "question": "How to check deposit history?",
+    "answer": "Look under Transactions > Deposits in xCash."
+  },
+  {
+    "question": "Deposit pending",
+    "answer": "Pending deposits usually clear in a few minutes on xCash."
+  },
+  {
+    "question": "Can I cancel deposit?",
+    "answer": "Usually deposits can’t be canceled once processed in xCash."
+  },
+  {
+    "question": "Why deposit failed?",
+    "answer": "Check your payment details and network, then retry with xCash."
+  },
+  {
+    "question": "Need deposit assistance",
+    "answer": "I’m here to guide you through deposits on xCash."
+  },
+  {
+    "question": "How do I add money to my wallet?",
+    "answer": "You can deposit funds easily using the deposit feature in xCash."
+  },
+  {
+    "question": "Where can I make a deposit?",
+    "answer": "Use the Deposit section in your xCash dashboard to add money."
+  },
+  {
+    "question": "Is depositing money safe?",
+    "answer": "Absolutely, xCash uses secure encryption to keep deposits safe."
+  },
+  {
+    "question": "Can I deposit via bank transfer?",
+    "answer": "Yes, xCash supports deposits through bank transfers."
+  },
+  {
+    "question": "What payment methods can I use to deposit?",
+    "answer": "xCash accepts deposits via bank, cards, and partner wallets."
+  },
+  {
+    "question": "How long does a deposit take?",
+    "answer": "Most deposits clear instantly in xCash, some bank transfers may take a bit longer."
+  },
+  {
+    "question": "Are there any fees for deposits?",
+    "answer": "xCash may charge small fees depending on the deposit method."
+  },
+  {
+    "question": "Can I deposit using a credit card?",
+    "answer": "Yes, credit card deposits are supported by xCash."
+  },
+  {
+    "question": "What is the minimum deposit amount?",
+    "answer": "xCash requires a minimum deposit of $1 or equivalent."
+  },
+  {
+    "question": "Can I schedule recurring deposits?",
+    "answer": "xCash offers options to set up automatic recurring deposits."
+  },
+  {
+    "question": "How do I check my deposit history?",
+    "answer": "View your deposit transactions under Wallet History in xCash."
+  },
+  {
+    "question": "Can I cancel a deposit?",
+    "answer": "Deposits are usually instant; cancellation is only possible before processing."
+  },
+  {
+    "question": "Is there a deposit limit?",
+    "answer": "xCash imposes daily and monthly deposit limits based on account level."
+  },
+  {
+    "question": "How do I fix a failed deposit?",
+    "answer": "Contact xCash support to resolve any deposit issues quickly."
+  },
+  {
+    "question": "Can I deposit using mobile money?",
+    "answer": "Yes, xCash supports deposits via popular mobile money services."
+  },
+  {
+    "question": "What happens if my deposit is delayed?",
+    "answer": "Delays are rare; if it happens, xCash will notify you and assist."
+  },
+  {
+    "question": "Can I deposit in different currencies?",
+    "answer": "Yes, xCash supports multi-currency deposits."
+  },
+  {
+    "question": "Are deposits refundable?",
+    "answer": "Deposits are generally non-refundable unless caused by errors."
+  },
+  {
+    "question": "How secure is the deposit process?",
+    "answer": "xCash uses advanced security protocols to protect all deposits."
+  },
+  {
+    "question": "Can I deposit money from another country?",
+    "answer": "Yes, international deposits are supported via certain payment methods."
+  },
+  {
+    "question": "Can I deposit using PayPal?",
+    "answer": "xCash supports PayPal deposits where available."
+  },
+  {
+    "question": "How do I verify my deposit?",
+    "answer": "Check your Wallet Balance or Deposit History in xCash."
+  },
+  {
+    "question": "Can deposits be done via agent?",
+    "answer": "Yes, xCash agents can help you deposit cash into your wallet."
+  },
+  {
+    "question": "Is my deposit information private?",
+    "answer": "Absolutely, xCash keeps your deposit details confidential."
+  },
+  {
+    "question": "Can I deposit using a voucher code?",
+    "answer": "Yes, redeem vouchers in xCash to add funds to your wallet."
+  },
+  {
+    "question": "Do I get a receipt after depositing?",
+    "answer": "Yes, xCash provides transaction receipts after every deposit."
+  },
+  {
+    "question": "Can I deposit via cheque?",
+    "answer": "Cheque deposits depend on your bank and xCash policies."
+  },
+  {
+    "question": "What if my deposit fails?",
+    "answer": "Contact xCash support immediately for help."
+  },
+  {
+    "question": "Are deposits reflected instantly?",
+    "answer": "Most deposits show up instantly in your xCash balance."
+  },
+  {
+    "question": "Can I deposit from multiple accounts?",
+    "answer": "Yes, you can deposit from multiple linked accounts in xCash."
+  },
+  {
+    "question": "How do I increase my deposit limit?",
+    "answer": "Verify your account fully to raise deposit limits in xCash."
+  },
+  {
+    "question": "Can I deposit during maintenance?",
+    "answer": "Deposit services may be unavailable during scheduled maintenance."
+  },
+  {
+    "question": "What currencies does xCash accept for deposits?",
+    "answer": "xCash accepts major currencies including USD, EUR, and local currencies."
+  },
+  {
+    "question": "Are deposit promotions available?",
+    "answer": "Check xCash offers for deposit bonuses or promotions."
+  },
+  {
+    "question": "Can I deposit using crypto?",
+    "answer": "Crypto deposits are coming soon to xCash."
+  },
+  {
+    "question": "How do I link my bank for deposits?",
+    "answer": "Add your bank details under Wallet Settings in xCash."
+  },
+  {
+    "question": "Can I deposit with a prepaid card?",
+    "answer": "Yes, prepaid cards are accepted for deposits in xCash."
+  },
+  {
+    "question": "What happens if I deposit the wrong amount?",
+    "answer": "Contact xCash support for assistance in correcting deposit amounts."
+  },
+  {
+    "question": "Can I deposit anonymously?",
+    "answer": "xCash requires identity verification for deposits to comply with regulations."
+  },
+  {
+    "question": "How do I deposit for someone else?",
+    "answer": "You can deposit into another xCash wallet using their account details."
+  },
+  {
+    "question": "Can I deposit money through mobile banking?",
+    "answer": "Yes, xCash supports deposits via mobile banking apps."
+  },
+  {
+    "question": "Is there a way to track pending deposits?",
+    "answer": "You can check pending deposits under the Transactions tab in xCash."
+  },
+  {
+    "question": "Can I deposit money via international wire transfer?",
+    "answer": "Yes, xCash accepts international wire deposits depending on your region."
+  },
+  {
+    "question": "Do I need to verify each deposit?",
+    "answer": "Once your account is verified, deposits generally don't require extra verification."
+  },
+  {
+    "question": "Are there deposit limits for new users?",
+    "answer": "Yes, xCash sets lower limits for new accounts until verified."
+  },
+  {
+    "question": "Can I deposit money from a friend’s account?",
+    "answer": "Yes, deposits from other accounts to your xCash wallet are allowed."
+  },
+  {
+    "question": "Is depositing available on weekends?",
+    "answer": "Yes, xCash deposits are available 24/7 including weekends."
+  },
+  {
+    "question": "Can I set alerts for successful deposits?",
+    "answer": "Yes, enable notifications in xCash settings to get deposit alerts."
+  },
+  {
+    "question": "What if my deposit is not reflected after 24 hours?",
+    "answer": "Contact xCash support if your deposit hasn’t appeared after a day."
+  },
+  {
+    "question": "Can I deposit money from a credit union account?",
+    "answer": "Yes, as long as the credit union supports transfers to xCash."
+  },
+  {
+    "question": "Does xCash offer deposit bonuses?",
+    "answer": "Sometimes, check the app for ongoing deposit promotions."
+  },
+  {
+    "question": "Are deposits insured in xCash?",
+    "answer": "xCash uses security measures but deposits depend on local regulations."
+  },
+  {
+    "question": "Can I deposit using a linked debit card?",
+    "answer": "Yes, linked debit cards can be used to deposit money in xCash."
+  },
+  {
+    "question": "Is there a minimum deposit for promotions?",
+    "answer": "Promotions may have minimum deposit requirements, check details in xCash."
+  },
+  {
+    "question": "Can I deposit money using QR code?",
+    "answer": "Yes, scan QR codes provided by xCash for quick deposits."
+  },
+  {
+    "question": "How to fix deposit errors in the app?",
+    "answer": "Restart the app or contact xCash support for error resolution."
+  },
+  {
+    "question": "Can I deposit using cash at retail stores?",
+    "answer": "Yes, xCash partners with stores to accept cash deposits."
+  },
+  {
+    "question": "Do deposits affect my transaction limits?",
+    "answer": "Deposits don’t usually affect spending limits in xCash."
+  },
+  {
+    "question": "Can I deposit with no internet connection?",
+    "answer": "Internet is required for deposit confirmation in xCash."
+  },
+  {
+    "question": "What’s the largest deposit I can make?",
+    "answer": "Deposit limits vary; check your account settings in xCash."
+  },
+  {
+    "question": "Can I schedule future deposits?",
+    "answer": "xCash currently doesn’t support scheduled deposits but it’s coming soon."
+  },
+  {
+    "question": "Is there a deposit fee for using a credit card?",
+    "answer": "Some credit card deposits may have fees; check xCash terms."
+  },
+  {
+    "question": "Can I deposit in multiple currencies?",
+    "answer": "Yes, xCash supports deposits in various currencies."
+  },
+  {
+    "question": "How do I change my deposit method?",
+    "answer": "Go to Wallet Settings in xCash and update your deposit preferences."
+  },
+  {
+    "question": "Are deposits reversible?",
+    "answer": "Deposits generally can’t be reversed once processed in xCash."
+  },
+  {
+    "question": "Can I deposit money through Western Union?",
+    "answer": "xCash supports Western Union deposits in selected regions."
+  },
+  {
+    "question": "How do I deposit funds using Apple Pay?",
+    "answer": "If Apple Pay is linked, use it in xCash to deposit instantly."
+  },
+  {
+    "question": "Can I deposit cash using an ATM?",
+    "answer": "Some ATMs support cash deposits to xCash accounts."
+  },
+  {
+    "question": "How long to clear a cheque deposit?",
+    "answer": "Cheque deposits may take a few days to clear in xCash."
+  },
+  {
+    "question": "Is identity verification required for deposits?",
+    "answer": "Yes, xCash requires verification to comply with regulations."
+  },
+  {
+    "question": "Can I deposit money using Google Pay?",
+    "answer": "Yes, Google Pay deposits are supported in xCash."
+  },
+  {
+    "question": "Can I deposit to someone else’s wallet?",
+    "answer": "Yes, deposit directly to any xCash wallet with correct details."
+  },
+  {
+    "question": "What happens if deposit is made to wrong account?",
+    "answer": "Contact xCash support immediately to resolve deposit errors."
+  },
+  {
+    "question": "Is there a minimum deposit amount?",
+    "answer": "Yes, minimum deposit varies by method in xCash."
+  },
+  {
+    "question": "Can I deposit money overseas?",
+    "answer": "xCash supports international deposits depending on country."
+  },
+  {
+    "question": "Are deposit transactions secure?",
+    "answer": "xCash uses advanced encryption to secure all deposits."
+  },
+  {
+    "question": "Can I deposit via bank draft?",
+    "answer": "Bank drafts may be accepted after manual verification."
+  },
+  {
+    "question": "How to confirm a successful deposit?",
+    "answer": "Check your wallet balance and transaction history in xCash."
+  },
+  {
+    "question": "Can I deposit via mobile carrier billing?",
+    "answer": "Carrier billing deposits may be available in select regions."
+  },
+  {
+    "question": "What to do if deposit amount is incorrect?",
+    "answer": "Report the issue to xCash support for a quick fix."
+  },
+  {
+    "question": "Can I use prepaid cards to deposit?",
+    "answer": "Yes, xCash accepts deposits from many prepaid cards."
+  },
+  {
+    "question": "Do I get notified on deposit success?",
+    "answer": "Absolutely, xCash sends instant notifications after deposits."
+  },
+  {
+    "question": "Is deposit history available?",
+    "answer": "Yes, view all deposit records in your xCash transaction history."
+  },
+  {
+    "question": "Can I deposit money via PayPal?",
+    "answer": "xCash supports PayPal deposits where available."
+  },
+  {
+    "question": "Is deposit processing instant?",
+    "answer": "Most deposits in xCash are processed instantly."
+  },
+  {
+    "question": "What to do if deposit failed?",
+    "answer": "Retry or contact xCash support for assistance."
+  },
+  {
+    "question": "Can I deposit through a third party?",
+    "answer": "Yes, third-party deposits are possible with correct info."
+  },
+  {
+    "question": "Are deposits refundable?",
+    "answer": "Deposits are usually non-refundable once confirmed in xCash."
+  },
+  {
+    "question": "Can I deposit during maintenance?",
+    "answer": "Deposits may be paused during maintenance; check announcements."
+  },
+  {
+    "question": "Is there a deposit bonus program?",
+    "answer": "xCash runs deposit bonus promotions from time to time."
+  },
+  {
+    "question": "How do I link a bank for deposits?",
+    "answer": "Add your bank details in Wallet Settings inside xCash."
+  },
+  {
+    "question": "Can I deposit without KYC?",
+    "answer": "Limited deposits allowed; full KYC unlocks higher limits."
+  },
+  {
+    "question": "Are deposits insured by xCash?",
+    "answer": "xCash follows regulations but insurance depends on your region."
+  },
+  {
+    "question": "Can I deposit from multiple accounts?",
+    "answer": "Yes, multiple funding sources can be linked for deposits."
+  },
+  {
+    "question": "Do deposit limits reset monthly?",
+    "answer": "Yes, xCash applies monthly deposit limits per account."
+  },
+  {
+    "question": "Can I deposit cryptocurrency?",
+    "answer": "Currently, xCash does not support crypto deposits."
+  },
+  {
+    "question": "Are deposit records exportable?",
+    "answer": "Yes, export your deposit history via xCash reports."
+  },
+  {
+    "question": "How to check deposit status?",
+    "answer": "Monitor pending and completed deposits in your wallet."
+  },
+  {
+    "question": "Does deposit affect credit score?",
+    "answer": "No, xCash deposits do not impact your credit score."
+  },
+  {
+    "question": "Can I deposit using a voucher code?",
+    "answer": "Yes, redeem vouchers as deposits in your xCash wallet."
+  }
+]

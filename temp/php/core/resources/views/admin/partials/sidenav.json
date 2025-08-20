@@ -1,0 +1,20 @@
+{
+    "knowledge_base": {
+        "keyword": [
+            "Knowledge Base"
+        ],
+        "title": "Knowledge Base",
+        "icon": "las la-brain",
+        "route_name": "admin.knowledge.base.all",
+        "menu_active": "admin.knowledge.base.all"
+    },
+    "Dataset": {
+        "keyword": [
+            "Dataset"
+        ],
+        "title": "Dataset",
+        "icon": "las la-brain",
+        "route_name": "admin.dataset.all",
+        "menu_active": "admin.dataset*"
+    }
+}

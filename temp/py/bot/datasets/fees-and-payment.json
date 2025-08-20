@@ -1,0 +1,198 @@
+[
+  {
+    "question": "how much is the course fee",
+    "answer": ["The full course costs BDT 75,000, which includes all tuition."]
+  },
+  {
+    "question": "do I need to pay all at once",
+    "answer": ["There may be options to pay in installments. Let me help you check!"]
+  },
+  {
+    "question": "what is the total tuition fee for PGDIT",
+    "answer": ["The total tuition fee for the PGDIT program is 75,000 Taka."]
+  },
+  {
+    "question": "can I pay the fee in installments",
+    "answer": ["Installment options may be available; please confirm with the administration."]
+  },
+  {
+    "question": "when is the fee payment deadline",
+    "answer": ["The fee should be paid before the start of classes or as specified in the admission notice."]
+  },
+  {
+    "question": "is there an application fee separate from tuition",
+    "answer": ["Yes, the application fee is separate and non-refundable."]
+  },
+  {
+    "question": "how can I pay the tuition fee",
+    "answer": ["Payments can be made online or at the university finance office."]
+  },
+  {
+    "question": "is there any late fee if I pay after the deadline",
+    "answer": ["Yes, late payments may incur a penalty fee."]
+  },
+  {
+    "question": "are there any scholarships available",
+    "answer": ["Scholarships are limited; check the university website for current offers."]
+  },
+  {
+    "question": "can I get a receipt after payment",
+    "answer": ["Yes, you will receive an official receipt for your payment."]
+  },
+  {
+    "question": "can I pay the fee via mobile banking",
+    "answer": ["Yes, mobile banking is accepted for fee payment."]
+  },
+  {
+    "question": "is the fee refundable if I withdraw",
+    "answer": ["Generally, fees are non-refundable after admission confirmation."]
+  },
+  {
+    "question": "can I pay the fee in foreign currency",
+    "answer": ["Foreign payments are possible; please consult the finance office for details."]
+  },
+  {
+    "question": "is the fee the same for all students",
+    "answer": ["Yes, the fee is fixed for all PGDIT students."]
+  },
+  {
+    "question": "does the fee cover all course materials",
+    "answer": ["Course materials are usually provided, but some extra resources may cost extra."]
+  },
+  {
+    "question": "can I get a fee waiver",
+    "answer": ["Fee waivers are rare and considered on a case-by-case basis."]
+  },
+  {
+    "question": "is the fee payment deadline strictly enforced",
+    "answer": ["Yes, late payment may result in admission cancellation."]
+  },
+  {
+    "question": "do I need to pay fees every semester",
+    "answer": ["The full fee is typically paid upfront or as per the payment schedule."]
+  },
+  {
+    "question": "are there any hidden fees",
+    "answer": ["No, the fees mentioned cover tuition and official charges."]
+  },
+  {
+    "question": "can I pay through bank draft",
+    "answer": ["Bank draft payments may be accepted; confirm with the finance office."]
+  },
+  {
+    "question": "can employers pay fees on behalf of students",
+    "answer": ["Yes, employer sponsorships are accepted."]
+  },
+  {
+    "question": "can I pay fees partially before admission",
+    "answer": ["Usually, full payment or a defined installment is required before admission."]
+  },
+  {
+    "question": "is there a fee for re-examination",
+    "answer": ["Yes, re-exam fees may apply if you need to retake exams."]
+  },
+  {
+    "question": "how do I confirm my payment",
+    "answer": ["Payment confirmation is done via receipt and system updates."]
+  },
+  {
+    "question": "are there fees for library or lab use",
+    "answer": ["No extra fees for library and lab usage."]
+  },
+  {
+    "question": "does the fee include exam fees",
+    "answer": ["Yes, exam fees are included in the tuition."]
+  },
+  {
+    "question": "are there any discounts for group enrollments",
+    "answer": ["Discounts are not generally offered."]
+  },
+  {
+    "question": "what happens if I can’t pay on time",
+    "answer": ["You should contact the administration immediately to discuss options."]
+  },
+  {
+    "question": "can I get an official fee structure document",
+    "answer": ["Yes, the fee structure document is available on the official website."]
+  },
+  {
+    "question": "is the fee amount subject to change",
+    "answer": ["Fees may change annually; always check the latest notice."]
+  },
+  {
+    "question": "how do I get a fee payment slip",
+    "answer": ["You can download the slip from the admission portal after application."]
+  },
+  {
+    "question": "can I pay fees at any bank",
+    "answer": ["Payments must be made through designated banks specified by the university."]
+  },
+  {
+    "question": "is there a fee for course transfer",
+    "answer": ["No transfers are allowed; fees are non-refundable."]
+  },
+  {
+    "question": "do I get a discount if I pay early",
+    "answer": ["Early payment discounts are not offered."]
+  },
+  {
+    "question": "can alumni get fee reductions",
+    "answer": ["Fee concessions for alumni are not standard."]
+  },
+  {
+    "question": "is there a fee for issuing certificates",
+    "answer": ["Certificate issuance fees are included in tuition."]
+  },
+  {
+    "question": "can I pay fees using credit card",
+    "answer": ["Yes, credit card payments are accepted online."]
+  },
+  {
+    "question": "do I get a refund if I fail",
+    "answer": ["Fees are not refunded based on academic performance."]
+  },
+  {
+    "question": "can I pay fees in cash at the university",
+    "answer": ["Yes, cash payments are accepted at the finance office."]
+  },
+  {
+    "question": "do fees include extracurricular activities",
+    "answer": ["No, extracurricular activities may require separate fees."]
+  },
+  {
+    "question": "are there late fees for installment payments",
+    "answer": ["Yes, late payments may incur extra charges."]
+  },
+  {
+    "question": "do I have to pay fees for repeating a course",
+    "answer": ["You may have to pay re-examination or repeat course fees."]
+  },
+  {
+    "question": "how do I get assistance with fee payment",
+    "answer": ["You can contact the finance office for help."]
+  },
+  {
+    "question": "can I get an official receipt in digital form",
+    "answer": ["Yes, digital receipts are provided upon payment."]
+  },
+  {
+    "question": "do I have to pay any deposit",
+    "answer": ["No deposit is required, only tuition and application fees."]
+  },
+  {
+    "question": "can fee payments be made via mobile app",
+    "answer": ["Yes, many mobile banking apps support fee payments."]
+  },
+  {
+    "question": "is the fee structure different for international students",
+    "answer": ["Generally, fees are the same, but check for updates."]
+  },
+  {
+    "question": "do fees cover access to online resources",
+    "answer": ["Yes, online resource access is included."]
+  },
+  {
+    "question": "how soon after payment is my admission confirmed",
+    "answer": ["Admission confirmation usually follows payment verification within a few days."]
+  }
+]

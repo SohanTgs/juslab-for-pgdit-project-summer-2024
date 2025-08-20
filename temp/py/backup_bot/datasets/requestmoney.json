@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hello! Need help requesting money on xCash?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi! How can I assist with money requests in xCash?"
+  },
+  {
+    "question": "Anyone there?",
+    "answer": "Yes, ready to help with your xCash money requests."
+  },
+  {
+    "question": "Need help to request money",
+    "answer": "Sure! What’s your question about requesting money?"
+  },
+  {
+    "question": "How to request money?",
+    "answer": "Use Request Money in xCash to ask someone for funds."
+  },
+  {
+    "question": "Request money not working",
+    "answer": "Try again or contact xCash support if issue persists."
+  },
+  {
+    "question": "Where is request history?",
+    "answer": "Check Transactions > Requests in your xCash app."
+  },
+  {
+    "question": "Can I cancel request?",
+    "answer": "Yes, cancel pending requests from your xCash wallet."
+  },
+  {
+    "question": "Request fees?",
+    "answer": "Usually no fees for requests on xCash."
+  },
+  {
+    "question": "Need support with request",
+    "answer": "I’m here to assist with your xCash money requests."
+  },
+  {
+    "question": "How long to get requested money?",
+    "answer": "Depends on sender; xCash notifies when received."
+  },
+  {
+    "question": "Can I request from multiple people?",
+    "answer": "Yes, send multiple requests through xCash."
+  },
+  {
+    "question": "Why request failed?",
+    "answer": "Check recipient details and try again on xCash."
+  },
+  {
+    "question": "How to remind sender?",
+    "answer": "Use reminder option in xCash request screen."
+  },
+  {
+    "question": "Request limit?",
+    "answer": "Limits depend on your xCash account status."
+  },
+  {
+    "question": "Need quick request",
+    "answer": "Send requests anytime with xCash instantly."
+  },
+  {
+    "question": "Hi, request money help",
+    "answer": "Happy to guide you with xCash money requests."
+  },
+  {
+    "question": "Where to see pending requests?",
+    "answer": "Look under Requests in your xCash wallet."
+  },
+  {
+    "question": "Can I request anonymously?",
+    "answer": "No, xCash requires identity for requests."
+  },
+  {
+    "question": "How to decline request?",
+    "answer": "Use decline option when you get a money request in xCash."
+  },
+  {
+    "question": "How do I ask someone for money?",
+    "answer": "Use xCash’s Request Money feature to send a payment request."
+  },
+  {
+    "question": "Can I request money from friends?",
+    "answer": "Absolutely, xCash lets you request funds from contacts easily."
+  },
+  {
+    "question": "Where do I find the request money option?",
+    "answer": "It’s under the Wallet menu inside the xCash app."
+  },
+  {
+    "question": "Can I add a note when requesting money?",
+    "answer": "Yes, xCash lets you add messages with your request."
+  },
+  {
+    "question": "Is there a fee to request money?",
+    "answer": "No, xCash doesn’t charge fees for money requests."
+  },
+  {
+    "question": "How soon will the request be seen?",
+    "answer": "The recipient gets notified instantly via xCash."
+  },
+  {
+    "question": "Can I cancel a money request?",
+    "answer": "Yes, you can cancel pending requests in xCash."
+  },
+  {
+    "question": "What if they don’t pay?",
+    "answer": "You can send a reminder through xCash easily."
+  },
+  {
+    "question": "Can I request money from someone without xCash?",
+    "answer": "They’ll get an invite to join when you send the request."
+  },
+  {
+    "question": "Is it safe to request money this way?",
+    "answer": "Yes, xCash uses secure channels for all requests."
+  },
+  {
+    "question": "Can I request money for a group?",
+    "answer": "Group requests aren’t supported yet in xCash."
+  },
+  {
+    "question": "How do I check my pending requests?",
+    "answer": "Go to Requests section in your xCash wallet."
+  },
+  {
+    "question": "Will I get notified when money is sent?",
+    "answer": "Yes, xCash sends instant notifications for payments."
+  },
+  {
+    "question": "Can I set a due date on my request?",
+    "answer": "Currently, xCash doesn’t support due dates."
+  },
+  {
+    "question": "How do I send a request again?",
+    "answer": "Find the previous request and resend it via xCash."
+  },
+  {
+    "question": "Are money requests private?",
+    "answer": "Yes, only the sender and recipient see requests."
+  },
+  {
+    "question": "Can I request partial payments?",
+    "answer": "xCash requests are for full amounts only."
+  },
+  {
+    "question": "How do I edit a request?",
+    "answer": "You’ll need to cancel and create a new request in xCash."
+  },
+  {
+    "question": "Does the request expire?",
+    "answer": "Requests remain active until paid or canceled."
+  },
+  {
+    "question": "Can I request money internationally?",
+    "answer": "Yes, xCash supports cross-border money requests."
+  },
+  {
+    "question": "Can I request money multiple times?",
+    "answer": "Yes, you can send multiple requests through xCash."
+  },
+  {
+    "question": "How do I add a recipient to my request?",
+    "answer": "Select a contact or enter their details in xCash."
+  },
+  {
+    "question": "Can I request money via email?",
+    "answer": "Yes, xCash lets you send requests using email invitations."
+  },
+  {
+    "question": "What if the recipient ignores my request?",
+    "answer": "You can send reminders or contact them outside xCash."
+  },
+  {
+    "question": "Can I request different amounts to different people?",
+    "answer": "Yes, each request in xCash can have its own amount."
+  },
+  {
+    "question": "Will the money go directly to my wallet?",
+    "answer": "Yes, funds sent from requests appear in your xCash wallet."
+  },
+  {
+    "question": "Can I see the history of my requests?",
+    "answer": "All requests and their status are saved in xCash."
+  },
+  {
+    "question": "Is there a limit on how much I can request?",
+    "answer": "Limits depend on your xCash account verification level."
+  },
+  {
+    "question": "Can I request money from businesses?",
+    "answer": "Yes, xCash supports requests from business accounts."
+  },
+  {
+    "question": "Do I need to pay fees on received requests?",
+    "answer": "No, xCash doesn’t charge fees on incoming payments."
+  },
+  {
+    "question": "Can I customize the request message?",
+    "answer": "Yes, you can add personalized notes to requests."
+  },
+  {
+    "question": "How do I know if my request is accepted?",
+    "answer": "You get notified instantly when payment is made."
+  },
+  {
+    "question": "Can I request money on behalf of others?",
+    "answer": "Currently, requests must come from your xCash account."
+  },
+  {
+    "question": "What currencies can I request money in?",
+    "answer": "xCash supports multiple currencies for requests."
+  },
+  {
+    "question": "Can I request money anonymously?",
+    "answer": "No, your identity is visible when sending requests."
+  },
+  {
+    "question": "Is there a time limit to pay a request?",
+    "answer": "No strict deadline, but timely payment is recommended."
+  },
+  {
+    "question": "Can I request money from multiple recipients at once?",
+    "answer": "Group requests aren’t available yet in xCash."
+  },
+  {
+    "question": "How do I remind someone about a request?",
+    "answer": "Use the reminder option on the request in xCash."
+  },
+  {
+    "question": "Can I delete a completed request?",
+    "answer": "Completed requests stay for your records in xCash."
+  },
+  {
+    "question": "Are money requests tracked for taxes?",
+    "answer": "Keep records yourself; xCash doesn’t provide tax tracking."
+  },
+  {
+    "question": "Can I request money using a phone number?",
+    "answer": "Yes, xCash allows requests via phone contacts."
+  },
+  {
+    "question": "What if I request the wrong amount?",
+    "answer": "Cancel and resend a corrected request using xCash."
+  },
+  {
+    "question": "Can I attach files to a request?",
+    "answer": "Currently, xCash doesn’t support attachments."
+  },
+  {
+    "question": "How do I know if a request is pending?",
+    "answer": "Pending requests show a status in your xCash wallet."
+  },
+  {
+    "question": "Can I request money for services?",
+    "answer": "Yes, xCash is perfect for requesting payments for services."
+  },
+  {
+    "question": "Is requesting money secure?",
+    "answer": "Absolutely, xCash uses strong encryption for safety."
+  },
+  {
+    "question": "Can I request recurring payments?",
+    "answer": "Recurring requests are not available yet in xCash."
+  },
+  {
+    "question": "How do I report a fraudulent request?",
+    "answer": "Report suspicious activity immediately via xCash support."
+  },
+  {
+    "question": "Can I request money internationally?",
+    "answer": "Yes, xCash supports international payment requests."
+  },
+  {
+    "question": "What happens if I don’t cancel a request?",
+    "answer": "It remains active until paid or canceled in xCash."
+  },
+  {
+    "question": "Can I see who viewed my request?",
+    "answer": "xCash notifies you when the recipient views the request."
+  },
+  {
+    "question": "Do I get a receipt for money received?",
+    "answer": "Yes, xCash provides receipts for completed requests."
+  },
+  {
+    "question": "Can I request money from multiple countries?",
+    "answer": "Yes, xCash supports multi-country requests."
+  },
+  {
+    "question": "Is there a way to make a request anonymous?",
+    "answer": "No, all requests show the sender’s info in xCash."
+  },
+  {
+    "question": "Can I set a reminder for myself to follow up?",
+    "answer": "No built-in reminders yet, but you can track manually."
+  },
+  {
+    "question": "How do I check the status of my request?",
+    "answer": "Status updates are visible in your xCash request list."
+  },
+  {
+    "question": "Can I edit the amount after sending a request?",
+    "answer": "No, cancel and create a new request to change amount."
+  },
+  {
+    "question": "Can I request money from unregistered users?",
+    "answer": "Yes, they get an invite to join xCash to pay you."
+  },
+  {
+    "question": "Are there limits on request frequency?",
+    "answer": "Limits depend on your xCash account status."
+  },
+  {
+    "question": "How fast will I get notified of payment?",
+    "answer": "Notifications arrive instantly once payment clears."
+  },
+  {
+    "question": "Can I cancel a money request after sending?",
+    "answer": "Yes, cancel your request anytime from the xCash app."
+  },
+  {
+    "question": "What if the payer refuses to pay?",
+    "answer": "You can send reminders or contact support through xCash."
+  },
+  {
+    "question": "Are money requests private?",
+    "answer": "Yes, only you and the recipient can see the request in xCash."
+  },
+  {
+    "question": "Can I request money in different currencies?",
+    "answer": "xCash supports multiple currencies for requests."
+  },
+  {
+    "question": "Is there a way to add notes to my requests?",
+    "answer": "Yes, add personalized notes to each request in xCash."
+  },
+  {
+    "question": "Can I request money on behalf of a business?",
+    "answer": "Yes, business accounts can send money requests via xCash."
+  },
+  {
+    "question": "How do I resend a request?",
+    "answer": "Simply select the request and use the resend option in xCash."
+  },
+  {
+    "question": "Can I request partial payments?",
+    "answer": "No, requests are for fixed amounts in xCash."
+  },
+  {
+    "question": "Will I get notified if the request expires?",
+    "answer": "xCash notifies you about expired or canceled requests."
+  },
+  {
+    "question": "Is requesting money free?",
+    "answer": "Yes, sending money requests on xCash is free."
+  },
+  {
+    "question": "Can I request money from multiple people at once?",
+    "answer": "Bulk requests aren’t available yet in xCash."
+  },
+  {
+    "question": "How do I track payments on my requests?",
+    "answer": "Check the payment status anytime in xCash."
+  },
+  {
+    "question": "Can I request money without internet?",
+    "answer": "Requests require internet access to process via xCash."
+  },
+  {
+    "question": "Is there a refund for mistaken requests?",
+    "answer": "Requests aren’t refundable, but you can cancel them."
+  },
+  {
+    "question": "Can I set a due date for a request?",
+    "answer": "No due date feature yet, but timely payment is encouraged."
+  },
+  {
+    "question": "How secure are money requests?",
+    "answer": "xCash uses advanced encryption for secure transactions."
+  },
+  {
+    "question": "Can I request money via social media?",
+    "answer": "Share request links on social media through xCash."
+  },
+  {
+    "question": "Are request notifications customizable?",
+    "answer": "You can adjust notification settings in xCash preferences."
+  },
+  {
+    "question": "Can I request money from unverified accounts?",
+    "answer": "Yes, but verification helps increase trust and limits."
+  },
+  {
+    "question": "What happens if a request is ignored?",
+    "answer": "You can follow up or cancel ignored requests in xCash."
+  },
+  {
+    "question": "Can I request money using QR code?",
+    "answer": "Yes, xCash lets you generate QR codes for easy money requests."
+  },
+  {
+    "question": "How do I know if a request was declined?",
+    "answer": "xCash notifies you if the recipient declines a request."
+  },
+  {
+    "question": "Can I request money from a group chat?",
+    "answer": "You can share request links in group chats using xCash."
+  },
+  {
+    "question": "Are there any charges for receiving requested money?",
+    "answer": "Receiving money via requests is free on xCash."
+  },
+  {
+    "question": "Can I set reminders for unpaid requests?",
+    "answer": "xCash automatically sends reminders for pending requests."
+  },
+  {
+    "question": "How to dispute a request payment?",
+    "answer": "Contact xCash support to resolve disputes quickly."
+  },
+  {
+    "question": "Is it possible to hide request history?",
+    "answer": "Request history is private but can’t be hidden in xCash."
+  },
+  {
+    "question": "Can I request money for shared bills?",
+    "answer": "Yes, xCash makes it easy to request money for shared expenses."
+  },
+  {
+    "question": "Do requested funds show in my balance immediately?",
+    "answer": "Funds appear after the payer completes the transaction."
+  },
+  {
+    "question": "Can I export my request history?",
+    "answer": "Export options are coming soon in xCash."
+  },
+  {
+    "question": "Can I link my bank to receive requested money?",
+    "answer": "Yes, link your bank for faster money transfers via xCash."
+  },
+  {
+    "question": "How to remind someone about a pending request?",
+    "answer": "Use the reminder button on the request in xCash."
+  },
+  {
+    "question": "Are requests tracked by date and time?",
+    "answer": "Yes, each request logs date and time in xCash."
+  },
+  {
+    "question": "Can I request money from multiple contacts separately?",
+    "answer": "Yes, send individual requests to multiple contacts."
+  },
+  {
+    "question": "What if the request amount is wrong?",
+    "answer": "Cancel the request and send a corrected one via xCash."
+  },
+  {
+    "question": "Can I request money while offline?",
+    "answer": "No, internet is required to send requests in xCash."
+  },
+  {
+    "question": "Do I get notified when a request is paid partially?",
+    "answer": "Partial payments are not supported in xCash requests."
+  },
+  {
+    "question": "Can I customize request messages?",
+    "answer": "Yes, add a note to personalize your money requests."
+  },
+  {
+    "question": "Is there a maximum limit per money request?",
+    "answer": "Limits depend on your xCash account verification level."
+  },
+  {
+    "question": "Can I block someone from sending me requests?",
+    "answer": "Yes, manage your privacy settings in xCash to block requests."
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "question": "what subjects are covered",
+    "answer": ["Topics include software engineering, data science, cloud computing, and cybersecurity."]
+  },
+  {
+    "question": "will I learn programming",
+    "answer": ["Yes! Programming is a key part of the PGDIT curriculum."]
+  },
+  {
+    "question": "does it include cloud computing",
+    "answer": ["Yes, cloud computing is one of the major modules covered."]
+  },
+  {
+    "question": "is cybersecurity taught",
+    "answer": ["Absolutely, cybersecurity is a core subject."]
+  },
+  {
+    "question": "will I study data analytics",
+    "answer": ["Yes, data analytics and big data topics are included."]
+  },
+  {
+    "question": "do I learn database management",
+    "answer": ["Yes, database systems and management are part of the syllabus."]
+  },
+  {
+    "question": "what programming languages are taught",
+    "answer": ["Languages like Java, Python, and C# are taught."]
+  },
+  {
+    "question": "is software engineering part of the course",
+    "answer": ["Yes, you'll learn software development methodologies."]
+  },
+  {
+    "question": "are there project management topics",
+    "answer": ["Yes, IT project management is included."]
+  },
+  {
+    "question": "do we have practical lab sessions",
+    "answer": ["Yes, labs are included to practice what you learn."]
+  },
+  {
+    "question": "are there any courses on networking",
+    "answer": ["Basic networking concepts are covered."]
+  },
+  {
+    "question": "will I learn about cloud services",
+    "answer": ["Yes, the curriculum includes cloud platforms and services."]
+  },
+  {
+    "question": "do I study web development",
+    "answer": ["Yes, web development fundamentals are taught."]
+  },
+  {
+    "question": "is mobile app development part of PGDIT",
+    "answer": ["Yes, you will be introduced to mobile app development basics."]
+  },
+  {
+    "question": "is AI or machine learning included",
+    "answer": ["Basic AI concepts may be touched upon in data science modules."]
+  },
+  {
+    "question": "do we learn about operating systems",
+    "answer": ["Yes, fundamental OS concepts are part of the course."]
+  },
+  {
+    "question": "is ethical hacking taught",
+    "answer": ["Ethical hacking and security basics are included in cybersecurity."]
+  },
+  {
+    "question": "are there courses on software testing",
+    "answer": ["Yes, software quality assurance and testing methods are covered."]
+  },
+  {
+    "question": "what kind of projects will I do",
+    "answer": ["You’ll do software development and data analysis projects."]
+  },
+  {
+    "question": "will I learn cloud infrastructure management",
+    "answer": ["Yes, managing cloud infrastructure is part of the syllabus."]
+  },
+  {
+    "question": "do we cover database query languages",
+    "answer": ["Yes, SQL and other query languages are taught."]
+  },
+  {
+    "question": "are there topics on IT governance",
+    "answer": ["Basic IT governance concepts are included."]
+  },
+  {
+    "question": "is there a focus on emerging technologies",
+    "answer": ["Yes, current IT trends like cloud and cybersecurity are emphasized."]
+  },
+  {
+    "question": "is there any group project work",
+    "answer": ["Yes, teamwork on projects is encouraged."]
+  },
+  {
+    "question": "do we study software architecture",
+    "answer": ["Yes, principles of software architecture are covered."]
+  },
+  {
+    "question": "what tools and software will I use",
+    "answer": ["You’ll use modern programming and database tools in labs."]
+  },
+  {
+    "question": "is there a final project",
+    "answer": ["Yes, a final project is required for program completion."]
+  },
+  {
+    "question": "how technical is the curriculum",
+    "answer": ["It balances theory and practical IT skills."]
+  },
+  {
+    "question": "do we learn about cloud security",
+    "answer": ["Yes, cloud security topics are part of the program."]
+  },
+  {
+    "question": "will I learn to develop software professionally",
+    "answer": ["Yes, professional software development practices are taught."]
+  },
+  {
+    "question": "does the course include case studies",
+    "answer": ["Yes, real-world case studies are included."]
+  },
+  {
+    "question": "are ethics covered in IT topics",
+    "answer": ["Yes, IT ethics and professional responsibility are part of the curriculum."]
+  },
+  {
+    "question": "are programming assignments given regularly",
+    "answer": ["Yes, assignments are given to practice coding skills."]
+  },
+  {
+    "question": "do we learn about software maintenance",
+    "answer": ["Yes, software maintenance and lifecycle topics are taught."]
+  },
+  {
+    "question": "is cloud deployment covered",
+    "answer": ["Yes, deploying applications on the cloud is taught."]
+  },
+  {
+    "question": "do we study information systems",
+    "answer": ["Yes, basics of information systems are included."]
+  },
+  {
+    "question": "are presentations part of the course",
+    "answer": ["Yes, students present projects and reports."]
+  },
+  {
+    "question": "will I learn scripting languages",
+    "answer": ["Yes, scripting basics like Python are covered."]
+  },
+  {
+    "question": "is Linux covered in the program",
+    "answer": ["Yes, basic Linux commands and OS concepts are taught."]
+  },
+  {
+    "question": "is there any focus on cloud service providers",
+    "answer": ["Yes, popular providers like AWS or Azure are introduced."]
+  },
+  {
+    "question": "will I learn data visualization",
+    "answer": ["Yes, data visualization techniques are part of data analytics."]
+  },
+  {
+    "question": "are there elective subjects",
+    "answer": ["The program primarily follows a fixed syllabus with no electives."]
+  },
+  {
+    "question": "do we cover software development methodologies",
+    "answer": ["Yes, Agile and other methodologies are taught."]
+  },
+  {
+    "question": "is project documentation included",
+    "answer": ["Yes, documenting software projects is part of the coursework."]
+  },
+  {
+    "question": "do I learn about web security",
+    "answer": ["Yes, web security basics are covered."]
+  },
+  {
+    "question": "are cloud storage concepts included",
+    "answer": ["Yes, cloud storage and management are taught."]
+  }
+]

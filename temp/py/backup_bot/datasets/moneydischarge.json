@@ -1,0 +1,746 @@
+[
+  {
+    "question": "Hi",
+    "answer": "Hello! How can I assist you with money discharge in xCash?"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hi! Need help with discharging funds in xCash?"
+  },
+  {
+    "question": "Anyone there?",
+    "answer": "Yes, here to help you with xCash money discharge."
+  },
+  {
+    "question": "Need support",
+    "answer": "Sure! Tell me your xCash discharge issue."
+  },
+  {
+    "question": "How do I discharge money?",
+    "answer": "Go to the discharge section in xCash to get started."
+  },
+  {
+    "question": "Discharge not working",
+    "answer": "Try again or contact xCash support for help."
+  },
+  {
+    "question": "Where to discharge?",
+    "answer": "Find discharge options inside your xCash wallet."
+  },
+  {
+    "question": "Is discharge instant?",
+    "answer": "Usually yes, xCash processes discharges quickly."
+  },
+  {
+    "question": "Can I cancel discharge?",
+    "answer": "Discharges usually can’t be canceled once done."
+  },
+  {
+    "question": "Need help with discharge",
+    "answer": "I’m here! What’s your discharge question?"
+  },
+  {
+    "question": "How long discharge takes?",
+    "answer": "Most discharges finish within minutes on xCash."
+  },
+  {
+    "question": "Is discharge free?",
+    "answer": "Some fees may apply; check xCash for details."
+  },
+  {
+    "question": "Discharge failed",
+    "answer": "Please verify your info and try again on xCash."
+  },
+  {
+    "question": "Hi, I want to withdraw",
+    "answer": "Use the discharge feature in xCash to withdraw funds."
+  },
+  {
+    "question": "Can I discharge to bank?",
+    "answer": "Yes, xCash supports bank discharges."
+  },
+  {
+    "question": "Where is discharge history?",
+    "answer": "Check Transactions > Discharges in your xCash app."
+  },
+  {
+    "question": "Discharge limit?",
+    "answer": "Limits depend on your xCash account type."
+  },
+  {
+    "question": "How to fix discharge error?",
+    "answer": "Contact xCash support or try restarting the app."
+  },
+  {
+    "question": "Need quick discharge",
+    "answer": "xCash processes discharges fast in most cases."
+  },
+  {
+    "question": "Hi, need discharge help",
+    "answer": "Happy to assist you with xCash discharge anytime."
+  },
+  {
+    "question": "How do I release my funds?",
+    "answer": "To release your funds, go to the discharge section in xCash."
+  },
+  {
+    "question": "Where can I send my money?",
+    "answer": "With xCash, you can discharge your balance to linked accounts or wallets."
+  },
+  {
+    "question": "What's the process to clear out my balance?",
+    "answer": "In xCash, just navigate to Money Discharge and follow the steps."
+  },
+  {
+    "question": "Is there any way to remove my funds?",
+    "answer": "Yes, xCash allows easy fund discharge to your bank or mobile wallet."
+  },
+  {
+    "question": "Can I push money out?",
+    "answer": "Absolutely. Use the discharge option in xCash for that."
+  },
+  {
+    "question": "How can I drain the balance?",
+    "answer": "You can discharge your xCash funds directly to your linked account."
+  },
+  {
+    "question": "What's the way to get my money out?",
+    "answer": "Use xCash’s discharge feature for fast withdrawals."
+  },
+  {
+    "question": "I need to move my money",
+    "answer": "xCash makes fund discharge smooth and secure."
+  },
+  {
+    "question": "Where's the discharge setting?",
+    "answer": "Look under the Wallet menu in xCash to find it."
+  },
+  {
+    "question": "I want to discharge now",
+    "answer": "Sure, just select your destination inside xCash and confirm."
+  },
+  {
+    "question": "Is money release instant?",
+    "answer": "Yes, xCash processes most discharges instantly."
+  },
+  {
+    "question": "Can I send it to my bank?",
+    "answer": "Yes, xCash supports direct bank discharges."
+  },
+  {
+    "question": "How long does it take to release funds?",
+    "answer": "xCash usually completes discharges within minutes."
+  },
+  {
+    "question": "Any fees for discharge?",
+    "answer": "xCash charges minimal fees for money discharges."
+  },
+  {
+    "question": "Discharge not working",
+    "answer": "Please check your network and try again via xCash app."
+  },
+  {
+    "question": "Is discharge available 24/7?",
+    "answer": "Yes, xCash lets you discharge money anytime."
+  },
+  {
+    "question": "How do I cancel a discharge?",
+    "answer": "Go to History in xCash and check if cancellation is available."
+  },
+  {
+    "question": "Can I discharge to another wallet?",
+    "answer": "Definitely. xCash supports various wallet discharges."
+  },
+  {
+    "question": "Is discharge reversible?",
+    "answer": "Usually not. Always verify details before confirming in xCash."
+  },
+  {
+    "question": "Need help with fund removal",
+    "answer": "No worries! xCash support is here to guide you."
+  },
+  {
+    "question": "How can I withdraw funds from wallet?",
+    "answer": "Just use the discharge tab inside your xCash dashboard."
+  },
+  {
+    "question": "Money stuck, what now?",
+    "answer": "Please refresh and retry the discharge in xCash."
+  },
+  {
+    "question": "Trying to discharge but fails",
+    "answer": "Make sure your xCash account is verified and try again."
+  },
+  {
+    "question": "Is there a limit on discharge?",
+    "answer": "Yes, xCash has daily and monthly discharge limits."
+  },
+  {
+    "question": "Can I split my discharge?",
+    "answer": "xCash allows you to split amounts across destinations."
+  },
+  {
+    "question": "Can I discharge to cards?",
+    "answer": "Yes, xCash supports Visa and Mastercard withdrawals."
+  },
+  {
+    "question": "Does it support PayPal?",
+    "answer": "Currently, xCash does not support PayPal discharges."
+  },
+  {
+    "question": "Can I discharge without KYC?",
+    "answer": "xCash requires KYC before enabling money discharge."
+  },
+  {
+    "question": "How to update discharge method?",
+    "answer": "Go to xCash settings and edit your linked accounts."
+  },
+  {
+    "question": "Why is my discharge delayed?",
+    "answer": "xCash may delay transfers during bank downtimes."
+  },
+  {
+    "question": "Is it safe to discharge funds?",
+    "answer": "Yes, xCash uses bank-grade encryption for all actions."
+  },
+  {
+    "question": "Can I schedule a discharge?",
+    "answer": "xCash supports future-dated discharges for convenience."
+  },
+  {
+    "question": "Can I automate my discharges?",
+    "answer": "Recurring discharges are available inside xCash settings."
+  },
+  {
+    "question": "How do I set default discharge method?",
+    "answer": "In xCash, you can mark a preferred withdrawal method."
+  },
+  {
+    "question": "Where is discharge history?",
+    "answer": "Check the ‘Transactions’ section in xCash for that."
+  },
+  {
+    "question": "I entered wrong details",
+    "answer": "Please contact xCash support if it was already submitted."
+  },
+  {
+    "question": "Can I discharge to another country?",
+    "answer": "xCash supports international discharges to select countries."
+  },
+  {
+    "question": "Discharge button missing",
+    "answer": "Update your xCash app and try again."
+  },
+  {
+    "question": "How do I get a discharge receipt?",
+    "answer": "xCash provides receipts under your transaction history."
+  },
+  {
+    "question": "Do I need approval to discharge?",
+    "answer": "Once verified, xCash allows discharges without extra approval."
+  },
+  {
+    "question": "Do I need a PIN to discharge?",
+    "answer": "Yes, xCash asks for your PIN before completing the process."
+  },
+  {
+    "question": "Can I stop an ongoing discharge?",
+    "answer": "If it's pending, xCash may allow cancellation in history."
+  },
+  {
+    "question": "Why can't I find the discharge tab?",
+    "answer": "Ensure your xCash role has discharge privileges enabled."
+  },
+  {
+    "question": "Can I discharge coins?",
+    "answer": "xCash supports digital and fiat discharges separately."
+  },
+  {
+    "question": "Is it safe to discharge large amounts?",
+    "answer": "Yes, xCash ensures secure processing for high-value discharges."
+  },
+  {
+    "question": "Do I get a confirmation?",
+    "answer": "xCash sends SMS and email confirmations for each discharge."
+  },
+  {
+    "question": "Is discharge taxable?",
+    "answer": "Taxation depends on your region. xCash doesn’t deduct taxes."
+  },
+  {
+    "question": "Can I use USSD for discharge?",
+    "answer": "xCash supports USSD discharge in supported regions."
+  },
+  {
+    "question": "Is there a chargeback option?",
+    "answer": "xCash does not support chargebacks for discharges."
+  },
+  {
+    "question": "Do I need mobile data?",
+    "answer": "Yes, xCash requires an internet connection to initiate discharges."
+  },
+  {
+    "question": "Where does the money go?",
+    "answer": "It goes to the account you chose inside xCash."
+  },
+  {
+    "question": "Can I use QR for discharge?",
+    "answer": "QR discharge is available in the xCash Pro version."
+  },
+  {
+    "question": "Can I use NFC to discharge?",
+    "answer": "Currently, xCash does not support NFC-based discharges."
+  },
+  {
+    "question": "App crashed during discharge",
+    "answer": "Reopen xCash and check your transaction history first."
+  },
+  {
+    "question": "Why is my discharge on hold?",
+    "answer": "Some xCash transactions go under review for security."
+  },
+  {
+    "question": "Can I add notes to discharge?",
+    "answer": "Yes, xCash lets you write memos while discharging."
+  },
+  {
+    "question": "How often can I discharge?",
+    "answer": "You can do it multiple times daily as per xCash limits."
+  },
+  {
+    "question": "Can I remove saved discharge methods?",
+    "answer": "Yes, xCash allows deleting linked accounts anytime."
+  },
+  {
+    "question": "Does the bank get notified?",
+    "answer": "xCash handles the notification when discharging to banks."
+  },
+  {
+    "question": "Will I get an SMS?",
+    "answer": "xCash sends SMS alerts for every successful discharge."
+  },
+  {
+    "question": "Do I need OTP?",
+    "answer": "xCash will send you an OTP to verify the discharge."
+  },
+  {
+    "question": "I made a mistake",
+    "answer": "Please raise a ticket from your xCash profile."
+  },
+  {
+    "question": "Which currencies are allowed?",
+    "answer": "xCash supports major currencies like USD, EUR, BDT."
+  },
+  {
+    "question": "Can I pause a discharge?",
+    "answer": "xCash doesn't support pausing once it starts."
+  },
+  {
+    "question": "Are there weekend delays?",
+    "answer": "Some banks delay over weekends, but xCash processes instantly."
+  },
+  {
+    "question": "Can I change discharge currency?",
+    "answer": "Yes, xCash lets you choose currency before confirming."
+  },
+  {
+    "question": "How to contact support?",
+    "answer": "Go to the Help section inside your xCash app."
+  },
+  {
+    "question": "How do I confirm it's done?",
+    "answer": "xCash will show 'Completed' on your transaction receipt."
+  },
+  {
+    "question": "My discharge failed",
+    "answer": "Check your account details and retry via xCash."
+  },
+  {
+    "question": "Can I use multiple banks?",
+    "answer": "Yes, link as many banks as you want in xCash."
+  },
+  {
+    "question": "Where do I set my limits?",
+    "answer": "In xCash settings, you can configure discharge limits."
+  },
+  {
+    "question": "Who can I discharge to?",
+    "answer": "xCash supports discharging to self or verified contacts."
+  },
+  {
+    "question": "Why is it greyed out?",
+    "answer": "You might need to complete KYC in xCash first."
+  },
+  {
+    "question": "How do I verify my discharge?",
+    "answer": "xCash adds a tracking ID you can use to confirm."
+  },
+  {
+    "question": "Can I resend a failed discharge?",
+    "answer": "Yes, just tap retry inside xCash transaction history."
+  },
+  {
+    "question": "How do I remove a beneficiary?",
+    "answer": "In xCash, go to Discharge Settings to manage contacts."
+  },
+  {
+    "question": "Can I use voice to discharge?",
+    "answer": "Voice commands are coming soon to xCash Premium."
+  },
+  {
+    "question": "What if app closes?",
+    "answer": "xCash saves your request. Just reopen and resume."
+  },
+  {
+    "question": "Where do I view all discharges?",
+    "answer": "Visit your wallet log in the xCash portal."
+  },
+  {
+    "question": "Can I request discharge approval?",
+    "answer": "Some xCash teams use manager approval flows."
+  },
+  {
+    "question": "Will I get notified?",
+    "answer": "xCash sends instant push notifications after every discharge."
+  },
+  {
+    "question": "Why is amount incorrect?",
+    "answer": "Please check conversion rate applied by xCash."
+  },
+  {
+    "question": "Is it possible to track?",
+    "answer": "Yes, xCash gives a full status timeline for discharges."
+  },
+  {
+    "question": "Can I cancel halfway?",
+    "answer": "Only pending discharges can be canceled in xCash."
+  },
+  {
+    "question": "Where do I see limits?",
+    "answer": "xCash limit policies are shown in your profile."
+  },
+  {
+    "question": "Who approves my request?",
+    "answer": "Once submitted, xCash routes it through auto-approval unless flagged."
+  },
+  {
+    "question": "How to move out funds?",
+    "answer": "xCash lets you move funds easily through the discharge section."
+  },
+  {
+    "question": "Any way to release funds faster?",
+    "answer": "xCash supports fast discharges to linked accounts."
+  },
+  {
+    "question": "Can I discharge to someone else?",
+    "answer": "Yes, xCash allows discharging to verified external accounts."
+  },
+  {
+    "question": "Need to withdraw to another wallet",
+    "answer": "You can send funds from xCash to multiple wallet platforms."
+  },
+  {
+    "question": "Trying to find discharge feature",
+    "answer": "You’ll find it under Wallet > Discharge inside the xCash app."
+  },
+  {
+    "question": "What’s the discharge delay?",
+    "answer": "xCash typically completes discharges in under 5 minutes."
+  },
+  {
+    "question": "Why can’t I remove funds?",
+    "answer": "Check if your xCash wallet is verified and has sufficient balance."
+  },
+  {
+    "question": "How do I exit my money?",
+    "answer": "Just go to the discharge tab in your xCash dashboard."
+  },
+  {
+    "question": "Need to stop a fund release",
+    "answer": "Use the activity log in xCash to cancel if it’s still pending."
+  },
+  {
+    "question": "Any manual method to discharge?",
+    "answer": "xCash offers both manual and auto discharge modes."
+  },
+  {
+    "question": "How to get payment from wallet?",
+    "answer": "Discharge your xCash balance to your preferred account."
+  },
+  {
+    "question": "What's the discharge limit?",
+    "answer": "Limits depend on your verification level in xCash."
+  },
+  {
+    "question": "Can I remove only part of it?",
+    "answer": "Yes, xCash lets you specify any amount to discharge."
+  },
+  {
+    "question": "I didn’t get my money",
+    "answer": "If the xCash discharge is delayed, contact support."
+  },
+  {
+    "question": "Want to avoid charges",
+    "answer": "xCash keeps discharge fees as low as possible."
+  },
+  {
+    "question": "Can I use discharge daily?",
+    "answer": "Absolutely! xCash allows multiple discharges daily."
+  },
+  {
+    "question": "Looking for payout option",
+    "answer": "xCash discharge is what you’re looking for."
+  },
+  {
+    "question": "Discharge not showing",
+    "answer": "Log out and back in to refresh xCash features."
+  },
+  {
+    "question": "Is it safe to discharge?",
+    "answer": "Yes, xCash uses top-grade security for all discharges."
+  },
+  {
+    "question": "Funds stuck in process",
+    "answer": "Reach out to xCash support if your discharge is delayed."
+  },
+  {
+    "question": "Where is the payout option?",
+    "answer": "In xCash, look for the Discharge tab under Wallet."
+  },
+  {
+    "question": "Money not sent yet",
+    "answer": "Sometimes xCash discharges take a few minutes to process."
+  },
+  {
+    "question": "Trying to release money",
+    "answer": "Open the xCash app and select Discharge to proceed."
+  },
+  {
+    "question": "Can I push funds to my card?",
+    "answer": "Yes, xCash allows card-linked fund discharges."
+  },
+  {
+    "question": "Is fund release automated?",
+    "answer": "You can enable auto-discharge in xCash settings."
+  },
+  {
+    "question": "Can I remove everything at once?",
+    "answer": "xCash lets you discharge the full available balance."
+  },
+  {
+    "question": "How do I remove excess balance?",
+    "answer": "Use the Discharge option in xCash to clear it out."
+  },
+  {
+    "question": "Trying to get funds transferred out",
+    "answer": "xCash discharges handle that smoothly for you."
+  },
+  {
+    "question": "How often can I discharge?",
+    "answer": "xCash has no daily limit for verified users."
+  },
+  {
+    "question": "Need payout proof",
+    "answer": "You can download discharge receipts from xCash history."
+  },
+  {
+    "question": "Need to change discharge account",
+    "answer": "Update your preferred account from xCash settings."
+  },
+  {
+    "question": "Want to send funds out fast",
+    "answer": "Use Express Discharge in xCash for quicker transfers."
+  },
+  {
+    "question": "Can I discharge after midnight?",
+    "answer": "Yes, xCash supports 24/7 fund discharges."
+  },
+  {
+    "question": "Error during discharge",
+    "answer": "Retry the operation or check status in xCash activity."
+  },
+  {
+    "question": "How to fix failed discharge?",
+    "answer": "Check your bank info and try again via xCash."
+  },
+  {
+    "question": "Why is my money stuck?",
+    "answer": "It may be under review. xCash will notify you if needed."
+  },
+  {
+    "question": "Discharge button missing",
+    "answer": "Make sure your xCash app is updated to the latest version."
+  },
+  {
+    "question": "I need my funds now",
+    "answer": "Use Instant Discharge on xCash for immediate transfer."
+  },
+  {
+    "question": "Who can I contact for discharge issue?",
+    "answer": "xCash support team is always ready to help."
+  },
+  {
+    "question": "Can I split discharges?",
+    "answer": "Yes, xCash allows splitting amounts across multiple accounts."
+  },
+  {
+    "question": "Discharge taking too long",
+    "answer": "xCash usually processes quickly, but some banks may delay."
+  },
+  {
+    "question": "Can I queue multiple discharges?",
+    "answer": "Yes, xCash lets you schedule multiple discharge requests."
+  },
+  {
+    "question": "Trying to cash out through discharge",
+    "answer": "Discharge through xCash is the right way to go."
+  },
+  {
+    "question": "Need help releasing wallet funds",
+    "answer": "You can use xCash to discharge directly to your bank."
+  },
+  {
+    "question": "How do I unlock my balance?",
+    "answer": "If locked, verify your xCash account to enable discharge."
+  },
+  {
+    "question": "Can I discharge to PayPal?",
+    "answer": "Currently, xCash supports bank and mobile wallets only."
+  },
+  {
+    "question": "How do I see pending discharges?",
+    "answer": "Check the Activity section in your xCash dashboard."
+  },
+  {
+    "question": "Want to withdraw using discharge",
+    "answer": "xCash makes fund withdrawal seamless via discharge."
+  },
+  {
+    "question": "Trying to get leftover funds",
+    "answer": "Use xCash to discharge your remaining balance anytime."
+  },
+  {
+    "question": "Is discharge tracked?",
+    "answer": "Yes, all xCash discharges are logged with full details."
+  },
+  {
+    "question": "Need statement for discharges",
+    "answer": "xCash provides downloadable reports for all activities."
+  },
+  {
+    "question": "Where can I track my release?",
+    "answer": "Use the xCash transaction history to follow each step."
+  },
+  {
+    "question": "Can't find discharge confirmation",
+    "answer": "You can resend it from your xCash history panel."
+  },
+  {
+    "question": "Can I discharge to someone else’s account?",
+    "answer": "xCash allows that if the account is verified."
+  },
+  {
+    "question": "Can I discharge via QR?",
+    "answer": "xCash supports QR-based discharges to linked payees."
+  },
+  {
+    "question": "Need emergency discharge",
+    "answer": "xCash Express lets you process urgent discharges instantly."
+  },
+  {
+    "question": "Is it possible to delay discharge?",
+    "answer": "xCash lets you schedule discharges for later."
+  },
+  {
+    "question": "How to avoid wrong account?",
+    "answer": "Double-check account details before confirming in xCash."
+  },
+  {
+    "question": "Can I discharge from savings?",
+    "answer": "Yes, xCash allows discharges from all wallet types."
+  },
+  {
+    "question": "Where to confirm discharge details?",
+    "answer": "Before submitting, xCash shows a final confirmation screen."
+  },
+  {
+    "question": "How to get payout confirmation?",
+    "answer": "xCash sends a receipt once your discharge is complete."
+  },
+  {
+    "question": "I entered the wrong amount",
+    "answer": "Cancel quickly if pending, or contact xCash support."
+  },
+  {
+    "question": "Can I discharge in parts?",
+    "answer": "Yes, xCash allows partial fund discharges as needed."
+  },
+  {
+    "question": "How do I resend the discharge email?",
+    "answer": "Go to your discharge history in xCash and choose 'Resend.'"
+  },
+  {
+    "question": "Is discharge taxable?",
+    "answer": "Depending on your region, xCash may report large discharges."
+  },
+  {
+    "question": "Need help understanding discharge rules",
+    "answer": "xCash has full discharge guidelines under Help & FAQ."
+  },
+  {
+    "question": "Can I reverse a completed discharge?",
+    "answer": "xCash does not allow reversal once a discharge is finalized."
+  },
+  {
+    "question": "Discharged but didn’t receive",
+    "answer": "Please wait a few minutes, then check with your bank and xCash."
+  },
+  {
+    "question": "Why was discharge rejected?",
+    "answer": "xCash may reject it due to invalid account details or limits."
+  },
+  {
+    "question": "Want to delete a discharge record",
+    "answer": "Discharge logs in xCash are permanent for audit reasons."
+  },
+  {
+    "question": "Where’s my money?",
+    "answer": "Check your bank and xCash activity log for updates."
+  },
+  {
+    "question": "Account says pending",
+    "answer": "It means xCash is still processing your discharge."
+  },
+  {
+    "question": "What happens after I discharge?",
+    "answer": "xCash transfers the money and logs it in your activity."
+  },
+  {
+    "question": "Is discharge available on holidays?",
+    "answer": "Yes, xCash discharges work even during holidays."
+  },
+  {
+    "question": "Can I choose discharge method?",
+    "answer": "xCash lets you pick from saved payout options."
+  },
+  {
+    "question": "Trying to discharge but app crashes",
+    "answer": "Try updating your xCash app to the latest version."
+  },
+  {
+    "question": "Can I discharge to a joint account?",
+    "answer": "Yes, xCash supports verified joint accounts too."
+  },
+  {
+    "question": "Can I get notifications?",
+    "answer": "xCash notifies you by email and in-app after discharges."
+  },
+  {
+    "question": "Does xCash log all discharges?",
+    "answer": "Yes, every discharge is securely recorded in xCash."
+  },
+  {
+    "question": "What’s the minimum I can discharge?",
+    "answer": "xCash requires a small minimum amount to start discharge."
+  }
+]
